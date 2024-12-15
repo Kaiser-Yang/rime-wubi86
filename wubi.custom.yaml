@@ -1,5 +1,18 @@
 patch:
-  switches/@2/reset: 1 # 显示拆字
+  switches:
+    - name: ascii_mode
+      states: [ 中,英 ]
+    - name: zh_trad
+      states: [ 简,繁 ]
+    - name: show_es
+      states: [ 💀, 😄 ]
+    - name: GB2312
+      states: [ 扩,常 ]
+    - name: new_spelling
+      reset: 1
+      states: [ 隐,显 ]
+    - name: new_hide_pinyin
+      states: [ 音,哑 ]
   speller/delimiter: null
   speller/max_code_length: 4
   speller/delimiter/alphabet: zyxwvutsrqponmlkjihgfedcba
