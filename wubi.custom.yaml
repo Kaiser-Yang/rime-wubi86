@@ -17,8 +17,6 @@ patch:
   speller/max_code_length: 4
   speller/delimiter/alphabet: zyxwvutsrqponmlkjihgfedcba
   speller/delimiter/initials: zyxwvutsrqponmlkjihgfedcba
-  mkst: null
-  rvl_zhuyin: null
   reverse_lookup/prism: double_pinyin_flypy
   rvlk1/prism: double_pinyin_flypy
   recognizer/patterns/mkst: null
