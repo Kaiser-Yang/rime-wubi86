@@ -35,5 +35,5 @@ settings.json
 *.userdb/
 *.userdb.old
 /*.txt
-/*.custom.yaml
+# /*.custom.yaml
 *.DS_Store

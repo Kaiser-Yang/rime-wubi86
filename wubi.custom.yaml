@@ -1,0 +1,18 @@
+patch:
+  switches/@2/reset: 1 # 显示拆字
+  speller/delimiter: null
+  speller/max_code_length: 4
+  speller/delimiter/alphabet: zyxwvutsrqponmlkjihgfedcba
+  speller/delimiter/initials: zyxwvutsrqponmlkjihgfedcba
+  mkst: null
+  rvl_zhuyin: null
+  reverse_lookup/prism: double_pinyin_flypy
+  rvlk1/prism: double_pinyin_flypy
+  recognizer/patterns/mkst: null
+  recognizer/patterns/zhuyin: null
+  recognizer/patterns/expression: null # forbid calculator, such as =1+1 output 2
+  key_binder/bindings:
+      - {send: Escape, accept: space, when: composing}
+      - {send: space, accept: space, when: has_menu}
+      - {accept: semicolon, send: 2, when: has_menu}
+      - {accept: apostrophe, send: 3, when: has_menu}

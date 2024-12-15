@@ -94,9 +94,6 @@ end
 
 -- 获取当天日期
 local function get_date(input, seg)
-    local dt_nums = get_date_nums()
-    local dt_str = dt_nums[1].."年"..dt_nums[2].."月"..dt_nums[3].."日"
-    yield(Candidate(input, seg.start, seg._end, dt_str, "〈日期〉"))
     yield(Candidate(input, seg.start, seg._end, os.date("%Y-%m-%d"), "〈日期〉"))
     yield(Candidate(input, seg.start, seg._end, os.date("%Y%m%d"), "〈日期〉"))
     yield(Candidate(input, seg.start, seg._end, os.date("%Y年%m月%d日"), "〈日期〉"))
@@ -115,9 +112,6 @@ end
 
 -- 获取时间戳
 local function get_time(input, seg)
-    local dt_nums = get_date_nums()
-    local dt_str = dt_nums[1].."年"..dt_nums[2].."月"..dt_nums[3].."日"
-    yield(Candidate(input, seg.start, seg._end, dt_str.." "..os.date("%H:%M:%S"), "〈时间〉"))
     yield(Candidate(input, seg.start, seg._end, os.date("%Y-%m-%d").." "..os.date("%H:%M:%S"), "〈时间〉"))
     yield(Candidate(input, seg.start, seg._end, os.date("%H:%M:%S"), "〈时间〉"))
     yield(Candidate(input, seg.start, seg._end, os.date("%H").."时"..os.date("%M").."分"..os.date("%S").."秒", "〈时间〉"))

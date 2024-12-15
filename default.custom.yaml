@@ -1,0 +1,15 @@
+patch:
+  schema_list:
+    - {schema: wubi}
+    - {schema: wb_spelling}
+    - {schema: double_pinyin_flypy}
+
+  switcher/hotkeys:
+    - Control+o
+
+  key_binder/bindings:
+    - key_bindings:/paging_with_minus_equal
+    - key_bindings:/paging_with_comma_period
+
+  ascii_composer/switch_key/Caps_Lock: commit_code
+  ascii_composer/switch_key/Eisu_toggle: noop
