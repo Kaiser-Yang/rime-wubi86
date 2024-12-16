@@ -10,6 +10,7 @@ sort: by_weight
 import_tables:
   - wubi
   - quick_symbols
+  - private_symbols
 columns:
   - text
   - code
