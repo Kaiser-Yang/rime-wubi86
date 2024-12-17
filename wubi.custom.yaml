@@ -15,8 +15,8 @@ patch:
       states: [ 音,哑 ]
   speller/delimiter: null
   speller/max_code_length: 4
-  speller/delimiter/alphabet: zyxwvutsrqponmlkjihgfedcba
-  speller/delimiter/initials: zyxwvutsrqponmlkjihgfedcba
+  speller/alphabet: zyxwvutsrqponmlkjihgfedcba
+  speller/initials: null
   reverse_lookup/prism: double_pinyin_flypy
   rvlk1/prism: double_pinyin_flypy
   recognizer/patterns/mkst: null
