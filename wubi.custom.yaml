@@ -28,3 +28,7 @@ patch:
       - {accept: space, send: space, when: has_menu}
       - {accept: semicolon, send: 2, when: has_menu}
       - {accept: apostrophe, send: 3, when: has_menu}
+      - {accept: minus, send: Page_Up, when: paging}
+      - {accept: equal, send: Page_Down, when: has_menu}
+      - {accept: comma, send: Page_Up, when: paging}
+      - {accept: period, send: Page_Down, when: has_menu}
