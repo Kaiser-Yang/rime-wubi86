@@ -19,6 +19,8 @@ new_spelling = require("new_spelling")
 -- 监控并记录自造词至文件等，必须配置lua_processor@submit_text_processor
 submit_text_processor = require("Submit_text")
 helper = require("helper")
+date_ts = require("date_ts")
+date_extend_ts = require("date_extend_ts")
 switch_processor = require("switcher")
 calculator = require("calculator")
 require("lunarDate")

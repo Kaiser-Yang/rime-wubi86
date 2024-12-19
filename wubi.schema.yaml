@@ -84,8 +84,8 @@ engine:
     - "table_translator@rvl_zhuyin"
     - "history_translator@history"
     - "lua_translator@helper"
-    - lua_translator@*date_ts
-    - lua_translator@*date_extend_ts
+    - lua_translator@date_ts
+    - lua_translator@date_extend_ts
     - lua_translator@test
     - "lua_translator@calculator"
 
