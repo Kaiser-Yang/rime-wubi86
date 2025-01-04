@@ -1,11 +1,8 @@
 # Rime settings
 # encoding: utf-8
-# by: 空山明月
-# date: 2024-05-27
-
 schema:
   schema_id: wubi
-  name: "纯五笔"
+  name: "五笔"
   version: "2.1"
   icon: icons/CN.ico
   ascii_icon: icons/EN.ico
@@ -20,7 +17,7 @@ schema:
 switches:
   - name: show_es
     # reset: 0
-    states: [ 💀, 😄 ]  
+    states: [ 💀, 😄 ]
   - name: zh_trad
     # reset: 0
     states: [ 简,繁 ]
@@ -65,26 +62,25 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
-    - "affix_segmentor@mkst"
-    - "affix_segmentor@rvl_zhuyin"
-    - "affix_segmentor@rvlk1"
+    - affix_segmentor@mkst
+    - affix_segmentor@rvl_zhuyin
+    - affix_segmentor@rvlk1
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
     - reverse_lookup_translator
-    - "table_translator@rvlk1"
+    - table_translator@rvlk1
     - table_translator
-    - "table_translator@fixed"
-    - "table_translator@mkst"
-    - "table_translator@rvl_zhuyin"
-    - "history_translator@history"
-    - "lua_translator@helper"
+    - table_translator@fixed
+    - table_translator@mkst
+    - table_translator@rvl_zhuyin
+    - history_translator@history
+    - lua_translator@helper
     - lua_translator@date_ts
     - lua_translator@date_extend_ts
     - lua_translator@test
-    - "lua_translator@calculator"
 
 speller:
   auto_select: false
