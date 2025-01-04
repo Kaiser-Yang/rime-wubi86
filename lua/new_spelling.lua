@@ -384,11 +384,9 @@ end
 local function init(env)
 	local config = env.engine.schema.config
 	page_size = env.engine.schema.page_size
-	local spll_rvdb = config:get_string('lua_reverse_db/spelling')
-	local code_rvdb = config:get_string('lua_reverse_db/code')
 	local abc_extags_size = config:get_list_size('abc_segmentor/extra_tags')
-	env.spll_rvdb = ReverseDb('build/' .. spll_rvdb .. '.reverse.bin')
-	env.code_rvdb = ReverseDb('build/' .. code_rvdb .. '.reverse.bin')
+	env.spll_rvdb = ReverseDb('build/wb_spelling.reverse.bin')
+	env.code_rvdb = ReverseDb('build/wb_spelling.reverse.bin')
 	env.is_mixtyping = abc_extags_size > 0
 end
 

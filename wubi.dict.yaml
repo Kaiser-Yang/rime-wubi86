@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: wubi
-version: "2.1"
+version: "0.1"
 sort: by_weight
 columns:
   - text
@@ -11,14 +11,14 @@ columns:
   - stem
 encoder:
   exclude_patterns:
-    - '^z.*$'
+    - ^z.*$
   rules:
     - length_equal: 2
-      formula: "AaAbBaBb"
+      formula: AaAbBaBb
     - length_equal: 3
-      formula: "AaBaCaCb"
+      formula: AaBaCaCb
     - length_in_range: [4, 32]
-      formula: "AaBaCaZa"
+      formula: AaBaCaZa
 ...
 工	a	20
 戈	a	10	agnt
@@ -53795,7 +53795,7 @@ encoder:
 已过	nnfp	10
 惊心动魄	nnfr	10
 书坊	nnfy	10
-己	nng	10	nngn
+己	nng	10
 乙型	nnga	10
 快到	nngc	10
 愤愤不平	nngg	20
@@ -53806,7 +53806,6 @@ encoder:
 快速	nngk	20
 快事	nngk	10
 书画	nngl	10
-己	nngn	20	nngn
 巳	nngn	10	nngn
 快来	nngo	20
 慢慢来	nngo	10
@@ -99645,7 +99644,6 @@ encoder:
 傠	wyfy	10	wyfy
 隹	wyg	30	wyg
 住	wyg	20	wygg
-信	wyg	10	wyg
 停顿	wygb	20
 分文不取	wygb	10
 领到	wygc	10

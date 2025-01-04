@@ -10,8 +10,6 @@ schema:
     - Rime schema by 佛振 <chen.sst@gmail.com>
   description: |
     小鶴雙拼方案。
-  dependencies:
-    - stroke
 
 engine:
   processors:
