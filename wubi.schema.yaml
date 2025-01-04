@@ -39,9 +39,6 @@ switches:
   - name: full_shape
     # reset: 0
     states: [ 半,全 ]
-  # - name: ascii_mode
-  #   reset: 0
-  #   states: [ 中,英 ]  
   # - name: ascii_punct
   #   reset: 0
   #   states: [ 。，,．， ]
@@ -95,9 +92,6 @@ speller:
   delimiter: "`"
   max_code_length: 10000
   alphabet: ;zyxwvutsrqponmlkjihgfedcba`
-  initials: ;zyxwvutsrqponmlkjihgfedcba`
-  # alphabet: ;zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA`
-  # initials: ;zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA`
   auto_select_pattern: ^;.$|^\w{4}$
   # algebra:  # 万能z键拼写处理，z符号匹配任意字符
   #   - derive/^(...).$/$1z/

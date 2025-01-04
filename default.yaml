@@ -7,9 +7,8 @@ config_version: '2.1'
 
 schema_list:
   - {schema: wubi}
-  - {schema: wubi_pinyin}
-  - {schema: luna_pinyin_simp}
   - {schema: wb_spelling}
+  - {schema: double_pinyin_flypy}
 
 switcher:
   caption: 〈菜单项〉
