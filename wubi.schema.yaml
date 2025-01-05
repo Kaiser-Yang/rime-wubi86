@@ -86,7 +86,7 @@ recognizer:
     z_pinyin_reverse_lookup: ^z[a-z]*$
 
 translator:
-  dictionary: wubi.extended
+  dictionary: wubi.user
   db_class: tabledb
   initial_quality: 100000
   enable_charset_filter: false
@@ -114,7 +114,7 @@ history:
 pinyin_reverse_lookup_filter:
   tags:
     - z_pinyin_reverse_lookup
-  dictionary: wubi.extended
+  dictionary: wubi.user
 
 simplifier:
   option_name: zh_trad

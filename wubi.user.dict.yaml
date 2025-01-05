@@ -1,0 +1,73 @@
+# Rime dictionary: wubi.user
+# encoding: utf-8
+
+---
+name: wubi.user
+version: "0.1"
+sort: by_weight
+import_tables:
+  - wubi
+  - private_symbols
+  - wubi.extended
+columns:
+  - text
+  - code
+  - weight
+  - stem
+encoder:
+  exclude_patterns:
+    - ^z.*$
+  rules:
+    - length_equal: 2
+      formula: AaAbBaBb
+    - length_equal: 3
+      formula: AaBaCaCb
+    - length_in_range: [4, 90]
+      formula: AaBaCaZa
+...
+
+工作结点	awxh	
+联邦学习	bdin	
+参考文献	cfyf	
+参数服务器	coek	
+通信资源	cyui	
+通信工程	cwat	
+难崩	cwme	
+碟刹	daqs	
+百年孤独	drbq	
+百看不厌	drgd	
+彭泽	fkic	
+不规范	gfai	
+严选	gotf	
+夹器	gukk	
+不喜欢	gfcq	
+不说话	gyyt	
+卡死	hhgq	
+激动不已	ifgn	
+跨域	khfa	
+圈刹	luqs	
+软件工程	lwat	
+网络拥塞	mxrp	
+憨憨	nbnb	
+数据中心	orkn	
+家叔	pehi	
+字符串	ptkk	
+补全	puwg	15
+负载均衡	qfft	20
+多轮	qqlw	
+后文	rgyy	
+拓扑结构	rrxs	
+模型聚合	sgbw	
+模型分发	sgwn	
+自动补全	tfpw	
+自适应	ttyi	
+很卡	tvhh	20
+每轮	txlw	
+总述	uksy	
+闲语	usyg	
+闲言	usyy	
+闲言细语	uyxy	20
+分布式	wdaa	20
+分布式机器学习	wdan	
+文献综述	yfxs	
+计算资源	ytui	20
