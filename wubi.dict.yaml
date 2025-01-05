@@ -29343,7 +29343,6 @@ encoder:
 卡在	hhdh	10
 上百	hhdj	20
 上辈	hhdj	10
-上面	hhdm	0
 上万	hhdn	10
 上达	hhdp	10
 鼎鼎大名	hhdq	10
@@ -29384,8 +29383,8 @@ encoder:
 上来	hhgo	10
 上列	hhgq	10
 止步不前	hhgu	10
-上班	hhgy	20
 龰	hhgy	10	hhgy
+上班	hhgy	0
 上虞	hhha	10
 䂄	hhhc	10	hhhc
 目睹	hhhf	30
@@ -29411,6 +29410,7 @@ encoder:
 上演	hhip	10
 目光	hhiq	10
 上汽	hhir	10
+上海	hhit	10
 上溯	hhiu	10
 上当	hhiv	10
 上举	hhiw	10
