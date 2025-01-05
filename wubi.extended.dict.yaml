@@ -1,7 +1,5 @@
 # Rime dictionary: wubi.extended
 # encoding: utf-8
-# by: 空山明月
-# date: 2024-05-27
 
 ---
 name: wubi.extended
@@ -9,7 +7,6 @@ version: "2.0"
 sort: by_weight
 import_tables:
   - wubi
-  - quick_symbols
   - private_symbols
 columns:
   - text
@@ -18,20 +15,17 @@ columns:
   - stem
 encoder:
   exclude_patterns:
-    - '^z.*$'
+    - ^z.*$
   rules:
     - length_equal: 2
-      formula: "AaAbBaBb"
+      formula: AaAbBaBb
     - length_equal: 3
-      formula: "AaBaCaCb"
+      formula: AaBaCaCb
     - length_in_range: [4, 90]
-      formula: "AaBaCaZa"
+      formula: AaBaCaZa
 ...
 
 # 自定义词语
-空山明月	pmje	
-中书君	knvt	
-
 工作结点	awxh	
 联邦学习	bdin	
 参考文献	cfyf	
@@ -42,11 +36,7 @@ encoder:
 碟刹	daqs	
 百年孤独	drbq	
 百看不厌	drgd	
-二	fgg	10
-干	fgg	20
 彭泽	fkic	
-不	gi	10
-还	gi	20
 不规范	gfai	
 严选	gotf	
 夹器	gukk	
@@ -54,18 +44,11 @@ encoder:
 不说话	gyyt	
 卡死	hhgq	
 激动不已	ifgn	
-水	ii	10
-消	ii	20
 跨域	khfa	
 圈刹	luqs	
 软件工程	lwat	
-同	mg	10
-贱	mg	20
 网络拥塞	mxrp	
 憨憨	nbnb	
-巳	nng	
-巳	nngn	20
-己	nngn	10
 数据中心	orkn	
 家叔	pehi	
 字符串	ptkk	
@@ -77,21 +60,14 @@ encoder:
 模型聚合	sgbw	
 模型分发	sgwn	
 自动补全	tfpw	
-我	trnt	
 自适应	ttyi	
 很卡	tvhh	20
 每轮	txlw	
-产	ut	10
-彦	ut	20
 总述	uksy	
 闲语	usyg	
 闲言	usyy	
-闲言碎语	uydy	
 闲言细语	uyxy	20
 分布式	wdaa	20
 分布式机器学习	wdan	
-住	wyg	30
-隹	wyg	20
-信	wyg	10
 文献综述	yfxs	
 计算资源	ytui	20

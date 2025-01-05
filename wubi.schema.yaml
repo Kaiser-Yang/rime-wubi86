@@ -122,7 +122,6 @@ simplifier:
 
 key_binder:
   bindings:
-    - {accept: Shift, toggle: ascii_mode, when: always}
     - {accept: space, send: Escape, when: composing}
     - {accept: space, send: space, when: has_menu}
     - {accept: semicolon, send: 2, when: has_menu}
