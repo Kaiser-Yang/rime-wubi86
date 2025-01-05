@@ -25103,6 +25103,7 @@ encoder:
 下文	ghyy	30
 正方	ghyy	20
 㺪	ghyy	10	ghyy
+还	gi	30	gipi
 不甚	giad	20
 不菲	giad	10
 下酒菜	giae	10
@@ -25137,8 +25138,8 @@ encoder:
 不顾	gidb	10
 不大	gidd	20
 不厌	gidd	10
-还有	gide	20
 还没有	gide	10
+还有	gide	0
 不辱	gidf	10
 还在	gidh	20
 不在	gidh	10
@@ -25280,7 +25281,6 @@ encoder:
 不明	gije	10
 不时	gijf	20
 㫘	gijf	10	gijf
-还是	gijg	10
 不畅	gijh	10
 不日	gijj	10
 不暇	gijn	10
@@ -25362,7 +25362,6 @@ encoder:
 不料	giou	30
 㶪	giou	20	giou
 㶨	giou	10	giou
-还	gip	10	gipi
 一水之隔	gipb	10
 不宜	gipe	20
 政治家	gipe	10
@@ -40868,6 +40867,7 @@ encoder:
 中青旅	kgyt	10
 顺天应人	kgyw	10
 呈文	kgyy	10
+足	kh	30	khu
 距	kha	10	khan
 中式	khaa	30
 踐	khaa	20	khaa
@@ -41096,11 +41096,11 @@ encoder:
 踢到	khgc	10
 中天	khgd	10
 踏青	khge	10
-足球	khgf	50
 踢球	khgf	40
 忠于	khgf	30
 趶	khgf	20	khgf
 跮	khgf	10	khgf
+足球	khgf	0
 跑环	khgg	10
 跪下	khgh	90
 中下	khgh	80
@@ -41395,7 +41395,6 @@ encoder:
 跞	khqi	20	khqi
 䟢	khqi	10	khqi
 中旬	khqj	10
-足够	khqk	20
 跔	khqk	10	khqk
 蹓	khql	10	khql
 中钢	khqm	10
@@ -41529,7 +41528,6 @@ encoder:
 跨入	khty	30
 跌入	khty	20
 中篇	khty	10
-足	khu	10	khu
 蹉	khua	20	khua
 跰	khua	10	khua
 足疗	khub	40
@@ -47419,7 +47417,7 @@ encoder:
 周详	mfyu	10
 周郎	mfyv	10
 风云变幻	mfyx	10
-赋	mga	20	mgah
+赋	mg	30	mgah
 同期	mgad	10
 崋	mgaf	10	mgaf
 岍	mgah	20	mgah
@@ -47427,7 +47425,7 @@ encoder:
 㟖	mgaj	10	mgaj
 败下阵来	mgbg	10
 同出	mgbm	10
-赋予	mgcb	10
+赋予	mgcb	0
 峌	mgcf	10	mgcf
 同台	mgck	10
 䞃	mgct	10	mgct
@@ -47589,7 +47587,6 @@ encoder:
 贱婢	mgvr	10
 同姓	mgvt	10
 同僚	mgwd	10
-赋值	mgwf	20
 同仁	mgwf	10
 同伙	mgwo	10
 同体	mgws	10
@@ -49643,6 +49640,7 @@ encoder:
 风度翩翩	myyy	20
 丹方	myyy	10
 民	n	30	nnav
+异	na	30	naj
 民工	naaa	10
 展期	naad	10
 㞡	naae	10	naae
@@ -49683,7 +49681,7 @@ encoder:
 异彩	naes	10
 民用	naet	10
 异域	nafa	10
-异地	nafb	10
+异地	nafb	0
 异动	nafc	30
 民运	nafc	20
 展翅	nafc	10
@@ -49722,11 +49720,9 @@ encoder:
 民治	naic	10
 臀尖	naid	10
 民法	naif	10
-异常	naip	20
 殿堂	naip	10
 改革派	nair	10
-异	naj	30	naj
-羿	naj	20	naj
+羿	naj	10	naj
 敯	najc	10	najc
 慔	najd	10	najd
 民盟	naje	10
@@ -74627,6 +74623,7 @@ encoder:
 覆盖率	suyx	10
 校方	suyy	20
 榜文	suyy	10
+根	sv	30	svey
 根式	svaa	10
 根茎	svac	20
 檓	svac	10	svac
@@ -74645,7 +74642,6 @@ encoder:
 概观	svcm	10
 要有	svde	10
 要在	svdh	10
-根	sve	10	svey
 根须	sved	10
 概貌	svee	10
 要用	svet	10
@@ -74718,12 +74714,11 @@ encoder:
 要把	svrc	10
 要挟	svrg	10
 要看	svrh	10
-根据	svrn	10
+根据	svrn	0
 要按	svrp	10
 要的	svrq	10
 概括	svrt	10
 根植	svsf	10
-根本	svsg	10
 要想	svsh	10
 概查	svsj	10
 概要	svsv	10
@@ -86051,6 +86046,7 @@ encoder:
 资本论	usyw	10
 亲率	usyx	10
 资本主义	usyy	10
+首	ut	30	uthf
 端午节	utab	10
 首期	utad	50
 疾苦	utad	40
@@ -86133,7 +86129,6 @@ encoder:
 新生事物	utgt	10
 半身不遂	utgu	10
 半生不熟	utgy	10
-首	uth	10	uthf
 㿜	utha	20	utha
 癟	utha	10	utha
 首肯	uthe	10
@@ -86268,7 +86263,6 @@ encoder:
 道长	utta	10
 首季	uttb	10
 头等舱	utte	10
-首先	uttf	50
 道德	uttf	40
 首选	uttf	30
 道行	uttf	20
@@ -86295,7 +86289,7 @@ encoder:
 商务部	utuk	20
 首部	utuk	10
 道旁	utup	10
-首次	utuq	10
+首次	utuq	0
 道道	utut	40
 痢疾	utut	30
 痴痴	utut	20
@@ -100058,6 +100052,7 @@ encoder:
 诗文	yfyy	30
 讳言	yfyy	20
 计议	yfyy	10
+评	yg	30	yguh
 斌	yga	10	ygah
 主项	ygad	10
 主菜	ygae	10
@@ -100286,7 +100281,6 @@ encoder:
 主科	ygtu	10
 评委	ygtv	10
 语系	ygtx	10
-评	ygu	10	yguh
 证券	ygud	30
 评判	ygud	20
 评卷	ygud	10
@@ -100333,7 +100327,6 @@ encoder:
 主任	ygwt	10
 主位	ygwu	10
 评分	ygwv	10
-评价	ygww	60
 主人	ygww	50
 证人	ygww	40
 请坐	ygww	30
@@ -100377,8 +100370,8 @@ encoder:
 说来话长	ygyt	10
 评说	ygyu	20
 说不说	ygyu	10
-评论	ygyw	20
 市政府	ygyw	10
+评论	ygyw	0
 语言	ygyy	40
 语文	ygyy	30
 评议	ygyy	20
@@ -100980,6 +100973,7 @@ encoder:
 误认	ykyw	30
 言听计从	ykyw	20
 误诊	ykyw	10
+库	yl	30	ylk
 为戒	ylaa	10
 为期	ylad	40
 库藏	ylad	30
@@ -100995,7 +100989,6 @@ encoder:
 为难	ylcw	10
 畆	ylcy	10	ylcy
 为大	yldd	10
-库存	yldh	10
 为非	yldj	10
 库克	yldq	10
 禀奏	yldw	10
@@ -101027,7 +101020,6 @@ encoder:
 为题	yljg	10
 弃甲曳兵	yljr	10
 为鉴	yljt	10
-库	ylk	30	ylk
 庘	ylk	20	ylk
 庫	ylk	10	ylk
 皽	ylkc	10	ylkc
@@ -101121,9 +101113,9 @@ encoder:
 谓语	ylyg	20
 为证	ylyg	10
 颤颤	ylyl	10
-库房	ylyn	30
 为国为民	ylyn	20
 谓词	ylyn	10
+库房	ylyn	0
 孰轻孰重	ylyt	10
 为谁	ylyw	10
 为文	ylyy	10
@@ -102252,6 +102244,7 @@ encoder:
 亪	yoyu	10	yoyu
 谈论	yoyw	10
 就业率	yoyx	10
+豪	yp	30	ypeu
 这项	ypad	10
 康宝莱	ypag	10
 这匹	ypaq	10
@@ -102279,7 +102272,6 @@ encoder:
 这厢	ypds	10
 这帮	ypdt	20
 言之有物	ypdt	10
-豪	ype	20	ypeu
 谊	ypeg	20	ypeg
 誼	ypeg	10	ypeg
 豪爵	ypel	10
@@ -102337,8 +102329,8 @@ encoder:
 这只	ypkw	10
 诨	ypl	10	yplh
 豪园	yplf	10
-这辆	yplg	20
-豪车	yplg	10
+这辆	yplg	10
+豪车	yplg	0
 諢	yplh	10	yplh
 这回	yplk	10
 这边	yplp	10
@@ -102438,7 +102430,6 @@ encoder:
 毫分	ypwv	10
 这份	ypww	20
 这人	ypww	10
-豪华	ypwx	20
 䛪	ypwx	10	ypwx
 䛎	ypwy	10	ypwy
 豪绅	ypxj	10

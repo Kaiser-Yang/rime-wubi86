@@ -1,12 +1,10 @@
 #! /usr/bin/env python
 
 def main():
-    file = open('wubi.extended.dict.yaml', 'a+', encoding='utf-8')
+    file = open('temp.log', 'w', encoding='utf-8')
     dict_file = open('wubi.dict.yaml', 'r', encoding='utf-8')
     code_dict = dict()
     for line in dict_file.readlines():
-        if line.find('\t') == -1:
-            continue
         try:
             word, code, _, _ = line.split('\t')
         except:
@@ -14,17 +12,37 @@ def main():
         if code not in code_dict:
             code_dict[code] = []
         code_dict[code].append(word)
-    lines = []
-    for ch1 in 'abcdefghijklmnopqrstuvwxy':
-        for ch2 in 'abcdefghijklmnopqrstuvwxy':
-            code = ch1 + ch2
-            if code not in code_dict:
-                lines.append(f'word\t{code}\t0\n')
-                lines.append(f'word\t{code}\t0\n')
-            elif len(code_dict[code]) == 1:
-                lines.append(f'word\t{code}\t20\n')
-                lines.append(f'word\t{code}\t10\n')
-    file.writelines(lines)
+    lines = set()
+    for ch1 in '\0abcdefghijklmnopqrstuvwxy':
+        for ch2 in '\0abcdefghijklmnopqrstuvwxy':
+            for ch3 in '\0abcdefghijklmnopqrstuvwxy':
+                for ch4 in '\0abcdefghijklmnopqrstuvwxy':
+                    code = ''
+                    if ch1 != '\0':
+                        code += ch1
+                    if ch2 != '\0':
+                        code += ch2
+                    if ch3 != '\0':
+                        code += ch3
+                    if ch4 != '\0':
+                        code += ch4
+                    if len(code) != 2:
+                        continue
+                    if code != '' and code not in code_dict:
+                        lines.add(code)
+    lines = list(lines)
+    # sort by len then by code
+    lines.sort(key=lambda x: (len(x), x))
+    for line in lines:
+        new_line = line
+        for code in code_dict:
+            if len(code) == 3 and code.startswith(line):
+                for word in code_dict[code]:
+                    new_line += '\t' + word
+        new_line += '\n'
+        file.write(new_line)
     file.close()
+    dict_file.close()
+
 
 main()

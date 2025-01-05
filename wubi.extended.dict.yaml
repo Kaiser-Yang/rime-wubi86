@@ -386,8 +386,8 @@ encoder:
 # word	gg	10
 # word	gh	20
 # word	gh	10
-# word	gi	0
-# word	gi	0
+还是	gi	20
+还有	gi	10
 # word	gj	20
 # word	gj	10
 # word	gk	20
@@ -584,8 +584,8 @@ encoder:
 # word	kf	10
 # word	kg	20
 # word	kg	10
-# word	kh	0
-# word	kh	0
+足够	kh	20
+足球	kh	10
 # word	ki	20
 # word	ki	10
 # word	kj	20
@@ -682,8 +682,8 @@ encoder:
 # word	me	10
 # word	mf	20
 # word	mf	10
-# word	mg	0
-# word	mg	0
+赋值	mg	20
+赋予	mg	10
 # word	mh	20
 # word	mh	10
 # word	mi	20
@@ -720,8 +720,8 @@ encoder:
 # word	mx	10
 # word	my	20
 # word	my	10
-# word	na	0
-# word	na	0
+异常	na	20
+异地	na	10
 # word	nb	20
 # word	nb	10
 # word	nc	20
@@ -1012,8 +1012,8 @@ encoder:
 # word	st	10
 # word	su	20
 # word	su	10
-# word	sv	0
-# word	sv	0
+根本	sv	20
+根据	sv	10
 # word	sw	20
 # word	sw	10
 # word	sx	20
@@ -1108,8 +1108,8 @@ encoder:
 # word	ur	10
 # word	us	20
 # word	us	10
-# word	ut	0
-# word	ut	0
+首先	ut	20
+首次	ut	10
 # word	uu	20
 # word	uu	10
 # word	uv	20
@@ -1282,8 +1282,8 @@ encoder:
 # word	ye	10
 # word	yf	20
 # word	yf	10
-# word	yg	0
-# word	yg	0
+评价	yg	20
+评论	yg	10
 # word	yh	20
 # word	yh	10
 # word	yi	20
@@ -1292,16 +1292,16 @@ encoder:
 # word	yj	10
 # word	yk	20
 # word	yk	10
-# word	yl	0
-# word	yl	0
+库存	yl	20
+库房	yl	10
 # word	ym	20
 # word	ym	10
 # word	yn	20
 # word	yn	10
 # word	yo	20
 # word	yo	10
-# word	yp	0
-# word	yp	0
+豪华	yp	20
+豪车	yp	10
 # word	yq	20
 # word	yq	10
 # word	yr	20
