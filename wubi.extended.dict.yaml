@@ -1,6 +1,5 @@
 # Rime dictionary: wubi.extended
 # encoding: utf-8
-
 ---
 name: wubi.extended
 version: "0.1"
@@ -21,56 +20,56 @@ encoder:
     - length_in_range: [4, 90]
       formula: AaBaCaZa
 ...
-# word	a	20
-# word	a	10
-# word	b	20
-# word	b	10
-# word	c	20
-# word	c	10
-# word	d	20
-# word	d	10
-# word	e	20
-# word	e	10
-# word	f	20
-# word	f	10
-# word	g	20
-# word	g	10
-# word	h	20
-# word	h	10
-# word	i	20
-# word	i	10
-# word	j	20
-# word	j	10
-# word	k	20
-# word	k	10
-# word	l	20
-# word	l	10
-# word	m	20
-# word	m	10
-# word	n	20
-# word	n	10
-# word	o	20
-# word	o	10
-# word	p	20
-# word	p	10
-# word	q	20
-# word	q	10
-# word	r	20
-# word	r	10
-# word	s	20
-# word	s	10
-# word	t	20
-# word	t	10
-# word	u	20
-# word	u	10
-# word	v	20
-# word	v	10
-# word	w	20
-# word	w	10
-# word	x	20
-# word	x	10
-# word	y	20
-# word	y	10
+工作	a	20
+工程	a	10
+了解	b	20
+了不起	b	10
+以前	c	20
+以后	c	10
+在于	d	20
+在一起	d	10
+有没有	e	20
+有什么	e	10
+地方	f	20
+地铁	f	10
+一个	g	20
+一直	g	10
+上海	h	20
+上面	h	10
+不是	i	20
+不会	i	10
+是否	j	20
+是什么	j	10
+中国	k	20
+中医	k	10
+国家	l	20
+国内	l	10
+同学	m	20
+同时	m	10
+民族	n	20
+民主	n	10
+为什么	o	20
+为所欲为	o	10
+这个	p	20
+这样	p	10
+我们	q	20
+我觉得	q	10
+的确	r	20
+的确如此	r	10
+要求	s	20
+要么	s	10
+和平	t	20
+和谐	t	10
+产品	u	20
+产生	u	10
+发现	v	20
+发展	v	10
+人生	w	20
+人类	w	10
+经历	x	20
+经济	x	10
+主要	y	20
+主义	y	10
 # word	aa	20
 # word	aa	10
 # word	ab	20
