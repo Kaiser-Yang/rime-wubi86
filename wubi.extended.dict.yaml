@@ -57,7 +57,7 @@ encoder:
 的确	r	20
 的确如此	r	10
 要求	s	20
-要么	s	10
+要不要	s	10
 和平	t	20
 和谐	t	10
 产品	u	20
@@ -69,7 +69,7 @@ encoder:
 经历	x	20
 经济	x	10
 主要	y	20
-主义	y	10
+主动	y	10
 # word	aa	20
 # word	aa	10
 # word	ab	20

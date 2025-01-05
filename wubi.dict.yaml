@@ -72488,8 +72488,8 @@ encoder:
 桎梏	sgst	20
 酸梅	sgst	10
 本校	sgsu	10
-要不要	sgsv	20
 梗概	sgsv	10
+要不要	sgsv	0
 酥松	sgsw	10
 枺	sgsy	10	sgsy
 栈	sgt	20	sgt
@@ -74723,7 +74723,7 @@ encoder:
 概查	svsj	10
 概要	svsv	10
 概述	svsy	10
-要么	svtc	0
+要么	svtc	10
 根毛	svtf	10
 概算	svth	10
 要得	svtj	10
@@ -100105,7 +100105,7 @@ encoder:
 諘	ygey	20	ygey
 庯	ygey	10	ygey
 主裁	ygfa	10
-主动	ygfc	10
+主动	ygfc	0
 主城	ygfd	10
 说不过去	ygff	10
 主干	ygfg	20
@@ -100365,7 +100365,7 @@ encoder:
 谈一谈	ygyo	10
 语义	ygyq	20
 说到底	ygyq	10
-主义	ygyq	0
+主义	ygyq	10
 鹿死谁手	ygyr	10
 说来话长	ygyt	10
 评说	ygyu	20
