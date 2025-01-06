@@ -36,7 +36,7 @@ def main():
     for line in lines:
         new_line = line
         for code in code_dict:
-            if len(code) == 3 and code.startswith(line):
+            if code.startswith(line):
                 for word in code_dict[code]:
                     new_line += '\t' + word
         new_line += '\n'
