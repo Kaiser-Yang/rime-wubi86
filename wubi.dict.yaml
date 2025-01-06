@@ -29340,12 +29340,12 @@ encoder:
 上列	hhgq	10
 止步不前	hhgu	10
 龰	hhgy	10	hhgy
+目	hhh	10	hhhh
 上虞	hhha	10
 䂄	hhhc	10	hhhc
 目睹	hhhf	30
 瞐	hhhf	20	hhhf
 歮	hhhf	10	hhhf
-目	hhhh	20	hhhh
 上上	hhhh	10
 止步	hhhi	10
 上桌	hhhj	10
@@ -51506,6 +51506,7 @@ encoder:
 己见	nnmq	10
 书贩	nnmr	10
 局内	nnmw	10
+已	nnn	20	nnnn
 忋	nnn	10	nnn
 书展	nnna	10
 快慰	nnnf	10
@@ -51515,7 +51516,6 @@ encoder:
 快慢	nnnj	10
 羽翼	nnnl	20
 尽心尽力	nnnl	10
-已	nnnn	50	nnnn
 忧心忡忡	nnnn	40
 快快	nnnn	30
 懵懵懂懂	nnnn	20

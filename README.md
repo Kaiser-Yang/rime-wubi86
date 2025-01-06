@@ -18,3 +18,8 @@ Forked from [空山明月/Rime五笔](https://gitee.com/hi-coder/rime-wubi)
 * 评 yg
 * 库 yl
 * 豪 yp
+
+新增的三级简码：
+
+* 目 hhh
+* 已 nnn
