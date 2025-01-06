@@ -18484,6 +18484,7 @@ encoder:
 二者	fgft	20
 二老	fgft	10
 雨雪	fgfv	10
+干	fgg	30	fggh
 起不到	fggc	10
 雨天	fggd	30
 二天	fggd	20
@@ -18493,7 +18494,6 @@ encoder:
 十一	fggg	30
 十一五	fggg	20
 二环	fggg	10
-干	fggh	20	fggh
 干政	fggh	10
 坏事	fggk	30
 干事	fggk	20
@@ -86019,6 +86019,7 @@ encoder:
 新生事物	utgt	10
 半身不遂	utgu	10
 半生不熟	utgy	10
+道	uth	30	uthp
 㿜	utha	20	utha
 癟	utha	10	utha
 首肯	uthe	10
@@ -86032,7 +86033,6 @@ encoder:
 噵	uthk	10	uthk
 䭭	uthm	10	uthm
 瘜	uthn	10	uthn
-道	uthp	10	uthp
 闑	uths	10	uths
 䆃	utht	10	utht
 㸤	uthu	10	uthu
