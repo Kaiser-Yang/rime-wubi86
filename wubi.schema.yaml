@@ -20,12 +20,13 @@ engine:
     - key_binder
     - speller
     - punctuator
+    - lua_processor@z_selector
     - selector
     - navigator
     - express_editor
     # TODO: check this
-    - lua_processor@submit_text_processor
-    - lua_processor@switch_processor
+    # - lua_processor@submit_text_processor
+    # - lua_processor@switch_processor
   segmentors:
     - ascii_segmentor
     - matcher
@@ -75,7 +76,7 @@ menu:
   alternative_select_labels: [ ㊀, ㊁, ㊂, ㊃, ㊄, ㊅, ㊆, ㊇, ㊈, ㊉ ]
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba
+  alphabet: yxwvutsrqponmlkjihgfedcba
   max_code_length: 4
   auto_select: false
   auto_select_pattern: ^^\w{4}$
@@ -133,8 +134,8 @@ key_binder:
     - {accept: Control+Shift+F, toggle: zh_trad, when: always}
     - {accept: Control+Shift+H, toggle: new_spelling, when: always}
     - {accept: Control+Shift+J, toggle: new_hide_pinyin, when: always}
-    - {accept: Shift+space, toggle: full_shape, when: always}
-    - {accept: Control+period, toggle: ascii_punct, when: always}  # ctrl + . 中英文标点切换
+    - {accept: Control+Shift+space, toggle: full_shape, when: always}
+    - {accept: Control+period, toggle: ascii_punct, when: always}
     - {accept: Control+Shift+U, toggle: GB2312, when: always}
 punctuator:
   import_preset: symbols

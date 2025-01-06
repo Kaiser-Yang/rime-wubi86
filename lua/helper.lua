@@ -12,7 +12,7 @@ local function translator(input, seg, env)
         , { '功能切换', '→ ' .. rv_var.switch_keyword }
         , { '方案切换', '→ ' .. rv_var.switch_schema }
         , { '注解上屏', '→ Ctrl+Shift+Return' }
-        , { '全半切换', '→ Shift+sapce' }
+        , { '全半切换', '→ Ctrl+Shift+sapce' }
         , { '中英文标点切换', '→ Ctrl+period' }
         , { '折分显隐', '→ Ctrl+Shift+H' }
         , { '注解切换', '→ Ctrl+Shift+J' }

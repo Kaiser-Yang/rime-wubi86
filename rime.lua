@@ -2,9 +2,10 @@
 --modify: 空山明月
 --date: 2024-04-03	
 --]
-
+z_selector = require("z_selector")
 -- --=========================================================关键字修改--==========================================================
 -- --==========================================================--==========================================================
+
 rv_var={ week_var="week",date_var="date",nl_var="nl",time_var="time",jq_var="jq",switch_keyword="next",help="help",switch_schema="mode"}	-- 编码关键字修改
 trad_keyword="zh_trad"		-- 简繁切换switcher参数
 single_keyword="single_char"	-- 单字过滤switcher参数
