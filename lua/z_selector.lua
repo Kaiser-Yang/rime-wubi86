@@ -1,4 +1,4 @@
--- NOTE: Place this before the default selector
+-- NOTE: Place this before the speller to avoid z is accepted by the history
 
 local accept = 1
 local pass_to_next = 2
