@@ -4444,7 +4444,7 @@ encoder:
 切变	avyo	10
 荨麻	avys	10
 切诊	avyw	10
-共	aw	10	awu
+共	aw	30	awu
 花式	awaa	10
 花茎	awac	10
 花期	awad	10
@@ -6242,7 +6242,7 @@ encoder:
 阵线	blxg	10
 阵亡	blyn	10
 孟州	blyt	10
-出	bm	10	bmk
+出	bm	30	bmk
 出工	bmaa	10
 出项	bmad	20
 聘期	bmad	10
@@ -6775,7 +6775,7 @@ encoder:
 隐衷	bqyk	10
 除夕夜	bqyw	10
 陶文	bqyy	10
-孤	br	10	brcy
+孤	br	30	brcy
 孤苦	brad	10
 阿拉蕾	braf	10
 阿拉斯加	bral	10
@@ -13244,7 +13244,7 @@ encoder:
 灰谷	doww	10
 磷化	dowx	10
 灰度	doya	10
-达	dp	10	dpi
+达	dp	30	dpi
 达斯	dpad	10
 达子	dpbb	10
 牵出	dpbm	10
@@ -20858,7 +20858,7 @@ encoder:
 专业课	foyj	10
 赯	foyk	10	foyk
 专业户	foyn	10
-过	fp	10	fpi
+过	fp	30	fpi
 过节	fpab	20
 元宵节	fpab	10
 趋之若鹜	fpac	10
@@ -23384,7 +23384,7 @@ encoder:
 珞巴族	gcyt	20
 到庭	gcyt	10
 到访	gcyy	10
-天	gd	10	gdi
+天	gd	30	gdi
 表达式	gdaa	10
 青春期	gdad	10
 㻟	gdae	10	gdae
@@ -23928,7 +23928,7 @@ encoder:
 瑶族	geyt	10
 静夜	geyw	10
 表率	geyx	10
-于	gf	10	gfk
+于	gf	30	gfk
 球茎	gfac	10
 球鞋	gfaf	10
 球菌	gfal	10
@@ -26641,7 +26641,7 @@ encoder:
 两广	gmyy	30
 丙方	gmyy	20
 㺬	gmyy	10	gmyy
-与	gn	10	gngd
+与	gn	30	gngd
 珉	gna	10	gnan
 瓦工	gnaa	10
 瓦萨	gnab	10
@@ -40333,7 +40333,7 @@ encoder:
 喊话	kdyt	10
 呔	kdyy	20	kdyy
 顺访	kdyy	10
-吸	ke	10	keyy
+吸	ke	30	keyy
 哺乳期	kead	10
 遗腹子	kebb	10
 吸取	kebc	10
@@ -42752,7 +42752,7 @@ encoder:
 史话	kqyt	10
 史论	kqyw	10
 中外文	kqyy	10
-听	kr	10	krh
+听	kr	30	krh
 唣	kra	10	kran
 喷气式	kraa	10
 听取	krbc	10
@@ -43631,7 +43631,7 @@ encoder:
 听说读写	kyyp	10
 另谋高就	kyyy	10
 国	l	30	lgyi
-羁	la	10	lafc
+羁	la	30	lafc
 轼	laa	10	laag
 羁勒	laaf	10
 軾	laag	10	laag
@@ -55655,7 +55655,7 @@ encoder:
 家访	peyy	30
 神采奕奕	peyy	20
 实用主义	peyy	10
-守	pf	10	pfu
+守	pf	30	pfu
 完工	pfaa	10
 守节	pfab	10
 寒苦	pfad	20
@@ -55894,7 +55894,7 @@ encoder:
 守夜	pfyw	20
 寒夜	pfyw	10
 赛文	pfyy	10
-定	pg	10	pghu
+定	pg	30	pghu
 定式	pgaa	10
 定期	pgad	20
 宝藏	pgad	10
@@ -68889,7 +68889,7 @@ encoder:
 拱手让人	rryw	10
 换手率	rryx	10
 誓言	rryy	20
-打	rs	10	rsh
+打	rs	30	rsh
 打工	rsaa	10
 打散	rsae	10
 打靶	rsaf	10
@@ -80415,7 +80415,7 @@ encoder:
 射手座	tryw	10
 牲畜	tryx	10
 我方	tryy	10
-条	ts	10	tsu
+条	ts	30	tsu
 奥林匹克	tsad	10
 䈤	tsaf	10	tsaf
 篐	tsah	10	tsah
@@ -92774,7 +92774,7 @@ encoder:
 伙计	woyf	10
 企业主	woyg	10
 伙房	woyn	10
-伫	wp	10	wpgg
+伫	wp	30	wpgg
 付之东流	wpai	10
 人神共愤	wpan	10
 倾家荡产	wpau	10
@@ -96026,7 +96026,7 @@ encoder:
 维也纳	xbxm	10
 㢽	xbxn	10	xbxn
 强取豪夺	xbyd	10
-弘	xc	10	xcy
+弘	xc	30	xcy
 经期	xcad	10
 弪	xcag	10	xcag
 经世	xcan	10
@@ -97495,7 +97495,7 @@ encoder:
 综评	xpyg	10
 绽放	xpyt	20
 缩放	xpyt	10
-约	xq	10	xqyy
+约	xq	30	xqyy
 纸	xqa	10	xqan
 红色警戒	xqaa	10
 约期	xqad	10
@@ -102828,7 +102828,7 @@ encoder:
 文本文件	ysyw	10
 魔方	ysyy	20
 訹	ysyy	10	ysyy
-放	yt	10	yty
+放	yt	30	yty
 旗	yta	10	ytaw
 施工	ytaa	30
 方程式	ytaa	20
@@ -103233,7 +103233,7 @@ encoder:
 族谱	ytyu	10
 施诊	ytyw	10
 放言	ytyy	10
-说	yu	10	yukq
+说	yu	30	yukq
 说项	yuad	10
 誁	yuah	10	yuah
 旘	yuaj	20	yuaj
