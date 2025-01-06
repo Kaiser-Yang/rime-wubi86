@@ -33545,7 +33545,6 @@ encoder:
 游山玩水	imgi	10
 没理	imgj	10
 洞	imgk	30	imgk
-没事	imgk	20
 测速	imgk	10
 油画	imgl	10
 海峡两岸	imgm	10
@@ -33738,7 +33737,8 @@ encoder:
 党同伐异	imwn	20
 梁山伯	imwr	10
 沿途	imwt	10
-油价	imww	10
+油价	imww	20
+没人	imww	10
 没货	imwx	10
 漼	imwy	20	imwy
 汭	imwy	10	imwy
@@ -55780,7 +55780,6 @@ encoder:
 寒风	pfmq	20
 守岁	pfmq	10
 完败	pfmt	10
-守恒	pfng	10
 完蛋	pfnh	10
 完璧	pfnk	10
 寒心	pfny	20
@@ -55888,6 +55887,7 @@ encoder:
 寨主	pfyg	10
 寒颤	pfyl	10
 宗庙	pfym	10
+守望	pfyn	10
 宗族	pfyt	10
 宗谱	pfyu	10
 富士康	pfyv	10

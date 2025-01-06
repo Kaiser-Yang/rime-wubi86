@@ -146,8 +146,8 @@ encoder:
 # word	bl	10
 出来	bm	20
 出现	bm	10
-也是	bn	20
-也许	bn	10
+也许	bn	20
+也好	bn	10
 # word	bo	20
 # word	bo	10
 # word	bp	20
@@ -495,7 +495,7 @@ encoder:
 # word	il	20
 # word	il	10
 没有	im	20
-没人	im	10
+没事	im	10
 # word	in	20
 # word	in	10
 # word	io	20
@@ -651,7 +651,7 @@ encoder:
 # word	lo	20
 # word	lo	10
 边缘	lp	20
-边境	lp	10
+边界	lp	10
 # word	lq	20
 # word	lq	10
 # word	lr	20
@@ -830,8 +830,8 @@ encoder:
 # word	pd	10
 # word	pe	20
 # word	pe	10
-守望	pf	20
-守护	pf	10
+守护	pf	20
+守恒	pf	10
 定义	pg	20
 定位	pg	10
 # word	ph	20
@@ -1180,8 +1180,8 @@ encoder:
 # word	wd	10
 仍然	we	20
 仍未	we	10
-会计	wf	20
-会员	wf	10
+会员	wf	20
+会计	wf	10
 # word	wg	20
 # word	wg	10
 # word	wh	20
