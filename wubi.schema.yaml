@@ -84,7 +84,7 @@ speller:
 
 recognizer:
   patterns:
-    z_pinyin_reverse_lookup: ^z[a-z]+$
+    z_pinyin_reverse_lookup: ^z[a-z]*$
 
 translator:
   dictionary: wubi.user
