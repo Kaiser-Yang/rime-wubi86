@@ -126,6 +126,7 @@ key_binder:
     - {accept: space, send: Escape, when: composing}
     - {accept: space, send: space, when: has_menu}
     - {accept: semicolon, send: 2, when: has_menu}
+    - {accept: slash, send: 2, when: has_menu}
     - {accept: apostrophe, send: 3, when: has_menu}
     - {accept: minus, send: Page_Up, when: paging}
     - {accept: equal, send: Page_Down, when: has_menu}
