@@ -59,7 +59,6 @@ switches:
   - name: show_es
     states: [ 💀, 😄 ]
   - name: new_spelling
-    reset: 1
     states: [ 隐,显 ]
   - name: new_hide_pinyin
     states: [ 音,哑 ]
