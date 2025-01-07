@@ -25,3 +25,5 @@ Forked from [空山明月/Rime五笔](https://gitee.com/hi-coder/rime-wubi)
 * 已 nnn
 * 道 uth
 * 干 fgg
+* 智 tdj
+* 满 iag

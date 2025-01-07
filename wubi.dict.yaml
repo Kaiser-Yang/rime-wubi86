@@ -30875,6 +30875,7 @@ encoder:
 汇到	iagc	10
 满天	iagd	10
 江青	iage	10
+满	iag	10	iagw
 深藏不露	iagf	20
 澕	iagf	10	iagf
 小巧玲珑	iagg	20
@@ -30882,7 +30883,6 @@ encoder:
 懑	iagn	10	iagn
 浇灭	iago	20
 学艺不精	iago	10
-满	iagw	10	iagw
 淽	iahg	10	iahg
 满目	iahh	30
 举世瞩目	iahh	20
@@ -75795,6 +75795,7 @@ encoder:
 舓	tdjr	10	tdjr
 矮星	tdjt	10
 知照	tdjv	10
+智	tdk	10	tdkj
 聟	tdkb	10	tdkb
 敽	tdkc	10	tdkc
 甜味	tdkf	20
@@ -75806,7 +75807,6 @@ encoder:
 适中	tdkh	30
 短路	tdkh	20
 短跑	tdkh	10
-智	tdkj	10	tdkj
 甜品	tdkk	20
 喬	tdkk	10	tdkk
 辞别	tdkl	30
