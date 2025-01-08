@@ -12,7 +12,7 @@ schema_list:
 
 switcher:
   hotkeys:
-    - Control+o
+    - Control+grvae
   save_options:
     - full_shape
     - ascii_punct
