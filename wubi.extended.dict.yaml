@@ -82,8 +82,8 @@ encoder:
 # word	ae	10
 革命	af	20
 革新	af	10
-# word	ag	20
-# word	ag	10
+七夕	ag	20
+七窍	ag	10
 # word	ah	20
 # word	ah	10
 东西	ai	20
@@ -276,8 +276,8 @@ encoder:
 服装	eb	10
 # word	ec	20
 # word	ec	10
-# word	ed	20
-# word	ed	10
+须知	ed	20
+须臾	ed	10
 # word	ee	20
 # word	ee	10
 # word	ef	20
@@ -470,8 +470,8 @@ encoder:
 此时	hx	10
 # word	hy	20
 # word	hy	10
-# word	ia	20
-# word	ia	10
+江南	ia	20
+江湖	ia	10
 # word	ib	20
 # word	ib	10
 # word	ic	20
@@ -482,14 +482,14 @@ encoder:
 # word	ie	10
 法律	if	20
 法国	if	10
-# word	ig	20
-# word	ig	10
+汪洋	ig	20
+汪汪	ig	10
 # word	ih	20
 # word	ih	10
 # word	ii	20
 # word	ii	10
-# word	ij	20
-# word	ij	10
+浊酒	ij	20
+浊水	ij	10
 # word	ik	20
 # word	ik	10
 # word	il	20
@@ -538,8 +538,8 @@ encoder:
 早期	jh	10
 # word	ji	0
 # word	ji	0
-# word	jj	20
-# word	jj	10
+昌盛	jj	20
+昌明	jj	10
 # word	jk	20
 # word	jk	10
 # word	jl	20
@@ -548,8 +548,8 @@ encoder:
 # word	jm	10
 # word	jn	20
 # word	jn	10
-# word	jo	20
-# word	jo	10
+显然	jo	20
+显著	jo	10
 # word	jp	20
 # word	jp	10
 # word	jq	20
@@ -652,8 +652,8 @@ encoder:
 # word	lo	10
 边缘	lp	20
 边界	lp	10
-# word	lq	20
-# word	lq	10
+罗列	lq	20
+罗马	lq	10
 # word	lr	20
 # word	lr	10
 # word	ls	20
@@ -754,8 +754,8 @@ encoder:
 # word	np	10
 # word	nq	20
 # word	nq	10
-# word	nr	20
-# word	nr	10
+怕人	nr	20
+怕事	nr	10
 # word	ns	0
 # word	ns	0
 必须	nt	20
@@ -918,8 +918,8 @@ encoder:
 # word	qw	10
 # word	qx	0
 # word	qx	0
-# word	qy	20
-# word	qy	10
+久远	qy	20
+久违	qy	10
 # word	ra	20
 # word	ra	10
 # word	rb	20
@@ -1006,8 +1006,8 @@ encoder:
 # word	sq	10
 # word	sr	20
 # word	sr	10
-# word	ss	20
-# word	ss	10
+林业	ss	20
+林子	ss	10
 格式	st	20
 格局	st	10
 # word	su	20
@@ -1072,8 +1072,8 @@ encoder:
 # word	ty	10
 # word	ua	20
 # word	ua	10
-# word	ub	20
-# word	ub	10
+闻名	ub	20
+闻讯	ub	10
 # word	uc	20
 # word	uc	10
 关系	ud	20
@@ -1092,16 +1092,16 @@ encoder:
 # word	uj	10
 部分	uk	20
 部门	uk	10
-# word	ul	20
-# word	ul	10
+曾经	ul	20
+曾孙	ul	10
 商品	um	20
 商业	um	10
 决定	un	20
 决赛	un	10
 # word	uo	20
 # word	uo	10
-# word	up	20
-# word	up	10
+帝国	up	20
+帝王	up	10
 交通	uq	20
 交流	uq	10
 # word	ur	20
@@ -1158,8 +1158,8 @@ encoder:
 # word	vr	0
 # word	vs	20
 # word	vs	10
-# word	vt	20
-# word	vt	10
+九州	vt	20
+九泉	vt	10
 # word	vu	20
 # word	vu	10
 # word	vv	20
@@ -1204,8 +1204,8 @@ encoder:
 伫候	wp	10
 你们	wq	20
 你的	wq	10
-# word	wr	20
-# word	wr	10
+伯爵	wr	20
+伯乐	wr	10
 休息	ws	20
 休闲	ws	10
 # word	wt	20
@@ -1258,8 +1258,8 @@ encoder:
 # word	xr	10
 # word	xs	0
 # word	xs	0
-# word	xt	20
-# word	xt	10
+张望	xt	20
+张扬	xt	10
 # word	xu	20
 # word	xu	10
 # word	xv	20
