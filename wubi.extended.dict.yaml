@@ -196,8 +196,8 @@ encoder:
 # word	cl	10
 观点	cm	20
 观众	cm	10
-# word	cn	20
-# word	cn	10
+马上	cn	20
+马路	cn	10
 # word	co	0
 # word	co	0
 # word	cp	20
@@ -1242,8 +1242,8 @@ encoder:
 # word	xj	10
 强烈	xk	20
 强调	xk	10
-马上	xl	20
-马路	xl	10
+# word	xl	20
+# word	xl	10
 # word	xm	20
 # word	xm	10
 # word	xn	20
