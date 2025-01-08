@@ -72,8 +72,8 @@ encoder:
 主动	y	10
 # word	aa	20
 # word	aa	10
-# word	ab	20
-# word	ab	10
+节目	ab	20
+节奏	ab	10
 # word	ac	20
 # word	ac	10
 基本	ad	20
@@ -90,8 +90,8 @@ encoder:
 东北	ai	10
 划分	aj	20
 划算	aj	10
-# word	ak	20
-# word	ak	10
+或者	ak	20
+或许	ak	10
 # word	al	20
 # word	al	10
 # word	am	20
@@ -138,8 +138,8 @@ encoder:
 # word	bh	10
 # word	bi	20
 # word	bi	10
-# word	bj	20
-# word	bj	10
+阳光	bj	20
+阳台	bj	10
 # word	bk	20
 # word	bk	10
 # word	bl	20
@@ -190,12 +190,12 @@ encoder:
 # word	ci	0
 # word	cj	20
 # word	cj	10
-# word	ck	20
-# word	ck	10
+台词	ck	20
+台湾	ck	10
 # word	cl	20
 # word	cl	10
-# word	cm	20
-# word	cm	10
+观点	cm	20
+观众	cm	10
 # word	cn	20
 # word	cn	10
 # word	co	0
@@ -272,8 +272,8 @@ encoder:
 # word	dy	10
 # word	ea	20
 # word	ea	10
-# word	eb	20
-# word	eb	10
+服务	eb	20
+服装	eb	10
 # word	ec	20
 # word	ec	10
 # word	ed	20
@@ -282,8 +282,8 @@ encoder:
 # word	ee	10
 # word	ef	20
 # word	ef	10
-# word	eg	20
-# word	eg	10
+且慢	eg	20
+且说	eg	10
 # word	eh	0
 # word	eh	0
 # word	ei	20
@@ -334,8 +334,8 @@ encoder:
 # word	ff	10
 # word	fg	20
 # word	fg	10
-# word	fh	20
-# word	fh	10
+直接	fh	20
+直到	fh	10
 # word	fi	20
 # word	fi	10
 进行	fj	20
@@ -524,8 +524,8 @@ encoder:
 # word	ja	10
 最后	jb	20
 最近	jb	10
-# word	jc	20
-# word	jc	10
+紧张	jc	20
+紧急	jc	10
 # word	jd	20
 # word	jd	10
 # word	je	20
@@ -534,8 +534,8 @@ encoder:
 时候	jf	10
 量化	jg	20
 量词	jg	10
-# word	jh	20
-# word	jh	10
+早上	jh	20
+早期	jh	10
 # word	ji	0
 # word	ji	0
 # word	jj	20
@@ -624,8 +624,8 @@ encoder:
 羁押	la	10
 # word	lb	20
 # word	lb	10
-# word	lc	20
-# word	lc	10
+轻松	lc	20
+轻易	lc	10
 # word	ld	20
 # word	ld	10
 # word	le	20
@@ -776,8 +776,8 @@ encoder:
 # word	ob	10
 # word	oc	20
 # word	oc	10
-# word	od	20
-# word	od	10
+类似	od	20
+类型	od	10
 # word	oe	20
 # word	oe	10
 # word	of	20
@@ -822,8 +822,8 @@ encoder:
 # word	oy	10
 # word	pa	20
 # word	pa	10
-# word	pb	20
-# word	pb	10
+字典	pb	20
+字母	pb	10
 # word	pc	0
 # word	pc	0
 害怕	pd	20
@@ -842,12 +842,12 @@ encoder:
 # word	pj	10
 # word	pk	20
 # word	pk	10
-# word	pl	20
-# word	pl	10
+军队	pl	20
+军事	pl	10
 # word	pm	20
 # word	pm	10
-# word	pn	20
-# word	pn	10
+官方	pn	20
+官员	pn	10
 # word	po	20
 # word	po	10
 # word	pp	20
@@ -866,8 +866,8 @@ encoder:
 # word	pv	10
 空间	pw	20
 空气	pw	10
-# word	px	20
-# word	px	10
+它们	px	20
+它的	px	10
 # word	py	20
 # word	py	10
 # word	qa	20
@@ -886,8 +886,8 @@ encoder:
 钱财	qg	10
 # word	qh	20
 # word	qh	10
-# word	qi	20
-# word	qi	10
+乐观	qi	20
+乐趣	qi	10
 # word	qj	20
 # word	qj	10
 名字	qk	20
@@ -908,8 +908,8 @@ encoder:
 # word	qr	10
 # word	qs	20
 # word	qs	10
-# word	qt	20
-# word	qt	10
+儿子	qt	20
+儿童	qt	10
 # word	qu	20
 # word	qu	10
 # word	qv	20
@@ -930,8 +930,8 @@ encoder:
 # word	rd	10
 # word	re	20
 # word	re	10
-# word	rf	20
-# word	rf	10
+持续	rf	20
+持久	rf	10
 后来	rg	20
 后面	rg	10
 # word	rh	20
@@ -964,8 +964,8 @@ encoder:
 # word	ru	10
 # word	rv	20
 # word	rv	10
-# word	rw	20
-# word	rw	10
+失败	rw	20
+失去	rw	10
 # word	rx	20
 # word	rx	10
 # word	ry	20
@@ -1008,8 +1008,8 @@ encoder:
 # word	sr	10
 # word	ss	20
 # word	ss	10
-# word	st	20
-# word	st	10
+格式	st	20
+格局	st	10
 # word	su	20
 # word	su	10
 根本	sv	20
@@ -1024,8 +1024,8 @@ encoder:
 长江	ta	10
 # word	tb	20
 # word	tb	10
-# word	tc	20
-# word	tc	10
+# word	tc	0
+# word	tc	0
 # word	td	20
 # word	td	10
 # word	te	20
@@ -1040,8 +1040,8 @@ encoder:
 # word	ti	10
 得到	tj	20
 得出	tj	10
-# word	tk	20
-# word	tk	10
+各种	tk	20
+各地	tk	10
 # word	tl	20
 # word	tl	10
 向上	tm	20
@@ -1054,8 +1054,8 @@ encoder:
 管理	tp	10
 # word	tq	20
 # word	tq	10
-# word	tr	20
-# word	tr	10
+物理	tr	20
+物质	tr	10
 条件	ts	20
 条例	ts	10
 笔记	tt	20
@@ -1066,8 +1066,8 @@ encoder:
 委托	tv	10
 答应	tw	20
 答复	tw	10
-# word	tx	20
-# word	tx	10
+第一	tx	20
+第二	tx	10
 # word	ty	20
 # word	ty	10
 # word	ua	20
@@ -1094,16 +1094,16 @@ encoder:
 部门	uk	10
 # word	ul	20
 # word	ul	10
-# word	um	20
-# word	um	10
+商品	um	20
+商业	um	10
 决定	un	20
 决赛	un	10
 # word	uo	20
 # word	uo	10
 # word	up	20
 # word	up	10
-# word	uq	20
-# word	uq	10
+交通	uq	20
+交流	uq	10
 # word	ur	20
 # word	ur	10
 亲戚	us	20
@@ -1216,8 +1216,8 @@ encoder:
 # word	wv	10
 # word	ww	20
 # word	ww	10
-# word	wx	20
-# word	wx	10
+化学	wx	20
+化解	wx	10
 # word	wy	20
 # word	wy	10
 # word	xa	20
@@ -1272,8 +1272,8 @@ encoder:
 # word	xy	10
 # word	ya	20
 # word	ya	10
-# word	yb	20
-# word	yb	10
+离开	yb	20
+离职	yb	10
 # word	yc	20
 # word	yc	10
 # word	yd	20
@@ -1318,5 +1318,5 @@ encoder:
 认识	yw	10
 # word	yx	20
 # word	yx	10
-# word	yy	20
-# word	yy	10
+方式	yy	20
+方面	yy	10
