@@ -978,8 +978,8 @@ encoder:
 # word	sc	10
 # word	sd	20
 # word	sd	10
-极其	se	20
-极端	se	10
+极端	se	20
+极其	se	10
 村民	sf	20
 村庄	sf	10
 # word	sg	20
@@ -1270,8 +1270,8 @@ encoder:
 # word	xx	10
 # word	xy	20
 # word	xy	10
-度过	ya	20
-度假	ya	10
+度假	ya	20
+度过	ya	10
 离开	yb	20
 离职	yb	10
 # word	yc	20
