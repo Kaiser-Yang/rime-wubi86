@@ -72,20 +72,20 @@ encoder:
 主动	y	10
 式子	aa	20
 式微	aa	10
-节目	ab	20
-节奏	ab	10
-# word	ac	20
-# word	ac	10
+节日	ab	20
+节目	ab	10
+芭蕾	ac	20
+芭蕉	ac	10
 基本	ad	20
 基础	ad	10
-# word	ae	20
-# word	ae	10
+菜单	ae	20
+菜鸟	ae	10
 革命	af	20
 革新	af	10
 七月	ag	20
 七夕	ag	10
-# word	ah	20
-# word	ah	10
+牙齿	ah	20
+牙膏	ah	10
 东西	ai	20
 东北	ai	10
 划分	aj	20
@@ -96,8 +96,8 @@ encoder:
 功夫	al	10
 # word	am	20
 # word	am	10
-# word	an	20
-# word	an	10
+世界	an	20
+世纪	an	10
 # word	ao	0
 # word	ao	0
 # word	ap	20
@@ -122,8 +122,8 @@ encoder:
 # word	ay	10
 # word	ba	20
 # word	ba	10
-# word	bb	20
-# word	bb	10
+子女	bb	20
+子孙	bb	10
 取消	bc	20
 取得	bc	10
 # word	bd	20
@@ -178,10 +178,10 @@ encoder:
 双手	cc	10
 # word	cd	20
 # word	cd	10
-# word	ce	20
-# word	ce	10
-# word	cf	20
-# word	cf	10
+能力	ce	20
+能够	ce	10
+对方	cf	20
+对于	cf	10
 # word	cg	20
 # word	cg	10
 # word	ch	0
@@ -232,8 +232,8 @@ encoder:
 胡说	de	10
 # word	df	20
 # word	df	10
-# word	dg	20
-# word	dg	10
+三月	dg	20
+三观	dg	10
 丰富	dh	20
 丰收	dh	10
 # word	di	20
@@ -244,8 +244,8 @@ encoder:
 # word	dk	10
 # word	dl	20
 # word	dl	10
-# word	dm	20
-# word	dm	10
+面试	dm	20
+面对	dm	10
 # word	dn	20
 # word	dn	10
 # word	do	20
@@ -254,8 +254,8 @@ encoder:
 达成	dp	10
 # word	dq	20
 # word	dq	10
-# word	dr	20
-# word	dr	10
+原因	dr	20
+原来	dr	10
 # word	ds	20
 # word	ds	10
 # word	dt	20
@@ -318,8 +318,8 @@ encoder:
 # word	ew	10
 # word	ex	20
 # word	ex	10
-# word	ey	20
-# word	ey	10
+及时	ey	20
+及格	ey	10
 # word	fa	20
 # word	fa	10
 # word	fb	0
@@ -332,8 +332,8 @@ encoder:
 # word	fe	10
 # word	ff	20
 # word	ff	10
-# word	fg	20
-# word	fg	10
+二月	fg	20
+二战	fg	10
 直接	fh	20
 直到	fh	10
 示范	fi	20
@@ -384,18 +384,18 @@ encoder:
 于今	gf	10
 五月	gg	20
 五行	gg	10
-# word	gh	20
-# word	gh	10
+下面	gh	20
+下班	gh	10
 还是	gi	20
 还有	gi	10
-# word	gj	20
-# word	gj	10
+理解	gj	20
+理由	gj	10
 事件	gk	20
 事实	gk	10
 # word	gl	20
 # word	gl	10
 现在	gm	20
-现代	gm	10
+现实	gm	10
 与其	gn	20
 与会	gn	10
 来源	go	20
@@ -410,8 +410,8 @@ encoder:
 # word	gs	10
 # word	gt	20
 # word	gt	10
-# word	gu	20
-# word	gu	10
+平均	gu	20
+平等	gu	10
 # word	gv	20
 # word	gv	10
 # word	gw	20
@@ -484,10 +484,10 @@ encoder:
 法国	if	10
 汪洋	ig	20
 汪汪	ig	10
-# word	ih	20
-# word	ih	10
-# word	ii	20
-# word	ii	10
+小时	ih	20
+小说	ih	10
+水平	ii	20
+水果	ii	10
 浊酒	ij	20
 浊水	ij	10
 # word	ik	20
@@ -500,16 +500,16 @@ encoder:
 # word	in	10
 # word	io	20
 # word	io	10
-# word	ip	20
-# word	ip	10
-# word	iq	20
-# word	iq	10
+学习	ip	20
+学校	ip	10
+光明	iq	20
+光线	iq	10
 # word	ir	20
 # word	ir	10
 # word	is	20
 # word	is	10
-# word	it	20
-# word	it	10
+少年	it	20
+少数	it	10
 # word	iu	20
 # word	iu	10
 当然	iv	20
@@ -528,8 +528,8 @@ encoder:
 紧急	jc	10
 # word	jd	20
 # word	jd	10
-# word	je	20
-# word	je	10
+明显	je	20
+明白	je	10
 时间	jf	20
 时候	jf	10
 量化	jg	20
@@ -626,22 +626,22 @@ encoder:
 # word	lb	10
 轻松	lc	20
 轻易	lc	10
-# word	ld	20
-# word	ld	10
+因为	ld	20
+因此	ld	10
 # word	le	20
 # word	le	10
 # word	lf	20
 # word	lf	10
 车辆	lg	20
 车厢	lg	10
-# word	lh	20
-# word	lh	10
+四月	lh	20
+四川	lh	10
 # word	li	0
 # word	li	0
 # word	lj	20
 # word	lj	10
-# word	lk	20
-# word	lk	10
+加强	lk	20
+加入	lk	10
 # word	ll	20
 # word	ll	10
 # word	lm	20
@@ -684,8 +684,8 @@ encoder:
 # word	mf	10
 赋值	mg	20
 赋予	mg	10
-# word	mh	20
-# word	mh	10
+由于	mh	20
+由此	mh	10
 # word	mi	20
 # word	mi	10
 # word	mj	20
@@ -708,8 +708,8 @@ encoder:
 # word	mr	10
 # word	ms	20
 # word	ms	10
-# word	mt	20
-# word	mt	10
+几乎	mt	20
+几率	mt	10
 # word	mu	20
 # word	mu	10
 # word	mv	0
@@ -776,8 +776,8 @@ encoder:
 # word	ob	10
 # word	oc	20
 # word	oc	10
-类似	od	20
-类型	od	10
+类型	od	20
+类似	od	10
 # word	oe	20
 # word	oe	10
 # word	of	20
@@ -828,8 +828,8 @@ encoder:
 # word	pc	0
 害怕	pd	20
 害羞	pd	10
-# word	pe	20
-# word	pe	10
+家庭	pe	20
+家长	pe	10
 守护	pf	20
 守卫	pf	10
 定位	pg	20
@@ -850,8 +850,8 @@ encoder:
 官员	pn	10
 # word	po	20
 # word	po	10
-# word	pp	20
-# word	pp	10
+之后	pp	20
+之中	pp	10
 # word	pq	20
 # word	pq	10
 # word	pr	20
@@ -862,8 +862,8 @@ encoder:
 客户	pt	10
 实现	pu	20
 实际	pu	10
-# word	pv	20
-# word	pv	10
+安排	pv	20
+安全	pv	10
 空间	pw	20
 空气	pw	10
 它们	px	20
@@ -903,7 +903,7 @@ encoder:
 # word	qp	20
 # word	qp	10
 多少	qq	20
-多年	qq	10
+多数	qq	10
 # word	qr	20
 # word	qr	10
 # word	qs	20
@@ -922,8 +922,8 @@ encoder:
 久违	qy	10
 找寻	ra	20
 找零	ra	10
-# word	rb	20
-# word	rb	10
+报告	rb	20
+报道	rb	10
 反对	rc	20
 反应	rc	10
 # word	rd	20
@@ -934,20 +934,20 @@ encoder:
 持久	rf	10
 后来	rg	20
 后面	rg	10
-# word	rh	20
-# word	rh	10
+年轻	rh	20
+年龄	rh	10
 # word	ri	20
 # word	ri	10
-# word	rj	20
-# word	rj	10
+提供	rj	20
+提高	rj	10
 # word	rk	20
 # word	rk	10
 # word	rl	20
 # word	rl	10
 抽象	rm	20
 抽烟	rm	10
-# word	rn	20
-# word	rn	10
+所以	rn	20
+所有	rn	10
 # word	ro	20
 # word	ro	10
 近期	rp	20
@@ -958,8 +958,8 @@ encoder:
 # word	rr	10
 打算	rs	20
 打开	rs	10
-# word	rt	20
-# word	rt	10
+手机	rt	20
+手段	rt	10
 拉伸	ru	20
 拉扯	ru	10
 # word	rv	20
@@ -982,10 +982,10 @@ encoder:
 极其	se	10
 村民	sf	20
 村庄	sf	10
-# word	sg	20
-# word	sg	10
-# word	sh	20
-# word	sh	10
+本来	sg	20
+本身	sg	10
+相信	sh	20
+相互	sh	10
 # word	si	20
 # word	si	10
 # word	sj	20
@@ -994,8 +994,8 @@ encoder:
 可能	sk	10
 # word	sl	20
 # word	sl	10
-# word	sm	20
-# word	sm	10
+机会	sm	20
+机构	sm	10
 # word	sn	20
 # word	sn	10
 # word	so	20
@@ -1010,8 +1010,8 @@ encoder:
 林子	ss	10
 格式	st	20
 格局	st	10
-# word	su	20
-# word	su	10
+样品	su	20
+样式	su	10
 根本	sv	20
 根据	sv	10
 # word	sw	20
@@ -1026,8 +1026,8 @@ encoder:
 # word	tb	10
 # word	tc	0
 # word	tc	0
-# word	td	20
-# word	td	10
+知识	td	20
+知道	td	10
 # word	te	20
 # word	te	10
 行为	tf	20
@@ -1068,18 +1068,18 @@ encoder:
 答复	tw	10
 第一	tx	20
 第二	tx	10
-# word	ty	20
-# word	ty	10
-# word	ua	20
-# word	ua	10
+入门	ty	20
+入党	ty	10
+并且	ua	20
+并非	ua	10
 闻名	ub	20
 闻讯	ub	10
 # word	uc	20
 # word	uc	10
 关系	ud	20
 关于	ud	10
-# word	ue	20
-# word	ue	10
+前途	ue	20
+前面	ue	10
 半岛	uf	20
 半夜	uf	10
 # word	ug	20
@@ -1088,8 +1088,8 @@ encoder:
 站台	uh	10
 # word	ui	20
 # word	ui	10
-# word	uj	20
-# word	uj	10
+间接	uj	20
+间断	uj	10
 部分	uk	20
 部门	uk	10
 曾经	ul	20
@@ -1110,8 +1110,8 @@ encoder:
 亲自	us	10
 首先	ut	20
 首要	ut	10
-# word	uu	20
-# word	uu	10
+立即	uu	20
+立场	uu	10
 妆容	uv	20
 妆奁	uv	10
 闪电	uw	20
@@ -1122,8 +1122,8 @@ encoder:
 六级	uy	10
 # word	va	20
 # word	va	10
-# word	vb	20
-# word	vb	10
+好像	vb	20
+好处	vb	10
 # word	vc	20
 # word	vc	10
 # word	vd	20
@@ -1158,8 +1158,8 @@ encoder:
 # word	vr	0
 # word	vs	20
 # word	vs	10
-九州	vt	20
-九泉	vt	10
+九月	vt	20
+九州	vt	10
 # word	vu	20
 # word	vu	10
 # word	vv	20
@@ -1170,22 +1170,22 @@ encoder:
 # word	vx	10
 妨碍	vy	20
 妨害	vy	10
-# word	wa	20
-# word	wa	10
-# word	wb	20
-# word	wb	10
-# word	wc	20
-# word	wc	10
+代码	wa	20
+代表	wa	10
+他们	wb	20
+他的	wb	10
+公司	wc	20
+公开	wc	10
 估计	wd	20
 估算	wd	10
 仍然	we	20
 仍未	we	10
 会议	wf	20
 会员	wf	10
-# word	wg	20
-# word	wg	10
-# word	wh	20
-# word	wh	10
+全部	wg	20
+全球	wg	10
+个人	wh	20
+个性	wh	10
 # word	wi	20
 # word	wi	10
 # word	wj	20
@@ -1208,18 +1208,18 @@ encoder:
 伯乐	wr	10
 休息	ws	20
 休闲	ws	10
-# word	wt	20
-# word	wt	10
-# word	wu	20
-# word	wu	10
-# word	wv	20
-# word	wv	10
-# word	ww	20
-# word	ww	10
+作品	wt	20
+作者	wt	10
+成功	wu	20
+成为	wu	10
+分析	wv	20
+分享	wv	10
+从事	ww	20
+从而	ww	10
 化学	wx	20
 化解	wx	10
-# word	wy	20
-# word	wy	10
+信息	wy	20
+信用	wy	10
 红色	xa	20
 红包	xa	10
 # word	xb	20
@@ -1230,8 +1230,8 @@ encoder:
 # word	xd	10
 # word	xe	20
 # word	xe	10
-# word	xf	20
-# word	xf	10
+结束	xf	20
+结果	xf	10
 # word	xg	20
 # word	xg	10
 引用	xh	20
@@ -1264,10 +1264,10 @@ encoder:
 # word	xu	10
 # word	xv	20
 # word	xv	10
-# word	xw	20
-# word	xw	10
-# word	xx	20
-# word	xx	10
+给予	xw	20
+给以	xw	10
+比较	xx	20
+比赛	xx	10
 # word	xy	20
 # word	xy	10
 度假	ya	20
@@ -1294,8 +1294,8 @@ encoder:
 # word	yk	10
 库存	yl	20
 库房	yl	10
-# word	ym	20
-# word	ym	10
+高级	ym	20
+高度	ym	10
 记录	yn	20
 记忆	yn	10
 变化	yo	20
