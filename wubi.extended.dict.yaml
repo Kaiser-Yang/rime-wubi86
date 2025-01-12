@@ -246,8 +246,8 @@ encoder:
 # word	dl	10
 面试	dm	20
 面对	dm	10
-# word	dn	20
-# word	dn	10
+成功	dn	20
+成为	dn	10
 # word	do	20
 # word	do	10
 达到	dp	20
@@ -1210,8 +1210,8 @@ encoder:
 休闲	ws	10
 作品	wt	20
 作者	wt	10
-成功	wu	20
-成为	wu	10
+# word	wu	0
+# word	wu	0
 分析	wv	20
 分享	wv	10
 从事	ww	20
