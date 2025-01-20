@@ -29155,7 +29155,7 @@ encoder:
 目不识丁	hgys	10
 上班族	hgyt	10
 上下文	hgyy	10
-止	hh	20	hhhg
+止	hh	30	hhhg
 卡式	hhaa	10
 上期	hhad	20
 卡其	hhad	10
@@ -47770,7 +47770,7 @@ encoder:
 崭新	mlus	10
 㟺	mlvf	10	mlvf
 内罗毕	mlxx	10
-册	mm	20	mmgd
+册	mm	30	mmgd
 删节	mmab	10
 巾帼英雄	mmad	10
 嶩	mmae	10	mmae
@@ -47781,7 +47781,6 @@ encoder:
 山茶	mmaw	20
 賟	mmaw	10	mmaw
 山药	mmax	10
-册子	mmbb	10
 山阴	mmbe	10
 山陵	mmbf	10
 山阳	mmbj	10
@@ -47807,7 +47806,6 @@ encoder:
 删去	mmfc	10
 山城	mmfd	10
 风风雨雨	mmff	20
-册封	mmff	10
 山崩地裂	mmfg	10
 山坡	mmfh	10
 凹进	mmfj	10
@@ -58215,7 +58213,7 @@ encoder:
 补给线	pxxg	10
 它就	pxyi	10
 神经衰弱	pxyx	10
-社	py	20	pyfg
+社	py	30	pyfg
 祺	pya	10	pyaw
 社工	pyaa	20
 祴	pyaa	10	pyaa
@@ -58229,7 +58227,6 @@ encoder:
 神功	pyal	10
 䄁	pyan	10	pyan
 祖茔	pyap	10
-社区	pyaq	10
 禖	pyas	10	pyas
 神医	pyat	20
 䄀	pyat	10	pyat
@@ -58575,7 +58572,6 @@ encoder:
 禴	pywa	10	pywa
 祝颂	pywc	10
 神佑	pywd	10
-社会	pywf	30
 祖传	pywf	20
 祔	pywf	10	pywf
 礼盒	pywg	30
@@ -59369,7 +59365,6 @@ encoder:
 鑀	qept	10	qept
 觗	qeqa	10	qeqa
 觤	qeqb	10	qeqb
-角色	qeqc	10
 狐朋狗友	qeqd	10
 触角	qeqe	10
 色胆包天	qeqg	20
@@ -59462,7 +59457,6 @@ encoder:
 觻	qexs	10	qexs
 解疑	qext	10
 䚥	qexu	10	qexu
-角度	qeya	10
 解离	qeyb	10
 解译	qeyc	10
 解衣	qeye	10
@@ -70191,7 +70185,7 @@ encoder:
 歓	rwyw	10	rwyw
 推广	rwyy	20
 失言	rwyy	10
-批	rx	10	rxxn
+批	rx	30	rxxn
 指节	rxab	10
 墍	rxaf	10	rxaf
 曁	rxag	10	rxag
@@ -70301,7 +70295,6 @@ encoder:
 后继乏人	rxtw	10
 搦	rxu	10	rxuu
 拂逆	rxub	10
-批判	rxud	30
 指着	rxud	20
 指头	rxud	10
 批斗	rxuf	10
@@ -70324,7 +70317,6 @@ encoder:
 指给	rxxw	10
 指纹	rxxy	10
 拂衣	rxye	10
-批评	rxyg	30
 批语	rxyg	20
 指证	rxyg	10
 指为	rxyl	10
@@ -87514,7 +87506,7 @@ encoder:
 退订	veys	10
 退庭	veyt	10
 㚫	veyy	10	veyy
-寻	vf	20	vfu
+寻	vf	30	vfu
 建工	vfaa	10
 彟	vfac	10	vfac
 那项	vfad	10
@@ -87563,7 +87555,6 @@ encoder:
 那封	vfff	10
 建起	vffh	20
 寻址	vffh	10
-寻求	vffi	10
 那块	vffn	40
 㜇	vffn	30	vffn
 嫮	vffn	20	vffn
@@ -87676,7 +87667,6 @@ encoder:
 娃儿	vfqt	30
 妹儿	vfqt	20
 奸猾	vfqt	10
-寻找	vfra	10
 那年	vfrh	10
 建制	vfrm	10
 好运气	vfrn	20
@@ -91621,7 +91611,7 @@ encoder:
 体温计	wiyf	10
 人满为患	wiyk	10
 贪污腐化	wiyw	10
-介	wj	10	wjj
+介	wj	30	wjj
 儤	wjai	10	wjai
 偶或	wjak	10
 介子	wjbb	10
@@ -91698,7 +91688,6 @@ encoder:
 伸向	wjtm	10
 介乎	wjtu	10
 但系	wjtx	10
-介入	wjty	20
 伸入	wjty	10
 伸头	wjud	10
 介意	wjuj	10
@@ -91718,7 +91707,6 @@ encoder:
 儑	wjxo	10	wjxo
 伸缩	wjxp	10
 伸张	wjxt	10
-介绍	wjxv	10
 倱	wjxx	10	wjxx
 俚语	wjyg	10
 但应	wjyi	10

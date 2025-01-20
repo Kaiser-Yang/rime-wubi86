@@ -434,8 +434,8 @@ encoder:
 # word	hf	10
 # word	hg	20
 # word	hg	10
-# word	hh	20
-# word	hh	10
+止损	hh	20
+止盈	hh	10
 步骤	hi	20
 步伐	hi	10
 # word	hj	20
@@ -694,8 +694,8 @@ encoder:
 # word	mk	0
 # word	ml	20
 # word	ml	10
-# word	mm	20
-# word	mm	10
+册子	mm	20
+册封	mm	10
 # word	mn	20
 # word	mn	10
 # word	mo	0
@@ -868,8 +868,8 @@ encoder:
 空气	pw	10
 它们	px	20
 它的	px	10
-# word	py	20
-# word	py	10
+社会	py	20
+社区	py	10
 # word	qa	20
 # word	qa	10
 # word	qb	20
@@ -878,8 +878,8 @@ encoder:
 色调	qc	10
 然后	qd	20
 然而	qd	10
-# word	qe	20
-# word	qe	10
+角度	qe	20
+角色	qe	10
 # word	qf	20
 # word	qf	10
 钱包	qg	20
@@ -966,8 +966,8 @@ encoder:
 # word	rv	10
 失败	rw	20
 失去	rw	10
-# word	rx	20
-# word	rx	10
+批评	rx	20
+批判	rx	10
 # word	ry	20
 # word	ry	10
 # word	sa	20
@@ -1130,8 +1130,8 @@ encoder:
 # word	vd	10
 奶茶	ve	20
 奶粉	ve	10
-# word	vf	20
-# word	vf	10
+寻找	vf	20
+寻求	vf	10
 # word	vg	20
 # word	vg	10
 # word	vh	0
@@ -1188,8 +1188,8 @@ encoder:
 个性	wh	10
 # word	wi	20
 # word	wi	10
-# word	wj	20
-# word	wj	10
+介绍	wj	20
+介入	wj	10
 保护	wk	20
 保持	wk	10
 # word	wl	20
