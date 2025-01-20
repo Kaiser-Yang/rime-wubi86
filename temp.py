@@ -26,9 +26,9 @@ def main():
                         code += ch3
                     if ch4 != '\0':
                         code += ch4
-                    if len(code) != 2:
+                    if len(code) != 3:
                         continue
-                    if code != '' and code not in code_dict:
+                    if code not in code_dict:
                         lines.add(code)
     lines = list(lines)
     # sort by len then by code
@@ -39,8 +39,8 @@ def main():
             if code.startswith(line):
                 for word in code_dict[code]:
                     new_line += '\t' + word
-        new_line += '\n'
-        file.write(new_line)
+        if len(new_line) > 3:
+            file.write(new_line + '\n')
     file.close()
     dict_file.close()
 

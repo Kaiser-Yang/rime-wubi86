@@ -715,7 +715,7 @@ encoder:
 # word	mv	0
 # word	mv	0
 内容	mw	20
-内部	mw	10
+内在	mw	10
 # word	mx	20
 # word	mx	10
 # word	my	20
@@ -884,8 +884,8 @@ encoder:
 # word	qf	10
 钱包	qg	20
 钱财	qg	10
-# word	qh	20
-# word	qh	10
+外面	qh	20
+外在	qh	10
 乐观	qi	20
 乐趣	qi	10
 # word	qj	20

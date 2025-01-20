@@ -49002,8 +49002,7 @@ encoder:
 内码	mwdc	10
 内有	mwde	10
 肉感	mwdg	10
-内存	mwdh	20
-内在	mwdh	10
+内存	mwdh	10
 内耗	mwdi	10
 内页	mwdm	20
 内面	mwdm	10
@@ -49169,6 +49168,7 @@ encoder:
 内眷	mwud	10
 内装	mwuf	20
 内斗	mwuf	10
+内部	mwuk	10
 内疚	mwuq	30
 肉酱	mwuq	20
 内资	mwuq	10
@@ -60063,9 +60063,7 @@ encoder:
 外有	qhde	10
 钻石	qhdg	20
 钻研	qhdg	10
-外在	qhdh	20
 外存	qhdh	10
-外面	qhdm	10
 鐬	qhdt	10	qhdt
 独眼龙	qhdx	10
 外服	qheb	10
