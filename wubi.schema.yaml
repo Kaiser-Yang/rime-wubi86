@@ -122,6 +122,7 @@ simplifier:
 
 key_binder:
   bindings:
+    - {accept: Control+n, send: Escape, when: composing}
     - {accept: space, send: Escape, when: composing}
     - {accept: space, send: space, when: has_menu}
     - {accept: semicolon, send: 2, when: has_menu}
