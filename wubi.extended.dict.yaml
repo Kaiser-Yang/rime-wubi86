@@ -528,8 +528,8 @@ encoder:
 紧急	jc	10
 # word	jd	20
 # word	jd	10
-明显	je	20
-明白	je	10
+明白	je	20
+明显	je	10
 时间	jf	20
 时候	jf	10
 量化	jg	20
