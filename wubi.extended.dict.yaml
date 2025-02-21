@@ -390,8 +390,8 @@ encoder:
 还有	gi	10
 理解	gj	20
 理由	gj	10
-事件	gk	20
-事实	gk	10
+事实	gk	20
+事件	gk	10
 # word	gl	20
 # word	gl	10
 现在	gm	20
@@ -529,7 +529,7 @@ encoder:
 # word	jd	20
 # word	jd	10
 明白	je	20
-明显	je	10
+明天	je	10
 时间	jf	20
 时候	jf	10
 量化	jg	20

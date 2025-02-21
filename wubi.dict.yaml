@@ -21713,8 +21713,8 @@ encoder:
 都	ftjb	10	ftjb
 䰩	ftjc	20	ftjc
 殾	ftjc	10	ftjc
-老师	ftjg	60
-都是	ftjg	50
+都是	ftjg	60
+老师	ftjg	50
 才是	ftjg	40
 教师	ftjg	30
 考量	ftjg	20
@@ -37144,7 +37144,6 @@ encoder:
 蛶	jefy	10	jefy
 蛆	jeg	30	jegg
 蚏	jeg	10	jeg
-明天	jegd	10
 明理	jegj	10
 勗	jegl	10	jegl
 明丽	jegm	10
@@ -37173,6 +37172,7 @@ encoder:
 明早	jejh	20
 蛆虫	jejh	10
 明日	jejj	10
+明显	jejo	10
 明晚	jejq	10
 明晰	jejs	10
 明星	jejt	20
@@ -94724,7 +94724,8 @@ encoder:
 信教	wyft	10
 但说无妨	wyfv	10
 傠	wyfy	10	wyfy
-隹	wyg	30	wyg
+住	wyg	20	wygg
+隹	wyg	10	wyg
 停顿	wygb	20
 分文不取	wygb	10
 领到	wygc	10
@@ -94733,7 +94734,6 @@ encoder:
 登记表	wyge	10
 贪玩	wygf	20
 偏于	wygf	10
-住	wygg	10	wygg
 停下	wygh	20
 住下	wygh	10
 偏不	wygi	10
@@ -99434,8 +99434,8 @@ encoder:
 䙝	yfue	10	yfue
 䛭	yfuf	10	yfuf
 记者站	yfuh	10
-诗意	yfuj	20
-读音	yfuj	10
+读音	yfuj	20
+诗意	yfuj	10
 市场部	yfuk	20
 诘问	yfuk	10
 讨亲	yfus	10
