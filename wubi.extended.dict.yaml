@@ -990,8 +990,8 @@ encoder:
 # word	si	10
 # word	sj	20
 # word	sj	10
-可以	sk	20
-可能	sk	10
+可能	sk	20
+可以	sk	10
 # word	sl	20
 # word	sl	10
 机会	sm	20
@@ -1026,8 +1026,8 @@ encoder:
 # word	tb	10
 # word	tc	0
 # word	tc	0
-知识	td	20
-知道	td	10
+知道	td	20
+知识	td	10
 # word	te	20
 # word	te	10
 行为	tf	20
@@ -1078,8 +1078,8 @@ encoder:
 # word	uc	10
 关系	ud	20
 关于	ud	10
-前途	ue	20
-前面	ue	10
+前面	ue	20
+前途	ue	10
 半岛	uf	20
 半夜	uf	10
 # word	ug	20
@@ -1310,8 +1310,8 @@ encoder:
 # word	ys	10
 放弃	yt	20
 放下	yt	10
-说明	yu	20
-说话	yu	10
+说话	yu	20
+说明	yu	10
 # word	yv	20
 # word	yv	10
 认为	yw	20

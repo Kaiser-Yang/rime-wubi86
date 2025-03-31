@@ -13523,6 +13523,7 @@ encoder:
 砶	drg	10	drg
 原型	drga	20
 原形	drga	10
+百看不厌	drgd	20
 大白天	drgd	10
 万年青	drge	10
 三缺一	drgg	20
@@ -25352,7 +25353,6 @@ encoder:
 不公	giwc	10
 不做	giwd	10
 䬩	giwe	10	giwe
-不会	giwf	60
 还会	giwf	50
 不佳	giwf	40
 不舍	giwf	30
@@ -48144,6 +48144,7 @@ encoder:
 迪兰	mpuf	10
 赔礼道歉	mpuu	10
 峖	mpvg	10	mpvg
+见字如晤	mpvj	10
 崆	mpw	10	mpwa
 㟮	mpwd	10	mpwd
 嵱	mpwk	10	mpwk
@@ -68146,6 +68147,7 @@ encoder:
 换件	rqwr	10
 换位	rqwu	10
 换人	rqww	10
+持久化	rqwy	30
 换货	rqwx	20
 反独促统	rqwx	10
 抱住	rqwy	30
@@ -76776,13 +76778,13 @@ encoder:
 稜	tfwt	20	tfwt
 䈊	tfwt	10	tfwt
 等分	tfwv	10
-造价	tfww	80
+等价	tfww	80
 丢人	tfww	70
 等人	tfww	60
 行人	tfww	50
-待人	tfww	40
+造价	tfww	40
 先人	tfww	30
-等价	tfww	20
+待人	tfww	20
 丢份	tfww	10
 行货	tfwx	30
 自动化	tfwx	20
@@ -80513,6 +80515,7 @@ encoder:
 笑谈	ttyo	10
 笔底	ttyq	10
 笑话	ttyt	10
+怎么说	ttyu	20
 笑说	ttyu	10
 毛利率	ttyx	10
 先入为主	ttyy	20
@@ -81106,6 +81109,7 @@ encoder:
 答案	twpv	10
 答礼	twpy	10
 答错	twqa	10
+重命名	twqk	30
 签名	twqk	20
 每分钟	twqk	10
 自作多情	twqn	10
@@ -85260,7 +85264,9 @@ encoder:
 间接税	urtu	10
 交白卷	urud	10
 疯牛病	urug	10
+前后端	urum	10
 总投资	uruq	10
+前后端分离	uruy	20
 半推半就	uruy	10
 新年好	urvb	10
 兿	urvc	10	urvc
