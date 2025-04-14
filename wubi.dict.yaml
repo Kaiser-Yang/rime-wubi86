@@ -1773,6 +1773,7 @@ encoder:
 工具栏	ahsu	10
 牙根	ahsv	10
 邪术	ahsy	10
+雅	aht	10	ahty
 邪	ahtb	10	ahtb
 㸧	ahte	10	ahte
 基督徒	ahtf	10
@@ -1787,7 +1788,6 @@ encoder:
 牙科	ahtu	20
 邪乎	ahtu	10
 牙签	ahtw	10
-雅	ahty	10	ahty
 牙痛	ahuc	10
 牙关	ahud	20
 卧着	ahud	10
@@ -1925,6 +1925,7 @@ encoder:
 蔋	aihc	10	aihc
 落点	aihk	10
 蔢	aihv	10	aihv
+莎	aii	10	aiit
 黄浦江	aiia	30
 东江	aiia	20
 落满	aiia	10
@@ -1938,7 +1939,6 @@ encoder:
 东光	aiiq	10
 落泊	aiir	10
 薄酒	aiis	10
-莎	aiit	20	aiit
 东海	aiit	10
 荡漾	aiiu	20
 东洋	aiiu	10
@@ -8335,6 +8335,7 @@ encoder:
 通货	cewx	10
 通信	cewy	20
 通令	cewy	10
+熊	cex	10	cexo
 通红	cexa	10
 通经	cexc	10
 騱	cexd	10	cexd
@@ -8343,7 +8344,6 @@ encoder:
 䘅	cexj	10	cexj
 通缉	cexk	10
 態	cexn	10	cexn
-熊	cexo	20	cexo
 熋	cexo	10	cexo
 通缩	cexp	10
 通统	cexy	10
@@ -9235,7 +9235,7 @@ encoder:
 预备队	ctbw	10
 骄矜	ctcb	10
 骆驼	ctcp	10
-骄	ctdj	10	ctdj
+骄	ctd	10	ctdj
 驕	ctdk	10	ctdk
 逘	ctdp	10	ctdp
 欸	ctdw	10	ctdw
@@ -13811,8 +13811,8 @@ encoder:
 大行其道	dtau	10
 厇	dtav	10	dtav
 厉行节约	dtax	10
+邦	dtb	10	dtbh
 帮子	dtbb	10
-邦	dtbh	20	dtbh
 幚	dtbh	10	dtbh
 寿阳	dtbj	10
 砤	dtbn	10	dtbn
@@ -41015,6 +41015,7 @@ encoder:
 遗照	khjv	10
 跩	khjx	10	khjx
 踪影	khjy	10
+躁	khk	10	khks
 咔嗒	khka	10
 咔哒	khkd	20
 忠顺	khkd	10
@@ -41052,7 +41053,6 @@ encoder:
 咔嚓	khkp	10
 嘘唏	khkq	10
 中听	khkr	10
-躁	khks	10	khks
 啃噬	khkt	10
 盅	khl	10	khlf
 中辍	khlc	10
@@ -41318,6 +41318,7 @@ encoder:
 跨入	khty	30
 跌入	khty	20
 中篇	khty	10
+蹲	khu	10	khuf
 蹉	khua	20	khua
 跰	khua	10	khua
 足疗	khub	40
@@ -41337,7 +41338,6 @@ encoder:
 蹢	khud	10	khud
 跟前	khue	20
 䠔	khue	10	khue
-蹲	khuf	40	khuf
 跟斗	khuf	30
 跘	khuf	20	khuf
 蹱	khuf	10	khuf
@@ -41577,9 +41577,9 @@ encoder:
 哨所	kirn	10
 顺水推舟	kirt	10
 吵醒	kisg	10
+嗨	kit	10	kitu
 中学生	kitg	10
 㗂	kith	10	kith
-嗨	kitu	10	kitu
 哨音	kiuj	10
 品学兼优	kiuw	10
 吵闹	kiuy	10
@@ -47117,11 +47117,11 @@ encoder:
 凡士林	mfss	10
 风云榜	mfsu	10
 同声相应	mfsy	10
+赌	mft	10	mftj
 周长	mfta	10
 周知	mftd	10
 赌徒	mftf	10
 雕版	mfth	10
-赌	mftj	20	mftj
 賭	mftj	10	mftj
 财务	mftl	10
 赎身	mftm	20
@@ -57725,6 +57725,7 @@ encoder:
 安详	pvyu	10
 安康	pvyv	10
 空	pw	30	pwaf
+穿	pwa	10	pwat
 窝工	pwaa	10
 䇀	pwab	10	pwab
 㲁	pwac	10	pwac
@@ -57744,7 +57745,6 @@ encoder:
 鵼	pwao	10	pwao
 宿营	pwap	10
 安全区	pwaq	10
-穿	pwat	10	pwat
 窃	pwav	10	pwav
 窗花	pwaw	20
 社会工作	pwaw	10
@@ -64345,6 +64345,7 @@ encoder:
 拱桥	rast	10
 扛枪	rasw	10
 描述	rasy	10
+挠	rat	10	ratq
 措辞	ratd	10
 摸透	rate	20
 搭船	rate	10
@@ -64353,7 +64354,6 @@ encoder:
 摸得	ratj	10
 撒种	ratk	10
 撒向	ratm	10
-挠	ratq	10	ratq
 搭乘	ratu	10
 拒签	ratw	10
 摸着	raud	40
@@ -101725,7 +101725,7 @@ encoder:
 这厢	ypds	10
 这帮	ypdt	20
 言之有物	ypdt	10
-谊	ypeg	20	ypeg
+谊	ype	10	ypeg
 誼	ypeg	10	ypeg
 豪爵	ypel	10
 这股	ypem	10

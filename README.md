@@ -21,9 +21,21 @@ Forked from [空山明月/Rime五笔](https://gitee.com/hi-coder/rime-wubi)
 
 新增的三级简码：
 
-* 目 hhh
-* 已 nnn
-* 道 uth
+* 雅 aht
+* 莎 aii
+* 熊 cex
+* 骄 ctd
+* 邦 dtb
 * 干 fgg
-* 智 tdj
+* 目 hhh
 * 满 iag
+* 躁 khk
+* 蹲 khu
+* 嗨 kit
+* 赌 mft
+* 已 nnn
+* 穿 pwa
+* 挠 rat
+* 道 uth
+* 谊 ype
+* 智 tdk
