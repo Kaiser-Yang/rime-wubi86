@@ -17977,6 +17977,7 @@ encoder:
 垜	fesy	20	fesy
 埰	fesy	10	fesy
 干脆利落	feta	10
+云服务器	fetk	10
 运用自如	fetv	10
 喜逐颜开	feug	10
 专用章	feuj	10
@@ -21117,6 +21118,7 @@ encoder:
 无一	fqgg	10
 无不	fqgi	10
 无理	fqgj	10
+均速	fqgk	30
 无赖	fqgk	20
 无事	fqgk	10
 截然不同	fqgm	10
@@ -23521,7 +23523,8 @@ encoder:
 天柱	gdsy	10
 天长	gdta	10
 天敌	gdtd	10
-天竺	gdtf	10
+天竺	gdtf	20
+天选	gdtf	10
 天生	gdtg	20
 天籁	gdtg	10
 瓑	gdth	10	gdth
@@ -27719,6 +27722,7 @@ encoder:
 再造之恩	gtpl	10
 一得之见	gtpm	10
 不务空名	gtpq	10
+天选之人	gtpw	10
 瓈	gtqi	10	gtqi
 一秒钟	gtqk	10
 夹生饭	gtqn	10
@@ -29218,6 +29222,7 @@ encoder:
 上坟	hhfy	10
 䀠	hhg	10	hhg
 上刑	hhga	10
+卡顿	hhgb	10
 上至	hhgc	10
 上天	hhgd	10
 止于	hhgf	10
@@ -34897,6 +34902,7 @@ encoder:
 湮灭	isgo	10
 举棋不定	isgp	10
 河殇	isgq	10
+治标不治本	isgs	10
 汀	ish	20	ish
 漆皮	ishc	10
 湘	ishg	10	ishg
@@ -58574,6 +58580,7 @@ encoder:
 禴	pywa	10	pywa
 祝颂	pywc	10
 神佑	pywd	10
+宣讲会	pywf	30
 祖传	pywf	20
 祔	pywf	10	pywf
 礼盒	pywg	30
@@ -63168,10 +63175,11 @@ encoder:
 犯傻	qtwt	20
 狳	qtwt	10	qtwt
 名特优新	qtwu	10
-猎人	qtww	60
-狂人	qtww	50
-犯人	qtww	40
-狼人	qtww	30
+狠人	qtww	70
+犯人	qtww	60
+狼人	qtww	50
+猎人	qtww	40
+狂人	qtww	30
 猿人	qtww	20
 獫	qtww	10	qtww
 儿化	qtwx	10
@@ -68147,7 +68155,7 @@ encoder:
 换件	rqwr	10
 换位	rqwu	10
 换人	rqww	10
-持久化	rqwy	30
+持久化	rqwx	30
 换货	rqwx	20
 反独促统	rqwx	10
 抱住	rqwy	30
@@ -72458,6 +72466,7 @@ encoder:
 相背	shux	10
 相好	shvb	10
 根目录	shvi	10
+朴刀	shvn	10
 相公	shwc	10
 想做	shwd	10
 相传	shwf	20
@@ -77402,6 +77411,7 @@ encoder:
 自用	thet	20
 延用	thet	10
 臭脸	thew	10
+怎	thf	30	thfn
 乍	thf	20	thfd
 䇛	thf	10	thf
 自裁	thfa	10
@@ -77411,7 +77421,6 @@ encoder:
 算卦	thff	10
 自救	thfi	10
 延吉	thfk	10
-怎	thfn	30	thfn
 版块	thfn	20
 鼾声	thfn	10
 迮	thfp	10	thfp
@@ -79444,6 +79453,7 @@ encoder:
 管径	tptc	10
 长安街	tptf	10
 管自	tpth	10
+重定向	tptm	10
 管管	tptp	10
 利害得失	tptr	20
 管箍	tptr	10
@@ -88669,6 +88679,7 @@ encoder:
 婚宴	vqpj	10
 好色之徒	vqpt	10
 婚礼	vqpy	10
+女角色	vqqc	10
 婚外	vqqh	10
 姼	vqqy	10	vqqy
 婚后	vqrg	10
