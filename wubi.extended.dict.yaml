@@ -376,7 +376,7 @@ encoder:
 # word	gb	10
 到底	gc	20
 到处	gc	10
-天气	gd	20
+天才	gd	20
 天下	gd	10
 表示	ge	20
 表现	ge	10
@@ -1140,8 +1140,8 @@ encoder:
 # word	vi	10
 # word	vj	20
 # word	vj	10
-如果	vk	20
-如何	vk	10
+如何	vk	20
+如果	vk	10
 # word	vl	20
 # word	vl	10
 # word	vm	20

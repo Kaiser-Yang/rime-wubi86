@@ -404,6 +404,7 @@ encoder:
 节能减排	acur	10
 匹马单枪	acus	10
 茅舍	acwf	10
+蒸桑拿	acwg	10
 荾	acwt	10	acwt
 戎马倥偬	acww	10
 莫桑比克	acxd	10
@@ -10143,8 +10144,9 @@ encoder:
 大水	ddii	20
 大大小小	ddii	10
 大洞	ddim	10
-大堂	ddip	20
-厌学	ddip	10
+大堂	ddip	30
+厌学	ddip	20
+大赏	ddip	10
 大溜	ddiq	10
 大河	ddis	10
 大海	ddit	10
@@ -23352,7 +23354,6 @@ encoder:
 天元	gdfq	20
 一石二鸟	gdfq	10
 栞	gdfs	10	gdfs
-天才	gdft	10
 天幸	gdfu	10
 一大堆	gdfw	10
 天壤	gdfy	10
@@ -23508,6 +23509,7 @@ encoder:
 天年	gdrh	20
 吞掉	gdrh	10
 青春年少	gdri	10
+天气	gdrn	20
 死而后已	gdrn	10
 天鬼	gdrq	10
 亚非拉	gdru	10
@@ -26562,6 +26564,7 @@ encoder:
 死心塌地	gnff	10
 㺲	gnfg	10	gnfg
 瓦块	gnfn	10
+开发者	gnft	10
 珝	gng	10	gng
 于心不甘	gnga	10
 不屑一顾	gngd	10
@@ -56888,6 +56891,7 @@ encoder:
 安息日	ptjj	10
 宅电	ptjn	10
 家长里短	ptjt	10
+字符串	ptkk	20
 客串	ptkk	10
 额	ptkm	30	ptkm
 宇航员	ptkm	20
@@ -66510,6 +66514,7 @@ encoder:
 提早	rjjh	10
 白晃晃	rjji	10
 气昂昂	rjjq	10
+提踵	rjkh	10
 摱	rjlc	10	rjlc
 揾	rjlg	10	rjlg
 担架	rjlk	10
@@ -89187,6 +89192,7 @@ encoder:
 嬧	vvhl	10	vvhl
 女贞	vvhm	10
 婚姻法	vvif	10
+好好学习	vvin	10
 女流	vviy	20
 娽	vviy	10	vviy
 九九归一	vvjg	10
@@ -93371,7 +93377,8 @@ encoder:
 八仙	wtwm	10
 作假	wtwn	10
 䳜	wtwo	10	wtwo
-任何	wtws	10
+任何	wtws	20
+伤身体	wtws	10
 任凭	wtwt	30
 傻傻	wtwt	20
 斜斜	wtwt	10
