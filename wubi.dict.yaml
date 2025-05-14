@@ -14700,6 +14700,7 @@ encoder:
 碎块	dyfn	10
 太过	dyfp	10
 太远	dyfq	10
+大主教	dyft	10
 丈夫	dyfw	10
 矿坑	dyfy	10
 䂴	dyg	10	dyg
@@ -15979,7 +15980,7 @@ encoder:
 受阻	epbe	10
 受聘	epbm	20
 逐出	epbm	10
-受了	epbn	10
+脱裤子放屁	epbn	10
 受降	epbt	10
 受限	epbv	10
 受	epc	10	epcu
@@ -19673,6 +19674,7 @@ encoder:
 電	fjnb	10	fjnb
 韩剧	fjnd	10
 进屋	fjng	30
+吉时已到	fjng	20
 䎐	fjng	10	fjng
 韓	fjnh	10	fjnh
 井壁	fjnk	10
@@ -20379,6 +20381,7 @@ encoder:
 声能	fnce	10
 喜忧参半	fncu	10
 声码	fndc	10
+专硕	fndd	10
 专有	fnde	10
 声压	fndf	10
 声威	fndg	10
@@ -22976,6 +22979,7 @@ encoder:
 开镰	gaqy	10
 玛莎拉蒂	gara	10
 开拓	gard	10
+开挂	garf	20
 武技	garf	10
 武后	garg	10
 弄掉	garh	10
@@ -29077,6 +29081,7 @@ encoder:
 睦邻	hfwy	20
 矐	hfwy	10	hfwy
 虚无缥缈	hfxx	10
+虚无主义者	hfyf	10
 歧义	hfyq	10
 点击率	hfyx	10
 虚无主义	hfyy	10
@@ -30410,11 +30415,10 @@ encoder:
 瞼	hwgw	10	hwgw
 具体来说	hwgy	10
 瞪眼	hwhv	10
-瞧瞧	hwhw	50
 龌龊	hwhw	40
-盼盼	hwhw	30
-龋齿	hwhw	20
-龃龉	hwhw	10
+龋齿	hwhw	30
+龃龉	hwhw	20
+龆龀	hwhw	10
 䡞	hwlj	10	hwlj
 瞪圆	hwlk	10
 齿轮	hwlw	10
@@ -33931,6 +33935,7 @@ encoder:
 常驻	ipcy	10
 深宅大院	ipdb	10
 学友	ipdc	20
+学硕	ipdd	10
 浤	ipdc	10	ipdc
 深大	ipdd	20
 常套	ipdd	10
@@ -34585,6 +34590,7 @@ encoder:
 淘金	iqqq	10
 逃犯	iqqt	10
 滤色镜	iqqu	10
+光锥	iqqw	10
 没多久	iqqy	10
 淘	iqr	10	iqrm
 渔捞	iqra	10
@@ -62569,9 +62575,10 @@ encoder:
 锋芒	qtay	20
 獾	qtay	10	qtay
 犯	qtb	20	qtbn
-猴子	qtbb	30
-狮子	qtbb	20
-锤子	qtbb	10
+猴子	qtbb	40
+狮子	qtbb	30
+锤子	qtbb	20
+独生子	qtbb	10
 猎取	qtbc	10
 㺦	qtbg	10	qtbg
 卯	qtbh	10	qtbh
@@ -63146,7 +63153,8 @@ encoder:
 㺐	qtvs	10	qtvs
 儿媳	qtvt	10
 猜嫌	qtvu	10
-儿女	qtvv	10
+儿女	qtvv	20
+独生女	qtvv	10
 㺞	qtvw	10	qtvw
 锋刃	qtvy	20
 犱	qtvy	10	qtvy
@@ -93489,6 +93497,7 @@ encoder:
 伞	wuh	10	wuhj
 公交卡	wuhh	10
 倍频	wuhi	10
+创新点	wuhk	10
 伞具	wuhw	10
 倍添	wuig	10
 傍水	wuii	10
@@ -95568,6 +95577,7 @@ encoder:
 红梅	xast	10
 红榜	xasu	20
 绣花枕头	xasu	10
+练枪	xasw	20
 红松	xasw	10
 绕	xat	10	xatq
 绕舌	xatd	10
@@ -95992,6 +96002,7 @@ encoder:
 䊸	xfnn	10	xfnn
 结尾	xfnt	10
 乡规民约	xfnx	10
+结发	xfnt	30
 䌸	xfny	20	xfny
 綕	xfny	10	xfny
 结籽	xfob	10
@@ -96102,6 +96113,7 @@ encoder:
 母子	xgbb	10
 纯阳	xgbj	10
 純	xgbn	10	xgbn
+毕不了业	xgbo	10
 绝不能	xgce	10
 絰	xgcf	20	xgcf
 绖	xgcf	10	xgcf
@@ -96881,6 +96893,7 @@ encoder:
 母以子贵	xnbk	10
 维尼熊	xnce	10
 比翼双飞	xncn	10
+结发丈夫	xndf	10
 䋧	xndg	10	xndg
 幻成	xndn	10
 幻月	xnee	10
