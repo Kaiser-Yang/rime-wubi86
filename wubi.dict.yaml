@@ -14638,6 +14638,7 @@ encoder:
 丈母娘	dxvy	10
 龙体	dxws	10
 垄作	dxwt	10
+有缘人	dxww	20
 袭人	dxww	10
 龙华	dxwx	10
 砒	dxx	10	dxxn
@@ -18809,12 +18810,13 @@ encoder:
 䞨	fhff	10	fhff
 真坏	fhfg	20
 䟈	fhfg	10	fhfg
-赶走	fhfh	60
-超越	fhfh	50
-赶赴	fhfh	40
-赶超	fhfh	30
-矗	fhfh	20	fhfh
-越起	fhfh	10
+赶走	fhfh	70
+超越	fhfh	60
+赶赴	fhfh	50
+赶超	fhfh	40
+矗	fhfh	30	fhfh
+越起	fhfh	20
+趔趄	fhfh	10
 䞽	fhfi	10	fhfi
 走进	fhfj	10
 趌	fhfk	20	fhfk
@@ -21941,6 +21943,7 @@ encoder:
 才会	ftwf	30
 教会	ftwf	20
 老舍	ftwf	10
+老命	ftwg	20
 才使	ftwg	10
 㙡	ftwh	10	ftwh
 㙮	ftwk	10	ftwk
@@ -22394,6 +22397,7 @@ encoder:
 无凭无据	fwfr	20
 摰	fwfr	10	fwfr
 槷	fwfs	10	fwfs
+协作者	fwft	20
 无依无靠	fwft	10
 十全十美	fwfu	10
 霍霍	fwfw	30
@@ -77945,7 +77949,8 @@ encoder:
 翻江倒海	tiwi	20
 垂涎欲滴	tiwi	10
 稍低	tiwq	10
-稍作	tiwt	10
+稍作	tiwt	20
+乘法分配律	tiwt	10
 特洛伊	tiwv	10
 香港人	tiww	20
 选举人	tiww	10
@@ -80211,8 +80216,7 @@ encoder:
 箱笼	tstd	10
 笨重	tstg	10
 䈷	tstk	10	tstk
-条条	tsts	20
-笨笨	tsts	10
+行李箱	tsts	10
 自查自纠	tstx	10
 知根知底	tsty	10
 条状	tsud	10
@@ -84871,6 +84875,7 @@ encoder:
 旁侧	upwm	10
 帝位	upwu	10
 旁人	upww	10
+首字母	utxg	20
 亲家母	upxg	10
 㾃	upxv	10	upxv
 旁	upy	10	upyb
@@ -92953,6 +92958,7 @@ encoder:
 何种	wstk	10
 何愁	wsto	10
 何物	wstr	10
+分配律	wstv	20
 体委	wstv	10
 体系	wstx	10
 休养	wsud	10
@@ -94048,7 +94054,8 @@ encoder:
 人声	wwfn	10
 坐过	wwfp	10
 人均	wwfq	10
-人才	wwft	20
+人才	wwft	30
+合作者	wwft	20
 夎	wwft	10	wwft
 借贷无门	wwfu	10
 人堆	wwfw	10
