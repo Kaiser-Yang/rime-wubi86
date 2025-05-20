@@ -24163,8 +24163,6 @@ encoder:
 一寸	ggfg	30
 一干	ggfg	20
 一十	ggfg	10
-一起	ggfh	50
-一直	ggfh	40
 一趟	ggfh	30
 不列颠	ggfh	20
 玗	ggfh	10	ggfh
@@ -24371,6 +24369,7 @@ encoder:
 王宏	ggpd	10
 一家	ggpe	10
 王冠	ggpf	10
+一定	ggpg	30
 不一定	ggpg	20
 环宇	ggpg	10
 一审	ggpj	10
@@ -24448,6 +24447,7 @@ encoder:
 玻璃板	ggsr	10
 一梦	ggss	10
 一枚	ggst	10
+一样	ggsu	30
 不一样	ggsu	20
 琹	ggsu	10	ggsu
 一根	ggsv	20
@@ -51953,6 +51953,7 @@ encoder:
 发飚	ntmq	10
 必败	ntmt	10
 发凡	ntmy	10
+发展	ntna	20
 发慌	ntna	10
 悖入悖出	ntnb	10
 发愤	ntnf	10
@@ -52079,8 +52080,7 @@ encoder:
 发稿	ntty	10
 忤逆	ntub	10
 发痛	ntuc	10
-改善	ntud	50
-发送	ntud	40
+改善	ntud	40
 性状	ntud	30
 改判	ntud	20
 改卷	ntud	10
@@ -64498,7 +64498,6 @@ encoder:
 执子之手	rbpr	10
 报案	rbpv	10
 报社	rbpy	10
-报错	rbqa	20
 摄氏	rbqa	10
 报怨	rbqb	10
 据了解	rbqe	10
@@ -64541,6 +64540,7 @@ encoder:
 报端	rbum	10
 报效	rbuq	20
 掩耳盗铃	rbuq	10
+报道	rbut	10
 报建	rbvf	10
 摄录	rbvi	10
 招聘会	rbwf	10
@@ -74173,6 +74173,7 @@ encoder:
 酸辣粉	suow	10
 榜	sup	10	supy
 格斗家	supe	10
+校赛	supf	10
 楴	suph	10	suph
 校官	supn	10
 校容	supw	10
