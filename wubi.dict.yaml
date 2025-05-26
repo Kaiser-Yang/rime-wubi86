@@ -36448,6 +36448,7 @@ encoder:
 汶川	iykt	10
 沩	iyl	10	iyly
 瀤	iyle	10	iyle
+深度思考	iylf	30
 流转	iylf	20
 游园	iylf	10
 澶	iylg	10	iylg
@@ -74188,6 +74189,7 @@ encoder:
 样报	surb	10
 橷	surq	10	surq
 梳妆打扮	surr	10
+校招	surv	10
 西部牛仔	surw	10
 榇	sus	10	susy
 可亲可敬	susa	10
@@ -84002,6 +84004,7 @@ encoder:
 意会	ujwf	30
 交易会	ujwf	20
 单传	ujwf	10
+单例	ujwg	10
 单个	ujwh	10
 单侧	ujwm	10
 闽侯	ujwn	20
@@ -86337,6 +86340,7 @@ encoder:
 闪失	uwrw	20
 前仰后合	uwrw	10
 前仆后继	uwrx	10
+单例模式	uwsa	20
 冷柜	uwsa	10
 冷杉	uwse	10
 音信杳无	uwsf	10
@@ -103901,6 +103905,7 @@ encoder:
 广播	yyrt	10
 文摘	yyru	10
 该批	yyrx	10
+设计模式	yysa	20
 方框	yysa	10
 文本	yysg	30
 广西	yysg	20
