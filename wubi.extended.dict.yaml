@@ -518,8 +518,8 @@ encoder:
 兴奋	iw	10
 # word	ix	20
 # word	ix	10
-注册	iy	20
-注意	iy	10
+注意	iy	20
+注册	iy	10
 # word	ja	20
 # word	ja	10
 最后	jb	20
@@ -650,8 +650,8 @@ encoder:
 思想	ln	10
 # word	lo	20
 # word	lo	10
-边缘	lp	20
-边界	lp	10
+边界	lp	20
+边缘	lp	10
 罗列	lq	20
 罗马	lq	10
 # word	lr	20
@@ -984,8 +984,8 @@ encoder:
 村庄	sf	10
 本来	sg	20
 本身	sg	10
-相信	sh	20
-相互	sh	10
+相关	sh	20
+相信	sh	10
 # word	si	20
 # word	si	10
 # word	sj	20

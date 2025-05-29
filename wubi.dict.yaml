@@ -72370,7 +72370,8 @@ encoder:
 相与	shgn	10
 想来	shgo	10
 想死	shgq	10
-朴素	shgx	10
+朴素	shgx	20
+相互	shgx	10
 相瞒	shha	10
 欔	shhc	10	shhc
 想些	shhx	10
@@ -72470,7 +72471,6 @@ encoder:
 相乘	shtu	10
 相符	shtw	10
 相系	shtx	10
-相关	shud	60
 相差	shud	50
 想着	shud	40
 相送	shud	30
