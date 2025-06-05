@@ -94,244 +94,78 @@ encoder:
 或许	ak	10
 功能	al	20
 功夫	al	10
-# word	am	20
-# word	am	10
 世界	an	20
 世纪	an	10
-# word	ao	0
-# word	ao	0
-# word	ap	20
-# word	ap	10
-# word	aq	20
-# word	aq	10
-# word	ar	20
-# word	ar	10
-# word	as	20
-# word	as	10
-# word	at	20
-# word	at	10
-# word	au	20
-# word	au	10
 切换	av	20
 切实	av	10
 共同	aw	20
 共享	aw	10
-# word	ax	20
-# word	ax	10
-# word	ay	20
-# word	ay	10
-# word	ba	20
-# word	ba	10
 子女	bb	20
 子孙	bb	10
 取消	bc	20
 取得	bc	10
-# word	bd	20
-# word	bd	10
-# word	be	20
-# word	be	10
-# word	bf	20
-# word	bf	10
-# word	bg	20
-# word	bg	10
-# word	bh	20
-# word	bh	10
-# word	bi	20
-# word	bi	10
 阳光	bj	20
 阳台	bj	10
-# word	bk	20
-# word	bk	10
-# word	bl	20
-# word	bl	10
 出现	bm	20
 出版	bm	10
 也是	bn	20
 也许	bn	10
-# word	bo	20
-# word	bo	10
-# word	bp	20
-# word	bp	10
-# word	bq	20
-# word	bq	10
 孤独	br	20
 孤立	br	10
-# word	bs	20
-# word	bs	10
-# word	bt	20
-# word	bt	10
-# word	bu	20
-# word	bu	10
-# word	bv	20
-# word	bv	10
 队列	bw	20
 队友	bw	20
-# word	bx	20
-# word	bx	10
-# word	by	20
-# word	by	10
-# word	ca	20
-# word	ca	10
-# word	cb	20
-# word	cb	10
 双方	cc	20
 双手	cc	10
-# word	cd	20
-# word	cd	10
 能力	ce	20
 能够	ce	10
 对方	cf	20
 对于	cf	10
-# word	cg	20
-# word	cg	10
-# word	ch	0
-# word	ch	0
-# word	ci	0
-# word	ci	0
-# word	cj	20
-# word	cj	10
 台词	ck	20
 台湾	ck	10
-# word	cl	20
-# word	cl	10
 观点	cm	20
 观众	cm	10
 马上	cn	20
 马路	cn	10
-# word	co	0
-# word	co	0
-# word	cp	20
-# word	cp	10
-# word	cq	20
-# word	cq	10
-# word	cr	20
-# word	cr	10
-# word	cs	20
-# word	cs	10
-# word	ct	20
-# word	ct	10
-# word	cu	0
-# word	cu	0
-# word	cv	20
-# word	cv	10
 难道	cw	20
 难以	cw	10
-# word	cx	0
-# word	cx	0
-# word	cy	20
-# word	cy	10
-# word	da	20
-# word	da	10
-# word	db	20
-# word	db	10
 友好	dc	20
 友谊	dc	10
 大家	dd	20
 大学	dd	10
 胡子	de	20
 胡说	de	10
-# word	df	20
-# word	df	10
 三月	dg	20
 三观	dg	10
 丰富	dh	20
 丰收	dh	10
-# word	di	20
-# word	di	10
 百年	dj	20
 百合	dj	10
-# word	dk	20
-# word	dk	10
-# word	dl	20
-# word	dl	10
 面试	dm	20
 面对	dm	10
 成功	dn	20
 成为	dn	10
-# word	do	20
-# word	do	10
 达到	dp	20
 达成	dp	10
-# word	dq	20
-# word	dq	10
 原因	dr	20
 原来	dr	10
-# word	ds	20
-# word	ds	10
-# word	dt	20
-# word	dt	10
-# word	du	20
-# word	du	10
-# word	dv	20
-# word	dv	10
-# word	dw	20
-# word	dw	10
-# word	dx	20
-# word	dx	10
 太阳	dy	20
 太子	dy	10
-# word	ea	20
-# word	ea	10
 服务	eb	20
 服装	eb	10
-# word	ec	20
-# word	ec	10
 须知	ed	20
 须臾	ed	10
-# word	ee	20
-# word	ee	10
-# word	ef	20
-# word	ef	10
 且慢	eg	20
 且说	eg	10
-# word	eh	0
-# word	eh	0
-# word	ei	20
-# word	ei	10
-# word	ej	20
-# word	ej	10
-# word	ek	20
-# word	ek	10
-# word	el	20
-# word	el	10
-# word	em	20
-# word	em	10
-# word	en	20
-# word	en	10
-# word	eo	0
-# word	eo	0
 爱情	ep	20
 爱好	ep	10
-# word	eq	20
-# word	eq	10
-# word	er	20
-# word	er	10
-# word	es	20
-# word	es	10
 用户	et	20
 用途	et	10
-# word	eu	20
-# word	eu	10
-# word	ev	20
-# word	ev	10
-# word	ew	20
-# word	ew	10
-# word	ex	20
-# word	ex	10
 及时	ey	20
 及格	ey	10
-# word	fa	20
-# word	fa	10
-# word	fb	0
-# word	fb	0
 支持	fc	20
 支付	fc	10
 城市	fd	20
 城镇	fd	10
-# word	fe	20
-# word	fe	10
-# word	ff	20
-# word	ff	10
 二月	fg	20
 二战	fg	10
 直接	fh	20
@@ -340,40 +174,22 @@ encoder:
 示意	fi	10
 进行	fj	20
 进入	fj	10
-# word	fk	20
-# word	fk	10
-# word	fl	20
-# word	fl	10
 南方	fm	20
 南京	fm	10
 志愿	fn	20
 志向	fn	10
-# word	fo	20
-# word	fo	10
 过去	fp	20
 过程	fp	10
 无法	fq	20
 无论	fq	10
-# word	fr	20
-# word	fr	10
-# word	fs	20
-# word	fs	10
 才能	ft	20
 才华	ft	10
 增加	fu	20
 增长	fu	10
-# word	fv	20
-# word	fv	10
 夫妻	fw	20
 夫妇	fw	10
-# word	fx	0
-# word	fx	0
-# word	fy	20
-# word	fy	10
 开发	ga	20
 开始	ga	10
-# word	gb	20
-# word	gb	10
 到底	gc	20
 到处	gc	10
 天才	gd	20
@@ -392,94 +208,30 @@ encoder:
 理由	gj	10
 事实	gk	20
 事件	gk	10
-# word	gl	20
-# word	gl	10
 现在	gm	20
 现实	gm	10
 与其	gn	20
 与会	gn	10
 来源	go	20
 来自	go	10
-# word	gp	0
-# word	gp	0
 列表	gq	20
 列举	gq	10
-# word	gr	20
-# word	gr	10
-# word	gs	20
-# word	gs	10
-# word	gt	20
-# word	gt	10
 平均	gu	20
 平等	gu	10
-# word	gv	20
-# word	gv	10
-# word	gw	20
-# word	gw	10
-# word	gx	20
-# word	gx	10
-# word	gy	20
-# word	gy	10
-# word	ha	20
-# word	ha	10
-# word	hb	0
-# word	hb	0
-# word	hc	20
-# word	hc	10
-# word	hd	20
-# word	hd	10
-# word	he	20
-# word	he	10
-# word	hf	20
-# word	hf	10
-# word	hg	20
-# word	hg	10
 止损	hh	20
 止盈	hh	10
 步骤	hi	20
 步伐	hi	10
-# word	hj	20
-# word	hj	10
 占据	hk	20
 占领	hk	10
-# word	hl	20
-# word	hl	10
-# word	hm	20
-# word	hm	10
-# word	hn	20
-# word	hn	10
-# word	ho	20
-# word	ho	10
-# word	hp	20
-# word	hp	10
-# word	hq	20
-# word	hq	10
-# word	hr	20
-# word	hr	10
-# word	hs	20
-# word	hs	10
-# word	ht	20
-# word	ht	10
-# word	hu	20
-# word	hu	10
 眼睛	hv	20
 眼光	hv	10
 具体	hw	20
 具有	hw	10
 此外	hx	20
 此时	hx	10
-# word	hy	20
-# word	hy	10
 江南	ia	20
 江湖	ia	10
-# word	ib	20
-# word	ib	10
-# word	ic	20
-# word	ic	10
-# word	id	20
-# word	id	10
-# word	ie	20
-# word	ie	10
 法律	if	20
 法国	if	10
 汪洋	ig	20
@@ -490,44 +242,24 @@ encoder:
 水果	ii	10
 浊酒	ij	20
 浊水	ij	10
-# word	ik	20
-# word	ik	10
-# word	il	20
-# word	il	10
 没有	im	20
 没事	im	10
-# word	in	20
-# word	in	10
-# word	io	20
-# word	io	10
 学习	ip	20
 学校	ip	10
 光明	iq	20
 光线	iq	10
-# word	ir	20
-# word	ir	10
-# word	is	20
-# word	is	10
 少年	it	20
 少数	it	10
-# word	iu	20
-# word	iu	10
 当然	iv	20
 当时	iv	10
 兴趣	iw	20
 兴奋	iw	10
-# word	ix	20
-# word	ix	10
 注意	iy	20
 注册	iy	10
-# word	ja	20
-# word	ja	10
 最后	jb	20
 最近	jb	10
 紧张	jc	20
 紧急	jc	10
-# word	jd	20
-# word	jd	10
 明白	je	20
 明天	je	10
 时间	jf	20
@@ -536,296 +268,92 @@ encoder:
 量词	jg	10
 早上	jh	20
 早期	jh	10
-# word	ji	0
-# word	ji	0
 昌盛	jj	20
 昌明	jj	10
-# word	jk	20
-# word	jk	10
-# word	jl	20
-# word	jl	10
-# word	jm	20
-# word	jm	10
 电话	jn	20
 电影	jn	10
 显然	jo	20
 显著	jo	10
-# word	jp	20
-# word	jp	10
-# word	jq	20
-# word	jq	10
-# word	jr	0
-# word	jr	0
 果然	js	20
 果断	js	10
-# word	jt	20
-# word	jt	10
-# word	ju	20
-# word	ju	10
-# word	jv	20
-# word	jv	10
-# word	jw	20
-# word	jw	10
-# word	jx	20
-# word	jx	10
-# word	jy	20
-# word	jy	10
-# word	ka	20
-# word	ka	10
-# word	kb	20
-# word	kb	10
 吧台	kc	20
 吧主	kc	10
-# word	kd	20
-# word	kd	10
 吸引	ke	20
 吸收	ke	10
-# word	kf	20
-# word	kf	10
-# word	kg	20
-# word	kg	10
 足够	kh	20
 足球	kh	10
-# word	ki	20
-# word	ki	10
 虽然	kj	20
 虽说	kj	10
-# word	kk	20
-# word	kk	10
 另外	kl	20
 另类	kl	10
 员工	km	20
 员外	km	10
 叫做	kn	20
 叫好	kn	10
-# word	ko	0
-# word	ko	0
-# word	kp	20
-# word	kp	10
 史料	kq	20
 史学	kq	10
 听说	kr	20
 听见	kr	10
-# word	ks	20
-# word	ks	10
-# word	kt	20
-# word	kt	10
-# word	ku	20
-# word	ku	10
 哪里	kv	20
 哪些	kv	10
 只是	kw	20
 只有	kw	10
-# word	kx	20
-# word	kx	10
-# word	ky	20
-# word	ky	10
 羁绊	la	20
 羁押	la	10
-# word	lb	20
-# word	lb	10
 轻松	lc	20
 轻易	lc	10
 因为	ld	20
 因此	ld	10
-# word	le	20
-# word	le	10
-# word	lf	20
-# word	lf	10
 车辆	lg	20
 车厢	lg	10
 四月	lh	20
 四川	lh	10
-# word	li	0
-# word	li	0
-# word	lj	20
-# word	lj	10
 加强	lk	20
 加入	lk	10
-# word	ll	20
-# word	ll	10
-# word	lm	20
-# word	lm	10
 思考	ln	20
 思想	ln	10
-# word	lo	20
-# word	lo	10
 边界	lp	20
 边缘	lp	10
 罗列	lq	20
 罗马	lq	10
-# word	lr	20
-# word	lr	10
-# word	ls	20
-# word	ls	10
 力量	lt	20
 力度	lt	10
-# word	lu	20
-# word	lu	10
-# word	lv	20
-# word	lv	10
 办法	lw	20
 办理	lw	10
-# word	lx	20
-# word	lx	10
-# word	ly	20
-# word	ly	10
-# word	ma	20
-# word	ma	10
-# word	mb	20
-# word	mb	10
-# word	mc	20
-# word	mc	10
-# word	md	20
-# word	md	10
-# word	me	20
-# word	me	10
-# word	mf	20
-# word	mf	10
 赋值	mg	20
 赋予	mg	10
 由于	mh	20
 由此	mh	10
-# word	mi	20
-# word	mi	10
-# word	mj	20
-# word	mj	10
-# word	mk	0
-# word	mk	0
-# word	ml	20
-# word	ml	10
 册子	mm	20
 册封	mm	10
-# word	mn	20
-# word	mn	10
-# word	mo	0
-# word	mo	0
-# word	mp	20
-# word	mp	10
 风格	mq	20
 风险	mq	10
-# word	mr	20
-# word	mr	10
-# word	ms	20
-# word	ms	10
 几乎	mt	20
 几率	mt	10
-# word	mu	20
-# word	mu	10
-# word	mv	0
-# word	mv	0
 内容	mw	20
 内在	mw	10
-# word	mx	20
-# word	mx	10
-# word	my	20
-# word	my	10
 异常	na	20
 异性	na	10
-# word	nb	20
-# word	nb	10
-# word	nc	20
-# word	nc	10
 居然	nd	20
 居民	nd	10
-# word	ne	0
-# word	ne	0
-# word	nf	20
-# word	nf	10
 怀疑	ng	20
 怀念	ng	10
 收入	nh	20
 收到	nh	10
-# word	ni	20
-# word	ni	10
-# word	nj	20
-# word	nj	10
-# word	nk	20
-# word	nk	10
-# word	nl	20
-# word	nl	10
-# word	nm	20
-# word	nm	10
-# word	nn	20
-# word	nn	10
-# word	no	20
-# word	no	10
-# word	np	20
-# word	np	10
-# word	nq	20
-# word	nq	10
 怕人	nr	20
 怕事	nr	10
-# word	ns	0
-# word	ns	0
 必须	nt	20
 必要	nt	10
-# word	nu	20
-# word	nu	10
-# word	nv	20
-# word	nv	10
-# word	nw	20
-# word	nw	10
-# word	nx	20
-# word	nx	10
 心理	ny	20
 心里	ny	10
-# word	oa	20
-# word	oa	10
-# word	ob	20
-# word	ob	10
-# word	oc	20
-# word	oc	10
 类型	od	20
 类似	od	10
-# word	oe	20
-# word	oe	10
-# word	of	20
-# word	of	10
 业务	og	20
 业绩	og	10
-# word	oh	20
-# word	oh	10
-# word	oi	20
-# word	oi	10
-# word	oj	20
-# word	oj	10
-# word	ok	20
-# word	ok	10
-# word	ol	20
-# word	ol	10
-# word	om	20
-# word	om	10
 断言	on	20
 断绝	on	10
-# word	oo	20
-# word	oo	10
-# word	op	20
-# word	op	10
-# word	oq	20
-# word	oq	10
-# word	or	20
-# word	or	10
-# word	os	20
-# word	os	10
-# word	ot	20
-# word	ot	10
-# word	ou	20
-# word	ou	10
-# word	ov	20
-# word	ov	10
-# word	ow	20
-# word	ow	10
-# word	ox	20
-# word	ox	10
-# word	oy	20
-# word	oy	10
-# word	pa	20
-# word	pa	10
 字典	pb	20
 字母	pb	10
-# word	pc	0
-# word	pc	0
 害怕	pd	20
 害羞	pd	10
 家庭	pe	20
@@ -834,30 +362,12 @@ encoder:
 守卫	pf	10
 定位	pg	20
 定期	pg	10
-# word	ph	20
-# word	ph	10
-# word	pi	20
-# word	pi	10
-# word	pj	20
-# word	pj	10
-# word	pk	20
-# word	pk	10
 军队	pl	20
 军事	pl	10
-# word	pm	20
-# word	pm	10
 官方	pn	20
 官员	pn	10
-# word	po	20
-# word	po	10
 之后	pp	20
 之中	pp	10
-# word	pq	20
-# word	pq	10
-# word	pr	20
-# word	pr	10
-# word	ps	20
-# word	ps	10
 客观	pt	20
 客户	pt	10
 实现	pu	20
@@ -870,54 +380,26 @@ encoder:
 它的	px	10
 社会	py	20
 社区	py	10
-# word	qa	20
-# word	qa	10
-# word	qb	20
-# word	qb	10
 色彩	qc	20
 色调	qc	10
 然后	qd	20
 然而	qd	10
 角度	qe	20
 角色	qe	10
-# word	qf	20
-# word	qf	10
 钱包	qg	20
 钱财	qg	10
 外面	qh	20
 外在	qh	10
 乐观	qi	20
 乐趣	qi	10
-# word	qj	20
-# word	qj	10
 名字	qk	20
 名称	qk	10
-# word	ql	20
-# word	ql	10
-# word	qm	20
-# word	qm	10
 包括	qn	20
 包含	qn	10
-# word	qo	20
-# word	qo	10
-# word	qp	20
-# word	qp	10
 多少	qq	20
 多数	qq	10
-# word	qr	20
-# word	qr	10
-# word	qs	20
-# word	qs	10
 儿子	qt	20
 儿童	qt	10
-# word	qu	20
-# word	qu	10
-# word	qv	20
-# word	qv	10
-# word	qw	20
-# word	qw	10
-# word	qx	0
-# word	qx	0
 久远	qy	20
 久违	qy	10
 找寻	ra	20
@@ -926,58 +408,32 @@ encoder:
 报告	rb	10
 反对	rc	20
 反应	rc	10
-# word	rd	20
-# word	rd	10
-# word	re	20
-# word	re	10
 持续	rf	20
 持久	rf	10
 后面	rg	20
 后来	rg	10
 年轻	rh	20
 年龄	rh	10
-# word	ri	20
-# word	ri	10
 提供	rj	20
 提高	rj	10
-# word	rk	20
-# word	rk	10
-# word	rl	20
-# word	rl	10
 抽象	rm	20
 抽烟	rm	10
 所以	rn	20
 所有	rn	10
-# word	ro	20
-# word	ro	10
-近期	rp	20
-近似	rp	10
 换源	rq	20
 换算	rq	10
-# word	rr	20
-# word	rr	10
 打算	rs	20
 打开	rs	10
 手机	rt	20
 手段	rt	10
 拉伸	ru	20
 拉扯	ru	10
-# word	rv	20
-# word	rv	10
 失败	rw	20
 失去	rw	10
 批评	rx	20
 批判	rx	10
-# word	ry	20
-# word	ry	10
-# word	sa	20
-# word	sa	10
 李子	sb	20
 李白	sb	10
-# word	sc	20
-# word	sc	10
-# word	sd	20
-# word	sd	10
 极端	se	20
 极其	se	10
 村民	sf	20
@@ -986,26 +442,10 @@ encoder:
 本身	sg	10
 相关	sh	20
 相信	sh	10
-# word	si	20
-# word	si	10
-# word	sj	20
-# word	sj	10
 可以	sk	20
 可能	sk	10
-# word	sl	20
-# word	sl	10
 机会	sm	20
 机构	sm	10
-# word	sn	20
-# word	sn	10
-# word	so	20
-# word	so	10
-# word	sp	20
-# word	sp	10
-# word	sq	20
-# word	sq	10
-# word	sr	20
-# word	sr	10
 林业	ss	20
 林子	ss	10
 格式	st	20
@@ -1014,30 +454,18 @@ encoder:
 样式	su	10
 根本	sv	20
 根据	sv	10
-# word	sw	20
-# word	sw	10
-# word	sx	20
-# word	sx	10
 术语	sy	20
 术士	sy	10
 长期	ta	20
 长江	ta	10
-# word	tb	20
-# word	tb	10
-# word	tc	0
-# word	tc	0
 知道	td	20
 知识	td	10
-# word	te	20
-# word	te	10
 行为	tf	20
 行动	tf	10
 生活	tg	20
 生命	tg	10
 处理	th	20
 处于	th	10
-# word	ti	20
-# word	ti	10
 得到	tj	20
 得出	tj	10
 各种	tk	20
@@ -1046,10 +474,6 @@ encoder:
 务工	tl	10
 向上	tm	20
 向往	tm	10
-# word	tn	20
-# word	tn	10
-# word	to	20
-# word	to	10
 管道	tp	20
 管理	tp	10
 称呼	tq	20
@@ -1060,8 +484,6 @@ encoder:
 条例	ts	10
 笔记	tt	20
 笔试	tt	10
-# word	tu	20
-# word	tu	10
 委屈	tv	20
 委托	tv	10
 答应	tw	20
@@ -1074,20 +496,14 @@ encoder:
 并非	ua	10
 闻名	ub	20
 闻讯	ub	10
-# word	uc	20
-# word	uc	10
 关系	ud	20
 关于	ud	10
 前面	ue	20
 前途	ue	10
 半岛	uf	20
 半夜	uf	10
-# word	ug	20
-# word	ug	10
 站立	uh	20
 站台	uh	10
-# word	ui	20
-# word	ui	10
 间接	uj	20
 间断	uj	10
 部分	uk	20
@@ -1098,14 +514,10 @@ encoder:
 商业	um	10
 决定	un	20
 决赛	un	10
-# word	uo	20
-# word	uo	10
 帝国	up	20
 帝王	up	10
 交通	uq	20
 交流	uq	10
-# word	ur	20
-# word	ur	10
 亲戚	us	20
 亲自	us	10
 首先	ut	20
@@ -1120,54 +532,16 @@ encoder:
 北京	ux	10
 六月	uy	20
 六级	uy	10
-# word	va	20
-# word	va	10
 好像	vb	20
 好处	vb	10
-# word	vc	20
-# word	vc	10
-# word	vd	20
-# word	vd	10
 奶茶	ve	20
 奶粉	ve	10
 寻找	vf	20
 寻求	vf	10
-# word	vg	20
-# word	vg	10
-# word	vh	0
-# word	vh	0
-# word	vi	20
-# word	vi	10
-# word	vj	20
-# word	vj	10
 如果	vk	20
 如何	vk	10
-# word	vl	20
-# word	vl	10
-# word	vm	20
-# word	vm	10
-# word	vn	20
-# word	vn	10
-# word	vo	20
-# word	vo	10
-# word	vp	20
-# word	vp	10
-# word	vq	20
-# word	vq	10
-# word	vr	0
-# word	vr	0
-# word	vs	20
-# word	vs	10
 九月	vt	20
 九州	vt	10
-# word	vu	20
-# word	vu	10
-# word	vv	20
-# word	vv	10
-# word	vw	0
-# word	vw	0
-# word	vx	20
-# word	vx	10
 妨碍	vy	20
 妨害	vy	10
 代码	wa	20
@@ -1186,20 +560,10 @@ encoder:
 全球	wg	10
 个人	wh	20
 个性	wh	10
-# word	wi	20
-# word	wi	10
 介绍	wj	20
 介入	wj	10
 保护	wk	20
 保持	wk	10
-# word	wl	20
-# word	wl	10
-# word	wm	20
-# word	wm	10
-# word	wn	20
-# word	wn	10
-# word	wo	20
-# word	wo	10
 伫立	wp	20
 伫候	wp	10
 你们	wq	20
@@ -1210,8 +574,6 @@ encoder:
 休闲	ws	10
 作品	wt	20
 作者	wt	10
-# word	wu	0
-# word	wu	0
 分析	wv	20
 分享	wv	10
 从事	ww	20
@@ -1222,64 +584,26 @@ encoder:
 信用	wy	10
 红色	xa	20
 红包	xa	10
-# word	xb	20
-# word	xb	10
 弘扬	xc	20
 弘毅	xc	10
-# word	xd	20
-# word	xd	10
-# word	xe	20
-# word	xe	10
 结束	xf	20
 结果	xf	10
-# word	xg	20
-# word	xg	10
 引用	xh	20
 引起	xh	10
-# word	xi	20
-# word	xi	10
-# word	xj	20
-# word	xj	10
 强烈	xk	20
 强调	xk	10
-# word	xl	20
-# word	xl	10
-# word	xm	20
-# word	xm	10
-# word	xn	20
-# word	xn	10
-# word	xo	20
-# word	xo	10
-# word	xp	20
-# word	xp	10
 约定	xq	20
 约会	xq	10
-# word	xr	20
-# word	xr	10
-# word	xs	0
-# word	xs	0
 张望	xt	20
 张扬	xt	10
-# word	xu	20
-# word	xu	10
-# word	xv	20
-# word	xv	10
 给予	xw	20
 给以	xw	10
 比较	xx	20
 比赛	xx	10
-# word	xy	20
-# word	xy	10
 度假	ya	20
 度过	ya	10
 离开	yb	20
 离职	yb	10
-# word	yc	20
-# word	yc	10
-# word	yd	20
-# word	yd	10
-# word	ye	20
-# word	ye	10
 计划	yf	20
 计算	yf	10
 评价	yg	20
@@ -1288,10 +612,6 @@ encoder:
 让步	yh	10
 就是	yi	20
 就要	yi	10
-# word	yj	20
-# word	yj	10
-# word	yk	20
-# word	yk	10
 库存	yl	20
 库房	yl	10
 高级	ym	20
@@ -1304,19 +624,11 @@ encoder:
 豪杰	yp	10
 义务	yq	20
 义工	yq	10
-# word	yr	20
-# word	yr	10
-# word	ys	20
-# word	ys	10
 放弃	yt	20
 放下	yt	10
 说话	yu	20
 说明	yu	10
-# word	yv	20
-# word	yv	10
 认为	yw	20
 认识	yw	10
-# word	yx	20
-# word	yx	10
 方式	yy	20
 方面	yy	10
