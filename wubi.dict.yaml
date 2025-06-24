@@ -8394,6 +8394,7 @@ encoder:
 对开	cfga	10
 对天	cfgd	10
 对表	cfge	10
+对于  cfgf	10
 对正	cfgh	10
 对事	cfgk	10
 勇者不惧	cfgn	10
@@ -8560,6 +8561,7 @@ encoder:
 对话	cfyt	10
 对谁	cfyw	10
 通过率	cfyx	10
+对方	cfyy	10
 骊	cg	10	cgmy
 马到功成	cgad	10
 驑	cgal	10	cgal
@@ -23086,8 +23088,8 @@ encoder:
 武库	gayl	10
 开设	gaym	20
 开市	gaym	10
-开户	gayn	40
-开启	gayn	30
+开启	gayn	40
+开户	gayn	30
 开房	gayn	20
 刑讯	gayn	10
 形迹	gayo	10
@@ -57517,7 +57519,8 @@ encoder:
 初会	puwf	30
 袵	puwf	20	puwf
 袝	puwf	10	puwf
-实例	puwg	20
+实例	puwg	30
+补全	puwg	20
 襳	puwg	10	puwg
 补修	puwh	10
 补偿	puwi	20
@@ -103715,6 +103718,7 @@ encoder:
 方有	yyde	10
 访古	yydg	10
 高高在上	yydh	10
+方面	yydm	20
 这方面	yydm	10
 方成	yydn	10
 广达	yydp	10

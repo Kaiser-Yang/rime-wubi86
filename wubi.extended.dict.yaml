@@ -118,8 +118,8 @@ encoder:
 双手	cc	10
 能力	ce	20
 能够	ce	10
-对方	cf	20
-对于	cf	10
+对象	cf	20
+对话	cf	10
 台词	ck	20
 台湾	ck	10
 观点	cm	20
@@ -263,8 +263,8 @@ encoder:
 紧急	jc	10
 明白	je	20
 明天	je	10
-时间	jf	20
-时候	jf	10
+时候	jf	20
+时间	jf	10
 量化	jg	20
 量词	jg	10
 早上	jh	20
@@ -424,8 +424,8 @@ encoder:
 所有	rn	10
 换源	rq	20
 换算	rq	10
-打算	rs	20
-打开	rs	10
+打开	rs	20
+打算	rs	10
 手机	rt	20
 手段	rt	10
 拉伸	ru	20
@@ -540,8 +540,8 @@ encoder:
 奶粉	ve	10
 寻找	vf	20
 寻求	vf	10
-如果	vk	20
-如何	vk	10
+如何	vk	20
+如果	vk	10
 九月	vt	20
 九州	vt	10
 妨碍	vy	20
@@ -633,5 +633,5 @@ encoder:
 说明	yu	10
 认为	yw	20
 认识	yw	10
-方式	yy	20
-方面	yy	10
+方法	yy  20
+方式	yy	10
