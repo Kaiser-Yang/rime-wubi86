@@ -8466,7 +8466,6 @@ encoder:
 鸡零狗碎	cfqd	10
 对角	cfqe	10
 对外	cfqh	10
-对象	cfqj	10
 对饮	cfqn	10
 对杀	cfqs	10
 对儿	cfqt	10
@@ -9027,6 +9026,7 @@ encoder:
 䮿	cpfh	10	cpfh
 骔	cpfi	20	cpfi
 騌	cpfi	10	cpfi
+观察者	cpft	20
 参赛者	cpft	10
 驞	cpgm	10	cpgm
 遤	cpi	10	cpi
@@ -75638,6 +75638,7 @@ encoder:
 第三名	tdqk	10
 甜饼	tdqn	20
 矫饰	tdqn	10
+悉达多	tdqq	10
 舚	tdqy	20	tdqy
 䑛	tdqy	10	tdqy
 筹措	tdra	10
@@ -95002,7 +95003,8 @@ encoder:
 储钱	wyqg	10
 伪钞	wyqi	10
 供应链	wyql	10
-体育馆	wyqn	10
+体育馆	wyqn	20
+公文包	wyqn	10
 体育锻炼	wyqo	20
 燞	wyqo	10	wyqo
 保证金	wyqq	10
@@ -99183,7 +99185,6 @@ encoder:
 哀艳	yedh	10
 裹脚布	yedm	10
 彣	yee	10	yee
-衣服	yeeb	10
 衣胞	yeeq	10
 谖	yef	10	yefc
 哀哉	yefa	10
@@ -103789,7 +103790,6 @@ encoder:
 文汇	yyia	10
 文治	yyic	10
 广源	yyid	10
-方法	yyif	10
 廓清	yyig	10
 言谈举止	yyih	10
 高高兴兴	yyii	10
