@@ -146,6 +146,7 @@ encoder:
 成为	dn	10
 达到	dp	20
 达成	dp	10
+克隆	dq	20
 原因	dr	20
 原来	dr	10
 太阳	dy	20
@@ -428,7 +429,7 @@ encoder:
 打算	rs	10
 手机	rt	20
 手段	rt	10
-拉伸	ru	20
+拉取	ru	20
 拉扯	ru	10
 失败	rw	20
 失去	rw	10
@@ -574,8 +575,8 @@ encoder:
 伯乐	wr	10
 休息	ws	20
 休闲	ws	10
-作品	wt	20
-作者	wt	10
+作用	wt	20
+作品	wt	10
 分析	wv	20
 分享	wv	10
 从事	ww	20

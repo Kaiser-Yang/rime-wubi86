@@ -8394,7 +8394,7 @@ encoder:
 对开	cfga	10
 对天	cfgd	10
 对表	cfge	10
-对于  cfgf	10
+对于	cfgf	10
 对正	cfgh	10
 对事	cfgk	10
 勇者不惧	cfgn	10
@@ -13320,7 +13320,6 @@ encoder:
 厎	dqay	10	dqay
 威尔逊	dqbi	10
 三角函数	dqbo	10
-克隆	dqbt	10
 盛名难副	dqcg	10
 克难	dqcw	10
 有钱能使鬼推磨	dqcy	10
@@ -69546,6 +69545,7 @@ encoder:
 撞倒	ruwg	30
 接合	ruwg	20
 拌合	ruwg	10
+拉伸	ruwj	10
 搤	ruwl	10	ruwl
 探亲假	ruwn	10
 接任	ruwt	10
@@ -93116,6 +93116,7 @@ encoder:
 侁	wtfq	10	wtfq
 分身无术	wtfs	20
 栠	wtfs	10	wtfs
+作者	wtft	30
 任教	wtft	20
 伤者	wtft	10
 偛	wtfv	10	wtfv
