@@ -36653,7 +36653,8 @@ encoder:
 流放	iyyt	10
 游说	iyyu	10
 常言说得好	iyyv	10
-流言	iyyy	10
+流言	iyyy	20
+沙文主义	iyyy	10
 是	j	30	jghu
 虹	ja	10	jag
 暑期工	jaaa	10
@@ -46037,6 +46038,7 @@ encoder:
 畏敌如虎	ltvh	10
 图录	ltvi	10
 恩重如山	ltvm	10
+图灵	ltvo	10
 略嫌	ltvu	10
 图例	ltwg	10
 图个	ltwh	20
@@ -46192,6 +46194,7 @@ encoder:
 囡囡	lvlv	10
 轨辙	lvly	10
 軌	lvn	10	lvn
+图灵完备	tvpl	10
 輗	lvqn	10	lvqn
 思如泉涌	lvri	10
 轨枕	lvsp	10
@@ -57138,7 +57141,6 @@ encoder:
 裤带	pugk	20
 裙带	pugk	10
 褔	pugl	10	pugl
-被刺	pugm	30
 襀	pugm	20	pugm
 襰	pugm	10	pugm
 初来	pugo	10
