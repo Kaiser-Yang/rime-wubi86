@@ -29286,6 +29286,7 @@ encoder:
 上映	hhjm	10
 上电	hhjn	10
 止呕	hhka	10
+上号	hhkg	30
 卡号	hhkg	20
 䀡	hhkg	10	hhkg
 上路	hhkh	10
@@ -66922,6 +66923,7 @@ encoder:
 摆好	rlvb	10
 舞女	rlvv	10
 舞娘	rlvy	10
+返回值	rlwf	20
 舞会	rlwf	10
 撂倒	rlwg	20
 摁倒	rlwg	10
@@ -81808,6 +81810,7 @@ encoder:
 并按	uarp	10
 冻手	uart	10
 并可	uask	10
+剪切板	uasr	10
 㭍	uasu	10	uasu
 并要	uasv	10
 䇅	uat	10	uat
