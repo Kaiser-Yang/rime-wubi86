@@ -10143,7 +10143,6 @@ encoder:
 大潮	ddif	20
 大洼	ddif	10
 大清	ddig	10
-大小	ddih	10
 大水	ddii	20
 大大小小	ddii	10
 大洞	ddim	10
@@ -10264,6 +10263,7 @@ encoder:
 大字	ddpb	10
 郁郁寡欢	ddpc	10
 厉害	ddpd	10
+大家	ddpe	10
 大赛	ddpf	30
 大宗	ddpf	20
 大寒	ddpf	10
@@ -15136,6 +15136,7 @@ encoder:
 腌渍	edig	10
 腓	edj	10	edjd
 腌	edjn	10	edjn
+朋友圈	edlu	10
 腼	edmd	20	edmd
 腝	edmd	10	edmd
 胯骨	edme	20

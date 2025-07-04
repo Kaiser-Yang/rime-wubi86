@@ -130,7 +130,7 @@ encoder:
 难以	cw	10
 友好	dc	20
 友谊	dc	10
-大家	dd	20
+大小	dd	20
 大学	dd	10
 胡子	de	20
 胡说	de	10
@@ -174,8 +174,8 @@ encoder:
 直到	fh	10
 示范	fi	20
 示意	fi	10
-进行	fj	20
-进入	fj	10
+进入	fj	20
+进行	fj	10
 南方	fm	20
 南京	fm	10
 志愿	fn	20
@@ -341,8 +341,8 @@ encoder:
 居民	nd	10
 怀疑	ng	20
 怀念	ng	10
-收入	nh	20
-收到	nh	10
+收到	nh	20
+收入	nh	10
 怕人	nr	20
 怕事	nr	10
 必须	nt	20
