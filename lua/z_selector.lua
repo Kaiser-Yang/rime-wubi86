@@ -30,7 +30,7 @@ local function z_selector(key_event, env)
         end
     end
     if not context:has_menu() or composition.menu:candidate_count() < dest then
-        if input and #input > 0 then
+        if key_event.keycode ~= 0x7A and input and #input > 0 then
             context:clear()
             env.engine:commit_text(input .. string.char(key_event.keycode))
             return accept
