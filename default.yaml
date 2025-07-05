@@ -32,5 +32,5 @@ ascii_composer:
     Shift_R: noop
     Control_L: noop
     Control_R: noop
-    Caps_Lock: commit_code
+    Caps_Lock: noop
     Eisu_toggle: noop
