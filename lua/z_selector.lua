@@ -9,12 +9,12 @@ local function z_selector(key_event, env)
     local composition = context.composition:back()
     local input = context.input
     local dest = 9999
-    local keycode_is_alphanumeric = key_event.keycode >= 0x30 and key_event.keycode <= 0x39
+    local keycode_is_alphanumeric_except_z = key_event.keycode >= 0x30 and key_event.keycode <= 0x39
         or key_event.keycode >= 0x41 and key_event.keycode <= 0x5A
-        or key_event.keycode >= 0x61 and key_event.keycode <= 0x7A
+        or key_event.keycode >= 0x61 and key_event.keycode < 0x7A
     local keycode_is_visible = key_event.keycode > 0x20 and key_event.keycode <= 0x7E
     local is_reverse_lookup = input and #input >= 1 and input:match('^z')
-    if keycode_is_alphanumeric or not keycode_is_visible then
+    if keycode_is_alphanumeric_except_z or not keycode_is_visible then
         return pass_to_next
     elseif not is_reverse_lookup then
         if
