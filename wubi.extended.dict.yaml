@@ -142,6 +142,7 @@ encoder:
 百合	dj	10
 面试	dm	20
 面对	dm	10
+历史	dl	20
 成功	dn	20
 成为	dn	10
 达到	dp	20
@@ -445,6 +446,7 @@ encoder:
 本身	sg	10
 相关	sh	20
 相信	sh	10
+查找	sj	20
 可以	sk	20
 可能	sk	10
 机会	sm	20
