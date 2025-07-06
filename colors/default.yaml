@@ -12,7 +12,7 @@ style:
   font_point: 14
   label_font_point: 14
   comment_font_point: 13
-  horizontal: false
+  horizontal: true
   fullscreen: false
   inline_preedit: false
   preedit_type: composition
