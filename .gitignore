@@ -37,3 +37,6 @@ settings.json
 # /*.custom.yaml
 *.DS_Store
 *.log
+rime.rime-ls.ERROR
+rime.rime-ls.INFO
+rime.rime-ls.WARNING
