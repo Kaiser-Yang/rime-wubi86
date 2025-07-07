@@ -36,3 +36,4 @@ settings.json
 *.userdb.old
 # /*.custom.yaml
 *.DS_Store
+*.log
