@@ -48,6 +48,7 @@ engine:
     - simplifier
     - reverse_lookup_filter@pinyin_reverse_lookup_filter
     - lua_filter@new_spelling
+    - simplifier@es_conversion
     - uniquifier
 
 switches:
@@ -55,11 +56,16 @@ switches:
     states: [ 中,英 ]
   - name: zh_trad
     states: [ 简,繁 ]
+  - name: show_es
+    states: [ 💀, 😄 ]
   - name: new_spelling
     states: [ 隐,显 ]
   - name: new_hide_pinyin
     states: [ 音,哑 ]
+  - name: ascii_punct
+    states: [ 。，,．， ]
   - name: GB2312
+    reset: 1
     states: [ 扩,常 ]
   - name: full_shape
     states: [ 半,全 ]
@@ -124,4 +130,11 @@ key_binder:
     - {accept: Control+Shift+H, toggle: new_spelling, when: always}
     - {accept: Control+Shift+J, toggle: new_hide_pinyin, when: always}
     - {accept: Control+Shift+space, toggle: full_shape, when: always}
+    - {accept: Control+period, toggle: ascii_punct, when: always}
     - {accept: Control+Shift+U, toggle: GB2312, when: always}
+punctuator:
+  import_preset: symbols
+
+es_conversion:
+  opencc_config: es.json
+  option_name: show_es
