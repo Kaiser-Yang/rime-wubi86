@@ -21,7 +21,7 @@ local function z_selector(key_event, env)
     elseif is_number then
         dest = key_event.keycode - 0x30
         if dest == 0 then dest = 10 end -- 0 for select the 10-th item
-        if context:has_menu() and composition.menu:candidate_count() >= dest then
+        if not input or #input == 0 or context:has_menu() and composition.menu:candidate_count() >= dest then
             return pass_to_next
         end
     elseif is_alpha_except_z or not keycode_is_visible then
