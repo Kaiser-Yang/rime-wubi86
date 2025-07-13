@@ -121,8 +121,6 @@ simplifier:
 
 key_binder:
   bindings:
-    - {accept: minus, send: Page_Up, when: paging}
-    - {accept: equal, send: Page_Down, when: has_menu}
     - {accept: comma, send: Page_Up, when: paging}
     - {accept: period, send: Page_Down, when: has_menu}
     - {accept: Control+Shift+F, toggle: zh_trad, when: always}
