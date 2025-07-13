@@ -15,10 +15,10 @@ schema:
 
 engine:
   processors:
+    - lua_processor@z_selector
     - ascii_composer
     - recognizer
     - key_binder
-    - lua_processor@z_selector
     - speller
     - punctuator
     - selector
@@ -69,7 +69,8 @@ menu:
   alternative_select_labels: [ ㊀, ㊁, ㊂, ㊃, ㊄, ㊅, ㊆, ㊇, ㊈, ㊉ ]
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
+  # we can not add ' and " into alphabet
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA`0123456789-=~!@#$%^&*()_+[]\{}|;:,./<>?
   max_code_length: 1000
   auto_select: false
   auto_select_pattern: ^^\w{4}$
@@ -116,8 +117,6 @@ simplifier:
 
 key_binder:
   bindings:
-    - {accept: minus, send: Page_Up, when: paging}
-    - {accept: equal, send: Page_Down, when: has_menu}
     - {accept: comma, send: Page_Up, when: paging}
     - {accept: period, send: Page_Down, when: has_menu}
     - {accept: Control+Shift+F, toggle: zh_trad, when: always}

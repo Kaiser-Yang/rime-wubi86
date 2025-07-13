@@ -48,6 +48,7 @@ style:
   label_font_point: 16                                # 标签的字号
   comment_font_face: 'Avenir, 黑体字根'                # 注解的字体
   comment_font_point: 15                              # 注解的字号
+  horizontal: true                                # 是否横向布局
 
 # 主题集合
 preset_color_schemes:
