@@ -4,7 +4,7 @@ local reject = 0
 local accept = 1
 local pass_to_next = 2
 
-local is_desktop = true
+local is_desktop = false
 local punctuation = {
     [33] = '！', -- !
     [35] = '#', -- #
