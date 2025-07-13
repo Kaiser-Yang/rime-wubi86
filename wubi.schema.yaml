@@ -65,7 +65,6 @@ switches:
   - name: ascii_punct
     states: [ 。，,．， ]
   - name: GB2312
-    reset: 1
     states: [ 扩,常 ]
   - name: full_shape
     states: [ 半,全 ]
