@@ -41,9 +41,15 @@ local function z_selector(key_event, env)
     local context = env.engine.context
     local composition = context.composition:back()
     local input = context.input
-    if key_event:release() then
-        return pass_to_next
-    elseif not input or #input == 0 then
+    local dest = 9999
+    local is_number = key_event.keycode >= 48 and key_event.keycode <= 57
+    if key_event:release() and key_event:shift() and key_event.keycode == 65505 then -- shift
+        env.engine:commit_text(input)
+        context:clear()
+        return accept
+    end
+    if key_event:release() then return pass_to_next end
+    if not input or #input == 0 then
         if
             not punctuation[key_event.keycode]
             and (key_event.keycode < 48 or key_event.keycode > 57)
@@ -54,13 +60,7 @@ local function z_selector(key_event, env)
         context:clear()
         return accept
     end
-    local dest = 9999
-    local is_number = key_event.keycode >= 48 and key_event.keycode <= 57
-    if key_event:shift() and key_event.keycode == 65505 then -- shift
-        env.engine:commit_text(input)
-        context:clear()
-        return accept
-    elseif is_number then
+    if is_number then
         if key_event.keycode >= 49 and key_event.keycode <= 51 then -- 1, 2, 3
             -- I never use 1, 2, 3 to select candidates
             context.input = input .. string.char(key_event.keycode)
