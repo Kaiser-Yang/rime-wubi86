@@ -15,8 +15,8 @@ schema:
 
 engine:
   processors:
-    - lua_processor@z_selector
     - ascii_composer
+    - lua_processor@z_selector
     - recognizer
     - key_binder
     - speller
@@ -129,6 +129,7 @@ key_binder:
     - {accept: Control+Shift+J, toggle: new_hide_pinyin, when: always}
     - {accept: Control+Shift+space, toggle: full_shape, when: always}
     - {accept: Control+period, toggle: ascii_punct, when: always}
+    - {accept: Shift+space, toggle: ascii_mode, when: always}
     - {accept: Control+Shift+U, toggle: GB2312, when: always}
 punctuator:
   import_preset: symbols
