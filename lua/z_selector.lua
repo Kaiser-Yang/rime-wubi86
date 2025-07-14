@@ -44,8 +44,13 @@ local function z_selector(key_event, env)
     if key_event:release() then
         return pass_to_next
     elseif not input or #input == 0 then
-        if not punctuation[key_event.keycode] then return pass_to_next end
-        env.engine:commit_text(punctuation[key_event.keycode])
+        if
+            not punctuation[key_event.keycode]
+            and (key_event.keycode < 48 or key_event.keycode > 57)
+        then
+            return pass_to_next
+        end
+        env.engine:commit_text(punctuation[key_event.keycode] or string.char(key_event.keycode))
         context:clear()
         return accept
     end
