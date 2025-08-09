@@ -76,10 +76,10 @@ menu:
 speller:
   # we can not add ' and " into alphabet
   alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA`0123456789-=~!@#$%^&*()_+[]\{}|;:,./<>?
-  max_code_length: 1000
+  max_code_length: 4
   auto_select: false
   auto_select_pattern: ^^\w{4}$
-  auto_clear: max_length
+  auto_clear: 1000
 
 recognizer:
   patterns:
