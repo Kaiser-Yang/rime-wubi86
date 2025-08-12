@@ -129,7 +129,7 @@ local function z_selector(key_event, env)
     end
     if not context:has_menu() then
         if key_event.keycode > 32 and key_event.keycode < 127 then -- other visible characters
-            context.input = input .. string.char(key_event.keycode)
+            context:push_input(string.char(key_event.keycode))
             return accept
         elseif key_event.keycode == 32 then -- space
             env.engine:commit_text(input)
@@ -142,7 +142,7 @@ local function z_selector(key_event, env)
         return accept
     elseif punctuation[key_event.keycode] then
         if continuous_punctuation[key_event.keycode] then
-            context.input = input .. punctuation[key_event.keycode]
+            context:push_input(continuous_punctuation[key_event.keycode])
         else
             env.engine:commit_text(
                 composition.menu:get_candidate_at(0).text .. punctuation[key_event.keycode]
