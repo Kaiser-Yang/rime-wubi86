@@ -76,7 +76,7 @@ menu:
 speller:
   # we can not add ' and " into alphabet
   alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA`0123456789-=~!@#$%^&*()_+[]\{}|;:,./<>?
-  max_code_length: 4
+  max_code_length: 1000
   auto_select: false
   auto_select_pattern: ^^\w{4}$
   auto_clear: 1000
@@ -90,7 +90,7 @@ translator:
   db_class: tabledb
   initial_quality: 100000
   enable_charset_filter: false
-  enable_sentence: false
+  enable_sentence: true
   enable_user_dict: false
   enable_encoder: false
   encode_commit_history: false

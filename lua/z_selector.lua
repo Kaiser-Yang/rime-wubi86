@@ -93,6 +93,10 @@ local function z_selector(key_event, env)
             env.engine:commit_text(punctuation[key_event.keycode])
             context:clear()
             return accept
+        elseif key_event.keycode >= 48 and key_event.keycode <= 57 then
+            env.engine:commit_text(string.char(key_event.keycode))
+            context:clear()
+            return accept
         else
             return pass_to_next
         end
@@ -134,8 +138,7 @@ local function z_selector(key_event, env)
         end
         return pass_to_next
     elseif composition.menu:candidate_count() >= dest then
-        env.engine:commit_text(composition.menu:get_candidate_at(dest - 1).text)
-        context:clear()
+        context:select(dest - 1)
         return accept
     elseif punctuation[key_event.keycode] then
         if continuous_punctuation[key_event.keycode] then
