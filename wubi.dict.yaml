@@ -9278,6 +9278,7 @@ encoder:
 预告片	ctth	10
 预备役	cttm	10
 双簧管	cttp	10
+双向选择	cttr	10
 圣彼得堡	cttw	10
 通知单	ctuj	10
 骄恣	ctuq	10
@@ -44317,6 +44318,7 @@ encoder:
 转变	lfyo	30
 转弯	lfyo	20
 墨迹	lfyo	10
+转义	lfyq	20
 黑亮	lfyp	10
 黑底	lfyq	10
 转磨	lfys	10
@@ -46472,6 +46474,7 @@ encoder:
 轆	lynx	20	lynx
 䍡	lynx	10	lynx
 略识之无	lypf	10
+转义字符	lypt	10
 连衣裙	lypu	10
 轻诺寡信	lypw	10
 罚钱	lyqg	10
@@ -46968,6 +46971,7 @@ encoder:
 㟎	mevg	10	mevg
 崢	mevh	10	mevh
 骩	mevn	10	mevn
+岁月如歌	mevs	10
 骫	mevy	10	mevy
 骱	mew	10	mewj
 䯍	mewc	10	mewc
