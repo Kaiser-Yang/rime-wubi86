@@ -11875,6 +11875,7 @@ encoder:
 㸷	dhvh	10	dhvh
 洯	dhvi	20	dhvi
 絜	dhvi	10	dhvi
+丰巢	dhvj	30
 蛪	dhvj	20	dhvj
 㓶	dhvj	10	dhvj
 慧娟	dhvk	20
@@ -22193,6 +22194,7 @@ encoder:
 培植	fusf	30
 壿	fusf	20	fusf
 墫	fusf	10	fusf
+走查	fhsj	10
 培根	fusv	10
 干净利落	futa	10
 求亲靠友	futd	10
@@ -47126,6 +47128,7 @@ encoder:
 雕镌	mfqw	20
 崁	mfqw	10	mfqw
 财贸	mfqy	10
+财报	mfrb	20
 周报	mfrb	10
 周年	mfrh	20
 财年	mfrh	10
@@ -93086,7 +93089,6 @@ encoder:
 八股	wtem	10
 作爱	wtep	10
 侨胞	wteq	10
-作用	wtet	30
 任用	wtet	20
 俢	wtet	10	wtet
 侜	wtey	10	wtey
@@ -93709,6 +93711,7 @@ encoder:
 伜	wvfh	20	wvfh
 侓	wvfh	10	wvfh
 分场	wvfn	10
+创建者	wvft	10
 㚢	wvg	10	wvg
 分开	wvga	50
 岔开	wvga	40
@@ -98173,6 +98176,7 @@ encoder:
 幽浮	xxie	20
 毕肖	xxie	10
 比法	xxif	10
+丝滑	xxim	20
 顈	xxim	10	xxim
 纰漏	xxin	10
 鷥	xxio	10	xxio
@@ -101884,6 +101888,7 @@ encoder:
 弃之可惜	ypsn	10
 衣冠楚楚	ypss	10
 这枚	ypst	10
+这样	ypsu	10
 这要	ypsv	10
 这桩	ypsy	10
 毫	ypt	10	yptn
@@ -101891,7 +101896,6 @@ encoder:
 亳	ypta	30	ypta
 诧	ypta	20	ypta
 詫	ypta	10	ypta
-这么	yptc	10
 这般	ypte	10
 毫毛	yptf	10
 这片	ypth	10
