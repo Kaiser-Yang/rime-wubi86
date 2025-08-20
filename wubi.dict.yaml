@@ -8542,6 +8542,7 @@ encoder:
 对华	cfwx	10
 对焦	cfwy	10
 圣经	cfxc	10
+对线	cfxg	20
 圣母	cfxg	10
 圣旨	cfxj	10
 桑塔纳	cfxm	10
@@ -102225,6 +102226,7 @@ encoder:
 言近旨远	yrxf	10
 廐	yrxq	10	yrxq
 诉诸	yryf	10
+语气词	yryn	10
 误打误撞	yryr	10
 譤	yryt	10	yryt
 诉说	yryu	10
