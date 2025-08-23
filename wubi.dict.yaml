@@ -7037,7 +7037,7 @@ encoder:
 降魔	btys	10
 降旗	btyt	10
 随行就市	btyy	10
-联	bu	10	budy
+联	bu	30	budy
 陪葬	buag	10
 聠	buah	10	buah
 職	buaj	10	buaj
@@ -7131,7 +7131,6 @@ encoder:
 陪我	butr	10
 出将入相	buts	10
 陪笑	butt	10
-联系	butx	20
 聪敏	butx	10
 陪着	buud	20
 陪送	buud	10
@@ -9483,6 +9482,7 @@ encoder:
 难住	cwwy	10
 骅	cwx	10	cwxf
 驋	cwxc	10	cwxc
+难绷	cwxe	10
 预付费	cwxj	10
 难缠	cwxy	10
 难度	cwya	10
@@ -12978,6 +12978,7 @@ encoder:
 劢	dnl	10	dnln
 成因	dnld	10
 㞇	dnle	10	dnle
+尬黑	dnlf	20
 成团	dnlf	10
 万国	dnlg	10
 奋发图强	dnlx	10
@@ -53630,6 +53631,7 @@ encoder:
 数目字	ohpb	10
 爘	ohqe	10	ohqe
 火眼金睛	ohqh	10
+粘包	ohqn	30
 粯	ohqn	20	ohqn
 䙺	ohqn	10	ohqn
 燦	ohqo	10	ohqo
@@ -69051,6 +69053,7 @@ encoder:
 摠	rtln	10	rtln
 手边	rtlp	10
 手软	rtlq	10
+执行力	rtlt	20
 插图	rtlt	10
 手办	rtlw	20
 托办	rtlw	10
@@ -81013,6 +81016,7 @@ encoder:
 很强	tvxk	10
 很细	tvxl	10
 很弱	tvxu	10
+复杂度	tvya	10
 很熟	tvyb	10
 笋衣	tvye	10
 律诗	tvyf	10

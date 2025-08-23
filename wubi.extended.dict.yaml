@@ -113,6 +113,7 @@ encoder:
 也许	bn	10
 孤独	br	20
 孤立	br	10
+联系	bu	20
 队列	bw	20
 队友	bw	20
 双方	cc	20
@@ -377,8 +378,8 @@ encoder:
 客户	pt	10
 实现	pu	20
 实际	pu	10
-安排	pv	20
-安全	pv	10
+安全	pv	20
+安排	pv	10
 空间	pw	20
 空气	pw	10
 它们	px	20
