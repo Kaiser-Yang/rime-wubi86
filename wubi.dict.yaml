@@ -39095,6 +39095,7 @@ encoder:
 临邑	jtkc	10
 星号	jtkg	20
 蛒	jtkg	10	jtkg
+最短路	jtkh	10
 紧箍咒	jtkk	10
 鉴别	jtkl	20
 临别	jtkl	10
@@ -83658,6 +83659,7 @@ encoder:
 冰暴	uija	10
 阔野	uijf	10
 冰晶	uijj	10
+单源最短路	uijk	10
 交流电	uijn	10
 阔叶	uikf	10
 阔别	uikl	10
