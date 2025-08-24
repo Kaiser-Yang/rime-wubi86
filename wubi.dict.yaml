@@ -20115,6 +20115,7 @@ encoder:
 运输机	flsm	10
 雷德	fltf	10
 塔罗牌	flth	10
+协程	fltk	20
 协和	fltk	10
 协管	fltp	20
 雷管	fltp	10
@@ -51390,6 +51391,7 @@ encoder:
 快报	nnrb	20
 书报	nnrb	10
 书摊	nnrc	10
+快排	nnrd	10
 心怀鬼胎	nnre	10
 快捷	nnrg	20
 慴	nnrg	10	nnrg
@@ -65838,6 +65840,7 @@ encoder:
 后的	rgrq	10
 后手	rgrt	10
 扫一扫	rgrv	10
+快速排序	rgry	20
 后撤	rgry	10
 抹	rgs	10	rgsy
 兵权	rgsc	20
@@ -92792,6 +92795,7 @@ encoder:
 偟	wrgg	10	wrgg
 件事	wrgk	10
 人手一册	wrgm	10
+全排列	wrgq	10
 假手于人	wrgw	20
 㑟	wrgw	10	wrgw
 件	wrh	30	wrhh
@@ -96188,6 +96192,7 @@ encoder:
 线形	xgga	10
 纯青	xgge	10
 纯玩	xggf	10
+线下	xggh	20
 纯正	xggh	10
 线束	xggk	10
 红玫瑰	xggr	10
