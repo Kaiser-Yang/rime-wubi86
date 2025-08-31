@@ -21034,6 +21034,7 @@ encoder:
 南宁市	fpym	10
 过户	fpyn	10
 过弯	fpyo	10
+未定义	fpyq	10
 老实话	fpyt	20
 土家族	fpyt	10
 老实说	fpyu	20
@@ -24181,6 +24182,7 @@ encoder:
 一块	ggfn	30
 一声	ggfn	20
 一场	ggfn	10
+一坨	ggfp	30
 王勃	ggfp	20
 于事无补	ggfp	10
 一元	ggfq	20
@@ -91553,6 +91555,7 @@ encoder:
 㫦	whtj	10	whtj
 俱备	whtl	20
 偹	whtl	10	whtl
+企微	whtm	30
 修身	whtm	20
 仆役	whtm	10
 悠	whtn	20	whtn
@@ -92449,6 +92452,7 @@ encoder:
 欲火焚身	wost	10
 人烟稀少	woti	10
 人烟稠密	wotp	10
+企业微信	wotw	10
 偻	wov	10	wovg
 拿糖作醋	wows	10
 伙伴	wowu	10
