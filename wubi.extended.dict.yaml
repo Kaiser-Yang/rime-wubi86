@@ -284,6 +284,7 @@ encoder:
 晚上	jq	20
 果然	js	20
 果断	js	10
+昨天	jt	20
 吧台	kc	20
 吧主	kc	10
 吸引	ke	20
@@ -302,8 +303,8 @@ encoder:
 史学	kq	10
 听说	kr	20
 听见	kr	10
-哪里	kv	20
-哪些	kv	10
+哪些	kv	20
+哪里	kv	10
 只是	kw	20
 只有	kw	10
 羁绊	la	20

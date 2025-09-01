@@ -10456,6 +10456,7 @@ encoder:
 厌食	ddwy	20
 大有作为	ddwy	10
 大红	ddxa	10
+大疆	ddxf	10
 大旨	ddxj	10
 万有引力	ddxl	10
 大纲	ddxm	10
@@ -36279,6 +36280,7 @@ encoder:
 泑	ixln	10	ixln
 涨幅	ixmh	10
 溺婴	ixmm	10
+小红书	ixnn	10
 酒绿灯红	ixox	10
 小组赛	ixpf	10
 涨钱	ixqg	10
@@ -38971,7 +38973,7 @@ encoder:
 晒衣	jsye	10
 日本语	jsyg	10
 临机应变	jsyy	10
-昨	jt	10	jthf
+昨	jt	30	jthf
 监工	jtaa	10
 星期	jtad	10
 星散	jtae	10
@@ -53061,6 +53063,7 @@ encoder:
 炼乳	oaeb	10
 粪肥	oaec	10
 糤	oaet	10	oaet
+烧脑	oaey	10
 粪土	oaff	10
 烘干	oafg	40
 烧坏	oafg	30
@@ -75781,6 +75784,7 @@ encoder:
 敌群	tdvt	10
 矬	tdw	10	tdwf
 筹借	tdwa	10
+乱做	tdwd	10
 知会	tdwf	20
 适值	tdwf	10
 适合	tdwg	30
@@ -78778,6 +78782,7 @@ encoder:
 秃子	tmbb	10
 向阳	tmbj	10
 射出	tmbm	10
+躺了	tmbn	10
 身陷	tmbq	10
 役	tmc	10	tmcy
 垼	tmcf	10	tmcf
