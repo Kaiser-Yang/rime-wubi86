@@ -11510,6 +11510,7 @@ encoder:
 太平间	dguj	10
 三部	dguk	10
 厂商	dgum	10
+三次	dguq	20
 三资	dguq	10
 三道	dgut	40
 三产	dgut	30
@@ -14136,6 +14137,7 @@ encoder:
 万头攒动	durf	10
 大半年	durh	10
 奇门遁甲	durl	10
+三次握手	durr	10
 碰撞	duru	10
 磸	dusd	10	dusd
 磁极	duse	10
@@ -17714,6 +17716,7 @@ encoder:
 运行	fctf	30
 支行	fctf	20
 动迁	fctf	10
+去重	fctg	10
 运算	fcth	20
 去处	fcth	10
 运程	fctk	10
@@ -35673,6 +35676,7 @@ encoder:
 河北省	iuit	30
 湖北省	iuit	20
 小道消息	iuit	10
+滴滴	iuiu	60
 滋润	iuiu	50
 滚滚	iuiu	40
 洋洋	iuiu	30
@@ -46151,6 +46155,7 @@ encoder:
 困兽犹斗	luqu	10
 較	luqy	10	luqy
 较近	lurp	10
+四次挥手	lurr	10
 圈椅	lusd	10
 輶	lusg	10	lusg
 输送机	lusm	10
@@ -68103,6 +68108,7 @@ encoder:
 抵销	rqqi	10
 抵免	rqqk	10
 抱负	rqqm	10
+拼多多	rqqq	10
 撳	rqqw	10	rqqw
 挽留	rqqy	30
 拘留	rqqy	20
@@ -82012,6 +82018,7 @@ encoder:
 痛死	ucgq	20
 痛歼	ucgq	10
 交通卡	uchh	10
+痛点	uchk	20
 交叉点	uchk	10
 㾺	uci	20	uci
 闖	uci	10	uci
@@ -86623,6 +86630,7 @@ encoder:
 孳生	uxtg	10
 递延	uxth	20
 癡	uxth	10	uxth
+单线程	uxtk	20
 慈和	uxtk	10
 凝血	uxtl	10
 背向	uxtm	10
@@ -90081,6 +90089,7 @@ encoder:
 段落	wdai	20
 做东	wdai	10
 做功	wdal	10
+分布式锁	wdaq	10
 亿万斯年	wdar	10
 人非草木	wdas	10
 今非昔比	wdax	10
