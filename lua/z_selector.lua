@@ -38,7 +38,6 @@ local punctuation = {
     [126] = '~', -- ~
 }
 local continuous_punctuation = {
-    [33] = '!', -- !
     [35] = '#', -- #
     [36] = '$', -- $
     [37] = '%', -- %
@@ -47,16 +46,11 @@ local continuous_punctuation = {
     [41] = ')', -- )
     [42] = '*', -- *
     [43] = '+', -- +
-    -- [44] = '，', -- ,
     [45] = '-', -- -
-    -- [46] = '。', -- .
     [47] = '/', -- /
-    -- [58] = '：', -- :
-    -- [59] = '；', -- ;
     [60] = '<', -- <
     [61] = '=', -- =
     [62] = '>', -- >
-    -- [63] = '？', -- ?
     [64] = '@', -- @
     [91] = '[', -- [
     [92] = '\\', -- \
@@ -70,6 +64,7 @@ local continuous_punctuation = {
     [126] = '~', -- ~
 }
 local shift_pressed
+local page_size = 5
 
 local function z_selector(key_event, env)
     local context = env.engine.context
@@ -94,6 +89,7 @@ local function z_selector(key_event, env)
             context:clear()
             return accept
         elseif key_event.keycode >= 48 and key_event.keycode <= 57 then
+            -- Commit numbers directly
             env.engine:commit_text(string.char(key_event.keycode))
             context:clear()
             return accept
@@ -107,17 +103,23 @@ local function z_selector(key_event, env)
     if is_number then
         dest = key_event.keycode - 48
         if dest == 0 then dest = 10 end -- 0 for select the 10-th item
-    elseif key_event.keycode == 122 and not input:match('^z') then -- z
+    elseif key_event.keycode == 122 and not input:match('^z') then
+        -- We use 'z' to select the third item
         dest = 3
     elseif
         (key_event.keycode == 59 and is_desktop or key_event.keycode == 47 and not is_desktop)
         and not input:match('^z')
-    then -- ; or /
+    then
+        -- On desktop, we use ';' to select the second item;
+        -- On phone, we use '/' to select the second item;
         dest = 2
-    elseif key_event.keycode == 44 and composition.selected_index > 10 then -- ,
+    elseif key_event.keycode == 44 and composition.selected_index > page_size then
+        -- ',' is used to go back one page
         return pass_to_next
-    elseif key_event.keycode == 46 then -- .
-        if context:has_menu() and composition.menu:candidate_count() < 10 then
+    elseif key_event.keycode == 46 then
+        -- '.' is used to go forward one page
+        if context:has_menu() and composition.menu:candidate_count() < page_size then
+            -- When there is no next page, we commit the first item with punctuation
             env.engine:commit_text(
                 composition.menu:get_candidate_at(0).text .. punctuation[key_event.keycode]
             )
@@ -128,10 +130,12 @@ local function z_selector(key_event, env)
         end
     end
     if not context:has_menu() then
-        if key_event.keycode > 32 and key_event.keycode < 127 then -- other visible characters
+        if key_event.keycode > 32 and key_event.keycode < 127 then
+            -- Other visible characters, this means that we are inputing alphabets
             context:push_input(string.char(key_event.keycode))
             return accept
-        elseif key_event.keycode == 32 then -- space
+        elseif key_event.keycode == 32 then
+            -- We always commit the text when space is pressed
             env.engine:commit_text(input)
             context:clear()
             return accept
@@ -141,6 +145,8 @@ local function z_selector(key_event, env)
         context:select(dest - 1)
         return accept
     elseif punctuation[key_event.keycode] then
+        -- For punctuations, we commit the first item with punctuation in some cases
+        -- or continue inputing the punctuation
         if continuous_punctuation[key_event.keycode] then
             context:push_input(continuous_punctuation[key_event.keycode])
         else
