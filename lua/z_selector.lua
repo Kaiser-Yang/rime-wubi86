@@ -26,15 +26,15 @@ local punctuation = {
     [62] = '》', -- >
     [63] = '？', -- ?
     [64] = '@', -- @
-    [91] = '【', -- [
+    [91] = '「', -- [
     [92] = '、', -- \
-    [93] = '】', -- ]
+    [93] = '」', -- ]
     [94] = '……', -- ^
     [95] = '——', -- _
     [96] = '`', -- `
-    [123] = '{', -- {
+    [123] = '『', -- {
     [124] = '|', -- |
-    [125] = '}', -- }
+    [125] = '』', -- }
     [126] = '~', -- ~
 }
 local continuous_punctuation = {
@@ -144,7 +144,7 @@ local function z_selector(key_event, env)
     elseif composition.menu:candidate_count() >= dest then
         context:select(dest - 1)
         return accept
-    elseif punctuation[key_event.keycode] then
+    elseif punctuation[key_event.keycode] and not input:match('^z') then
         -- For punctuations, we commit the first item with punctuation in some cases
         -- or continue inputing the punctuation
         if continuous_punctuation[key_event.keycode] then
