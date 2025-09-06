@@ -13808,6 +13808,7 @@ encoder:
 厢房	dsyn	10
 奇迹	dsyo	10
 奇诡	dsyq	10
+大概率	dsyx	10
 奇文	dsyy	10
 帮	dt	20	dtbh
 帮工	dtaa	10
@@ -18221,6 +18222,7 @@ encoder:
 幸运儿	ffqt	10
 封镜	ffqu	10
 㰪	ffqw	10	ffqw
+无需多言	ffqy	30
 塔塔尔族	ffqy	20
 款留	ffqy	10
 填报	ffrb	10
@@ -35102,6 +35104,7 @@ encoder:
 河底	isyq	10
 河床	isys	10
 酒旗	isyt	10
+小概率	isyx	10
 沭	isyy	10	isyy
 少	it	30	itr
 洚	ita	10	itah
@@ -44932,6 +44935,7 @@ encoder:
 回到	lkgc	20
 驾到	lkgc	10
 回天	lkgd	10
+回表	lkge	20
 回青	lkge	10
 圆球	lkgf	10
 圆环	lkgg	20
@@ -53795,6 +53799,7 @@ encoder:
 烦躁不安	okgp	10
 炽烈	okgq	10
 熡	okgv	10	okgv
+米哈游	okiy	10
 燥	okk	10	okks
 燀	okkf	10	okkf
 焒	okkg	10	okkg
@@ -55238,6 +55243,7 @@ encoder:
 宁夏省	pdit	10
 宏兴	pdiw	10
 宠溺	pdix	10
+字面量	pdjg	10
 害虫	pdjh	10
 宏昌	pdjj	10
 祸在旦夕	pdjq	10
@@ -69552,6 +69558,7 @@ encoder:
 拼装	ruuf	10
 拉美	ruug	10
 接站	ruuh	10
+抖音	ruuj	30
 拼音	ruuj	20
 接单	ruuj	10
 抱头痛哭	ruuk	20
@@ -78650,6 +78657,7 @@ encoder:
 粤曲	tlma	10
 血崩	tlme	10
 笔架山	tlmm	10
+血赚	tlmu	20
 簤	tlmu	10	tlmu
 血肉	tlmw	10
 惫	tln	10	tlnu
@@ -81461,6 +81469,7 @@ encoder:
 穖	txxt	10	txxt
 系统	txxy	10
 繁育	txyc	10
+系统调用	txye	10
 每亩	txyl	10
 每户	txyn	20
 篆刻	txyn	10
@@ -89593,9 +89602,9 @@ encoder:
 代开	waga	10
 休斯顿	wagb	10
 借到	wagc	10
+代表	wage	10
 仺	wagf	10	wagf
 㑌	wagg	10	wagg
-代理	wagj	10
 供事	wagk	10
 借来	wago	10
 坐卧不安	wagp	10
@@ -97583,6 +97592,7 @@ encoder:
 綖	xthp	10	xthp
 绛紫	xthx	10
 张江	xtia	10
+线程池	xtib	10
 张涛	xtid	10
 纤尘	xtif	10
 纤小	xtih	10
