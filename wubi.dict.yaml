@@ -3718,6 +3718,7 @@ encoder:
 芹菜	arae	10
 茱萸	arav	10
 七擒七纵	arax	10
+七擒孟获	arba	10
 药罐子	arbb	10
 葩	arc	10	arcb
 萚	arch	10	arch
@@ -10008,6 +10009,7 @@ encoder:
 硕大	dddd	20
 靥	dddd	10	dddd
 大有	ddde	10
+大厂	dddg	50
 大三	dddg	40
 大厨	dddg	30
 硬碰硬	dddg	20
@@ -11470,6 +11472,7 @@ encoder:
 硬要	dgsv	10
 三枪	dgsw	20
 古松	dgsw	10
+硬核	dgsy	30
 石柱	dgsy	20
 砞	dgsy	10	dgsy
 厂	dgt	20	dgt
@@ -55689,6 +55692,7 @@ encoder:
 完竣	pfuc	10
 完善	pfud	10
 赛前	pfue	10
+蜜雪冰城	pfuf	10
 完美	pfug	10
 客运站	pfuh	10
 寒冰	pfui	10
@@ -63088,6 +63092,7 @@ encoder:
 猪手	qtrt	30
 獥	qtrt	20	qtrt
 鋨	qtrt	10	qtrt
+我很抱歉	ttru	20
 猛撞	qtru	10
 狂热	qtrv	10
 猛推	qtrw	10
@@ -65573,6 +65578,7 @@ encoder:
 逝者如斯	rfva	10
 报刊杂志	rfvf	10
 持刀	rfvn	10
+气运如钟	rfvq	10
 扶	rfw	10	rfwy
 持仓	rfwb	10
 㩕	rfwc	10	rfwc
@@ -75855,6 +75861,7 @@ encoder:
 乱说	tdyu	10
 嵇康	tdyv	20
 矫诏	tdyv	10
+生而为人	tdyw	20
 知府	tdyw	10
 短文	tdyy	50
 第三方	tdyy	40
@@ -77952,6 +77959,7 @@ encoder:
 短小精悍	tion	10
 微波炉	tioy	10
 科学家	tipe	10
+复活赛	tipf	10
 簹	tipl	10	tipl
 血光之灾	tipp	10
 䉎	tips	10	tips
@@ -90404,6 +90412,7 @@ encoder:
 仍为	weyl	10
 合肥市	weym	10
 促膝谈心	weyn	10
+体脂率	weyx	20
 使用率	weyx	10
 八股文	weyy	20
 伋	weyy	10	weyy
@@ -91272,6 +91281,7 @@ encoder:
 全村	wgsf	30
 全票	wgsf	20
 倒票	wgsf	10
+全栈	wgsg	20
 全本	wgsg	10
 命相	wgsh	10
 便可	wgsk	10
@@ -92504,6 +92514,7 @@ encoder:
 㒏	wpfu	10	wpfu
 㑏	wpfy	10	wpfy
 公之于世	wpga	10
+偏安一隅	wpgb	10
 儐	wpgm	10	wpgm
 付之一炬	wpgo	10
 从容不迫	wpgr	10
@@ -92912,6 +92923,7 @@ encoder:
 体腔	wsep	10
 体彩	wses	10
 何用	wset	10
+体脂	wsex	10
 体裁	wsfa	10
 何地	wsfb	10
 何去	wsfc	10
