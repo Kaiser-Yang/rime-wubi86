@@ -17902,6 +17902,7 @@ encoder:
 震灾	fdpo	10
 老顾客	fdpt	10
 垯	fdpy	10	fdpy
+动态多态	fdqd	10
 城外	fdqh	10
 塽	fdqq	10	fdqq
 城铁	fdqr	10
@@ -23519,7 +23520,8 @@ encoder:
 天福	gdpy	10
 青面獠牙	gdqa	10
 天色	gdqc	10
-天然	gdqd	10
+天然	gdqd	20
+静态多态	gdqd	10
 珠三角	gdqe	10
 天外	gdqh	10
 天象	gdqj	10
@@ -61959,6 +61961,7 @@ encoder:
 争名夺利	qqdt	10
 狄尔泰	qqdw	10
 金龙	qqdx	10
+多态	qqdy	30
 金矿	qqdy	20
 危急存亡	qqdy	10
 多肽	qqed	10
