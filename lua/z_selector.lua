@@ -141,8 +141,8 @@ local function z_selector(key_event, env)
             return accept
         end
         return pass_to_next
-    elseif composition.menu:candidate_count() >= dest then
-        context:select(dest - 1)
+    elseif composition.selected_index + dest - 1 < composition.menu:candidate_count() then
+        context:select(composition.selected_index + dest - 1)
         return accept
     elseif punctuation[key_event.keycode] and not input:match('^z') then
         -- For punctuations, we commit the first item with punctuation in some cases
