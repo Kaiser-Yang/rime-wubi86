@@ -6176,6 +6176,7 @@ encoder:
 阵阵	blbl	10
 孟夏	bldh	10
 孟春	bldw	10
+陀思妥耶夫斯基	blea	10
 阵脚	blef	10
 孟	blf	10	blf
 阵地	blfb	10
@@ -8549,6 +8550,7 @@ encoder:
 桑塔纳	cfxm	10
 对比	cfxx	10
 圣衣	cfye	10
+参考文献	cfyf	30
 对讲	cfyf	20
 圣诗	cfyf	10
 对证	cfyg	10
@@ -9356,6 +9358,7 @@ encoder:
 双刃剑	cvwg	20
 难如登天	cvwg	10
 难	cw	30	cwyg
+通信工程	cwat	10
 难除	cwbw	10
 难能	cwce	10
 驸马	cwcn	20
@@ -26857,6 +26860,7 @@ encoder:
 严格	gost	10
 晋升	gota	10
 严辞	gotd	10
+严选	gotf	30
 恶行	gotf	20
 恶徒	gotf	10
 严重	gotg	30
@@ -30174,6 +30178,7 @@ encoder:
 睥	hr	10	hrtf
 紫气东来	hrag	10
 眅	hrcy	10	hrcy
+卡拉马佐夫兄弟	hrcu	10
 卡拉奇	hrds	10
 齿白唇红	hrdx	10
 眽	hrey	10	hrey
@@ -31672,6 +31677,7 @@ encoder:
 法政	ifgh	10
 法理	ifgj	10
 法事	ifgk	10
+激动不已	ifgn	10
 洗劫一空	ifgp	10
 汗死	ifgq	10
 汗珠	ifgr	10
@@ -40865,6 +40871,7 @@ encoder:
 中脑	khey	10
 趺	khf	20	khfw
 ⻊	khf	10	khf
+跨域	khfa	20
 路霸	khfa	10
 踋	khfb	20	khfb
 踍	khfb	10	khfb
@@ -46237,6 +46244,7 @@ encoder:
 办	lw	30	lwi
 轮式	lwaa	10
 办公区	lwaq	10
+软件工程	lwat	10
 轮子	lwbb	10
 输出	lwbm	10
 输了	lwbn	10
@@ -48532,6 +48540,7 @@ encoder:
 岁序	mqyc	10
 风衣	mqye	10
 见诸	mqyf	10
+风评	mqyg	30
 见证	mqyg	20
 网评	mqyg	10
 网店	mqyh	10
@@ -49727,6 +49736,7 @@ encoder:
 㤕	nbmh	10	nbmh
 鶌	nbmo	10	nbmo
 忚	nbn	10	nbn
+憨憨	nbnb	10
 屈居	nbnd	10
 敢情	nbng	20
 尽职尽责	nbng	10
@@ -59572,6 +59582,7 @@ encoder:
 乐颠颠	qffh	10
 杀无赦	qffo	10
 鐃	qffq	10	qffq
+负载均衡	qfft	20
 独裁者	qfft	10
 怨声载道	qffu	10
 急起直追	qffw	20
@@ -72809,6 +72820,7 @@ encoder:
 杏眼	skhv	10
 可汗	skif	10
 可没	skim	10
+机器学习	skin	10
 可溶	skip	10
 可当	skiv	10
 可是	skjg	10
@@ -90108,6 +90120,7 @@ encoder:
 公文	wcyy	10
 估	wd	30	wdg
 佐	wda	10	wdag
+分布式	wdaa	20
 做工	wdaa	10
 做菜	wdae	10
 优雅	wdah	10
@@ -99609,6 +99622,7 @@ encoder:
 诗经	yfxc	10
 市场经济	yfxi	10
 计费	yfxj	10
+文献综述	yfxs	10
 毫无疑问	yfxu	10
 讲给	yfxw	10
 毫无疑义	yfxy	10
