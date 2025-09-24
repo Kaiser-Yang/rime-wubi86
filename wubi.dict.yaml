@@ -31334,6 +31334,7 @@ encoder:
 灃	idhu	10	idhu
 尜	idi	10	idiu
 湖泽	idic	10
+尖尖	idid	30
 源源	idid	20
 沥沥	idid	10
 尖削	idie	10
@@ -36979,6 +36980,7 @@ encoder:
 竖起	jcfh	20
 竖直	jcfh	10
 竖井	jcfj	10
+暗通款曲	jcfm	10
 坚韧	jcfn	20
 肾亏	jcfn	10
 贤才	jcft	30
@@ -46228,7 +46230,7 @@ encoder:
 囡囡	lvlv	10
 轨辙	lvly	10
 軌	lvn	10	lvn
-图灵完备	tvpl	10
+图灵完备	lvpl	10
 輗	lvqn	10	lvqn
 思如泉涌	lvri	10
 轨枕	lvsp	10
@@ -57606,6 +57608,7 @@ encoder:
 补缀	puxc	10
 初级	puxe	20
 褖	puxe	10	puxe
+实线	puxg	30
 实绩	puxg	20
 裤线	puxg	10
 䘟	puxh	10	puxh
@@ -77364,6 +77367,7 @@ encoder:
 重做	tgwd	20
 惩一儆百	tgwd	10
 生俘	tgwe	10
+重传	tgwf	20
 和事佬	tgwf	10
 重合	tgwg	10
 重修	tgwh	20
@@ -84740,6 +84744,7 @@ encoder:
 决出	unbm	10
 闞	unbt	10	unbt
 闷骚	uncc	10
+道心破碎	undd	10
 决非	undj	10
 问心有愧	undn	10
 决胜	unet	10
@@ -86558,6 +86563,7 @@ encoder:
 总经理	uxgj	10
 背带	uxgk	20
 背囊	uxgk	10
+背刺	uxgm	10
 北亚	uxgo	10
 凝碧	uxgr	10
 北平	uxgu	10
@@ -94781,6 +94787,7 @@ encoder:
 邻	wycb	10	wycb
 领驭	wycc	10
 人高马大	wycd	10
+信通	wyce	30
 俼	wyce	20	wyce
 㒟	wyce	10	wyce
 鸰	wycg	10	wycg
