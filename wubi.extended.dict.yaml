@@ -75,8 +75,9 @@ encoder:
 主动	y	10
 式子	aa	20
 式微	aa	10
-节日	ab	20
-节目	ab	10
+节点	ab	20
+节日	ab	10
+节目	ab	0
 芭蕾	ac	20
 芭蕉	ac	10
 基本	ad	20
@@ -191,7 +192,8 @@ encoder:
 无法	fq	20
 无论	fq	10
 才能	ft	20
-才华	ft	10
+才会	ft	10
+才华	ft	0
 增加	fu	20
 增长	fu	10
 夫妻	fw	20
@@ -383,7 +385,8 @@ encoder:
 客观	pt	20
 客户	pt	10
 实现	pu	20
-实际	pu	10
+实验	pu	10
+实际	pu	0
 安全	pv	20
 安排	pv	10
 空间	pw	20
@@ -476,8 +479,9 @@ encoder:
 知识	td	10
 行为	tf	20
 行动	tf	10
-生活	tg	20
-生命	tg	10
+生成	tg	20
+生活	tg	10
+生命	tg	0
 处理	th	20
 处于	th	10
 得到	tj	20
@@ -600,8 +604,9 @@ encoder:
 红包	xa	10
 弘扬	xc	20
 弘毅	xc	10
-结束	xf	20
-结果	xf	10
+结点	xf	20
+结束	xf	10
+结果	xf	0
 引用	xh	20
 引起	xh	10
 强烈	xk	20

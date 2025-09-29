@@ -6474,6 +6474,7 @@ encoder:
 ⺋	bnn	10	bnn
 也敢	bnnb	10
 也怪	bnnc	10
+孔乙己	bnnn	20
 也已	bnnn	10
 也以	bnny	10
 了断	bnon	10
@@ -21961,7 +21962,6 @@ encoder:
 老公	ftwc	20
 老翁	ftwc	10
 都会	ftwf	40
-才会	ftwf	30
 教会	ftwf	20
 老舍	ftwf	10
 老命	ftwg	20
@@ -57076,7 +57076,6 @@ encoder:
 审美观	pucm	10
 褬	pucs	10	pucs
 鹤立鸡群	pucv	10
-实验	pucw	10
 褦	pucx	10	pucx
 被骗	pucy	20
 袏	puda	10	puda
