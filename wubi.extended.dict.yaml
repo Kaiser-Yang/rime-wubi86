@@ -233,6 +233,7 @@ encoder:
 占领	hk	10
 眼睛	hv	20
 眼光	hv	10
+睡觉	ht	20
 具体	hw	20
 具有	hw	10
 此外	hx	20
@@ -645,3 +646,4 @@ encoder:
 认识	yw	10
 方法	yy	20
 方式	yy	10
+方案	yy	0

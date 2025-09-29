@@ -30221,7 +30221,7 @@ encoder:
 睞	hsww	10	hsww
 叔本华	hswx	10
 盯住	hswy	10
-睡	ht	10	htgf
+睡	ht	30	htgf
 肯德基	htad	10
 睡卧	htah	10
 睡莲	htal	10
@@ -30252,7 +30252,6 @@ encoder:
 眨眼	hthv	20
 睡眼	hthv	10
 矏	hthy	10	hthy
-睡觉	htip	10
 睡吧	htkc	10
 䀩	htkg	10	htkg
 战利品	htkk	10
@@ -103978,7 +103977,6 @@ encoder:
 諪	yyps	10	yyps
 访客	yypt	10
 靡靡之音	yypu	10
-方案	yypv	40
 文案	yypv	30
 议案	yypv	20
 广安	yypv	10
