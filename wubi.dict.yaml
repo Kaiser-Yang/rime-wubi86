@@ -45890,13 +45890,12 @@ encoder:
 暂缓	lrxe	10
 连接线	lrxg	10
 回报率	lryx	10
-困	ls	20	lsi
+困	ls	30	lsi
 困苦	lsad	20
 恩格斯	lsad	10
 困惑	lsak	10
 黑木耳	lsbg	10
 困了	lsbn	10
-困难	lscw	10
 困厄	lsdb	10
 困在	lsdh	10
 黔西南	lsfm	10
@@ -55042,7 +55041,7 @@ encoder:
 粮库	oyyl	10
 米高	oyym	10
 糖膏	oyyp	10
-这	p	30	ypi
+这	p	50	ypi
 宽	pa	10	pamq
 空荡荡	paai	10
 密匝匝	paam	10
