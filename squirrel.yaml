@@ -25,7 +25,7 @@ show_notifications_when: appropriate                  # 显示通知消息
 style:
   color_scheme: poetry_spring                         # 日间主题
   color_scheme_dark: dark_spring                      # 夜间主题
-  candidate_list_layout: stacked                      # 候选项布局模式，stacked: 堆栈式，linear: 线性式
+  candidate_list_layout: linear                       # 候选项布局模式，stacked: 堆栈式，linear: 线性式
   text_orientation: horizontal                        # 文字方向，horizontal: 水平，vertical：垂直
   inline_preedit: true                                # 是否启用内联预编辑模式，true 行内模式，false 预编辑模式
   inline_candidate: false                             # 是否将选中的文本嵌入到输入框
