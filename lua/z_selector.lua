@@ -26,88 +26,135 @@ local punctuation = {
     [62] = '》', -- >
     [63] = '？', -- ?
     [64] = '@', -- @
-    [91] = '【', -- [
+    [91] = '「', -- [
     [92] = '、', -- \
-    [93] = '】', -- ]
+    [93] = '」', -- ]
     [94] = '……', -- ^
     [95] = '——', -- _
     [96] = '`', -- `
-    [123] = '｛', -- {
+    [123] = '『', -- {
     [124] = '|', -- |
-    [125] = '｝', -- }
+    [125] = '』', -- }
     [126] = '~', -- ~
 }
+local continuous_punctuation = {
+    [35] = '#', -- #
+    [36] = '$', -- $
+    [37] = '%', -- %
+    [38] = '&', -- &
+    [40] = '(', -- (
+    [41] = ')', -- )
+    [42] = '*', -- *
+    [43] = '+', -- +
+    [45] = '-', -- -
+    [47] = '/', -- /
+    [60] = '<', -- <
+    [61] = '=', -- =
+    [62] = '>', -- >
+    [64] = '@', -- @
+    [91] = '[', -- [
+    [92] = '\\', -- \
+    [93] = ']', -- ]
+    [94] = '^', -- ^
+    [95] = '_', -- _
+    [96] = '`', -- `
+    [123] = '{', -- {
+    [124] = '|', -- |
+    [125] = '}', -- }
+    [126] = '~', -- ~
+}
+local shift_pressed
+local page_size = 5
+
 local function z_selector(key_event, env)
     local context = env.engine.context
-    local composition = context.composition:back()
     local input = context.input
-    if key_event:release() then
-        return pass_to_next
-    elseif not input or #input == 0 then
-        if not punctuation[key_event.keycode] then return pass_to_next end
-        env.engine:commit_text(punctuation[key_event.keycode])
-        context:clear()
+    if key_event.keycode == 65505 then -- Shift key
+        if not key_event:release() then
+            shift_pressed = true
+        elseif shift_pressed then
+            -- For single shift key, we commit the text
+            env.engine:commit_text(input)
+            context:clear()
+            shift_pressed = nil
+        end
         return accept
     end
+    shift_pressed = nil
+    if key_event:release() then return pass_to_next end
+    if not input or #input == 0 then
+        if punctuation[key_event.keycode] then
+            -- If punctuation is pressed without input, we commit the punctuation
+            env.engine:commit_text(punctuation[key_event.keycode])
+            context:clear()
+            return accept
+        elseif key_event.keycode >= 48 and key_event.keycode <= 57 then
+            -- Commit numbers directly
+            env.engine:commit_text(string.char(key_event.keycode))
+            context:clear()
+            return accept
+        else
+            return pass_to_next
+        end
+    end
+    local composition = context.composition:back()
     local dest = 9999
     local is_number = key_event.keycode >= 48 and key_event.keycode <= 57
-    if key_event:shift() and key_event.keycode == 65505 then -- shift
-        env.engine:commit_text(input)
-        context:clear()
-        return accept
-    elseif is_number then
-        if key_event.keycode >= 49 and key_event.keycode <= 51 then -- 1, 2, 3
-            -- I never use 1, 2, 3 to select candidates
-            context.input = input .. string.char(key_event.keycode)
-            return accept
-        end
+    if is_number then
         dest = key_event.keycode - 48
         if dest == 0 then dest = 10 end -- 0 for select the 10-th item
-    elseif key_event.keycode == 122 and not input:match('^z') then -- z
+    elseif key_event.keycode == 122 and not input:match('^z') then
+        -- We use 'z' to select the third item
         dest = 3
     elseif
         (key_event.keycode == 59 and is_desktop or key_event.keycode == 47 and not is_desktop)
         and not input:match('^z')
-    then -- ; or /
+    then
+        -- On desktop, we use ';' to select the second item;
+        -- On phone, we use '/' to select the second item;
         dest = 2
-    elseif
-        key_event.keycode == 46
-        and context:has_menu()
-        and composition.menu:candidate_count() <= 10
-    then -- .
-        env.engine:commit_text(
-            composition.menu:get_candidate_at(0).text .. punctuation[key_event.keycode]
-        )
-        context:clear()
-        return accept
-    end
-    if not context:has_menu() then
-        if key_event.keycode >= 65 and key_event.keycode <= 90 then -- A-Z
-            return pass_to_next
-        elseif key_event.keycode > 32 and key_event.keycode < 127 then -- other visible characters
-            context.input = input .. string.char(key_event.keycode)
-            return accept
-        elseif key_event.keycode == 32 then -- space
-            env.engine:commit_text(input)
-            context:clear()
-            return accept
-        end
-    elseif composition.menu:candidate_count() >= dest then
-        env.engine:commit_text(composition.menu:get_candidate_at(dest - 1).text)
-        context:clear()
-        return accept
-    elseif punctuation[key_event.keycode] then
-        if key_event.keycode ~= punctuation[key_event.keycode]:byte() then
+    elseif key_event.keycode == 44 and composition.selected_index > page_size then
+        -- ',' is used to go back one page
+        return pass_to_next
+    elseif key_event.keycode == 46 then
+        -- '.' is used to go forward one page
+        if context:has_menu() and composition.menu:candidate_count() < page_size then
+            -- When there is no next page, we commit the first item with punctuation
             env.engine:commit_text(
                 composition.menu:get_candidate_at(0).text .. punctuation[key_event.keycode]
             )
             context:clear()
+            return accept
         else
-            context.input = input .. punctuation[key_event.keycode]
+            return pass_to_next
         end
+    end
+    if not context:has_menu() then
+        if key_event.keycode > 32 and key_event.keycode < 127 then
+            -- Other visible characters, this means that we are inputing alphabets
+            context:push_input(string.char(key_event.keycode))
+            return accept
+        elseif key_event.keycode == 32 then
+            -- We always commit the text when space is pressed
+            env.engine:commit_text(input)
+            context:clear()
+            return accept
+        end
+        return pass_to_next
+    elseif composition.selected_index + dest - 1 < composition.menu:candidate_count() then
+        context:select(composition.selected_index + dest - 1)
         return accept
-    elseif key_event.keycode == 122 then -- z
-        context.input = input .. string.char(key_event.keycode)
+    elseif punctuation[key_event.keycode] and not input:match('^z') then
+        -- For punctuations, we commit the first item with punctuation in some cases
+        -- or continue inputing the punctuation
+        if continuous_punctuation[key_event.keycode] then
+            context:push_input(continuous_punctuation[key_event.keycode])
+        else
+            env.engine:commit_text(
+                composition.menu:get_candidate_at(0).text .. punctuation[key_event.keycode]
+            )
+            context:clear()
+        end
         return accept
     end
     return pass_to_next

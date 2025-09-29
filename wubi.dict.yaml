@@ -3718,6 +3718,7 @@ encoder:
 芹菜	arae	10
 茱萸	arav	10
 七擒七纵	arax	10
+七擒孟获	arba	10
 药罐子	arbb	10
 葩	arc	10	arcb
 萚	arch	10	arch
@@ -3975,9 +3976,10 @@ encoder:
 苼	atgf	10	atgf
 攻下	atgh	10
 医理	atgj	10
-董事	atgk	30
-攻速	atgk	20
-苟延残喘	atgk	10
+董事	atgk	40
+攻速	atgk	30
+苟延残喘	atgk	20
+茴香豆	atgk	10
 蘍	atgl	10	atgl
 翘	atgn	20	atgn
 艾奥瓦	atgn	10
@@ -6175,6 +6177,7 @@ encoder:
 阵阵	blbl	10
 孟夏	bldh	10
 孟春	bldw	10
+陀思妥耶夫斯基	blea	10
 阵脚	blef	10
 孟	blf	10	blf
 阵地	blfb	10
@@ -6472,6 +6475,7 @@ encoder:
 ⺋	bnn	10	bnn
 也敢	bnnb	10
 也怪	bnnc	10
+孔乙己	bnnn	20
 也已	bnnn	10
 也以	bnny	10
 了断	bnon	10
@@ -6855,6 +6859,7 @@ encoder:
 降格以求	bsnf	10
 阿飞	bsnu	10
 也可以	bsny	10
+随机数	bsov	10
 阿米	bsoy	10
 阿宝	bspg	10
 阿福	bspy	10
@@ -7037,7 +7042,7 @@ encoder:
 降魔	btys	10
 降旗	btyt	10
 随行就市	btyy	10
-联	bu	10	budy
+联	bu	30	budy
 陪葬	buag	10
 聠	buah	10	buah
 職	buaj	10	buaj
@@ -7131,7 +7136,6 @@ encoder:
 陪我	butr	10
 出将入相	buts	10
 陪笑	butt	10
-联系	butx	20
 聪敏	butx	10
 陪着	buud	20
 陪送	buud	10
@@ -8542,11 +8546,13 @@ encoder:
 对华	cfwx	10
 对焦	cfwy	10
 圣经	cfxc	10
+对线	cfxg	20
 圣母	cfxg	10
 圣旨	cfxj	10
 桑塔纳	cfxm	10
 对比	cfxx	10
 圣衣	cfye	10
+参考文献	cfyf	30
 对讲	cfyf	20
 圣诗	cfyf	10
 对证	cfyg	10
@@ -9278,6 +9284,7 @@ encoder:
 预告片	ctth	10
 预备役	cttm	10
 双簧管	cttp	10
+双向选择	cttr	10
 圣彼得堡	cttw	10
 通知单	ctuj	10
 骄恣	ctuq	10
@@ -9353,6 +9360,7 @@ encoder:
 双刃剑	cvwg	20
 难如登天	cvwg	10
 难	cw	30	cwyg
+通信工程	cwat	10
 难除	cwbw	10
 难能	cwce	10
 驸马	cwcn	20
@@ -9481,6 +9489,7 @@ encoder:
 难住	cwwy	10
 骅	cwx	10	cwxf
 驋	cwxc	10	cwxc
+难绷	cwxe	10
 预付费	cwxj	10
 难缠	cwxy	10
 难度	cwya	10
@@ -10005,6 +10014,7 @@ encoder:
 硕大	dddd	20
 靥	dddd	10	dddd
 大有	ddde	10
+大厂	dddg	50
 大三	dddg	40
 大厨	dddg	30
 硬碰硬	dddg	20
@@ -10453,6 +10463,7 @@ encoder:
 厌食	ddwy	20
 大有作为	ddwy	10
 大红	ddxa	10
+大疆	ddxf	10
 大旨	ddxj	10
 万有引力	ddxl	10
 大纲	ddxm	10
@@ -11466,6 +11477,7 @@ encoder:
 硬要	dgsv	10
 三枪	dgsw	20
 古松	dgsw	10
+硬核	dgsy	30
 石柱	dgsy	20
 砞	dgsy	10	dgsy
 厂	dgt	20	dgt
@@ -11507,6 +11519,7 @@ encoder:
 太平间	dguj	10
 三部	dguk	10
 厂商	dgum	10
+三次	dguq	20
 三资	dguq	10
 三道	dgut	40
 三产	dgut	30
@@ -11874,6 +11887,7 @@ encoder:
 㸷	dhvh	10	dhvh
 洯	dhvi	20	dhvi
 絜	dhvi	10	dhvi
+丰巢	dhvj	30
 蛪	dhvj	20	dhvj
 㓶	dhvj	10	dhvj
 慧娟	dhvk	20
@@ -12975,6 +12989,7 @@ encoder:
 劢	dnl	10	dnln
 成因	dnld	10
 㞇	dnle	10	dnle
+尬黑	dnlf	20
 成团	dnlf	10
 万国	dnlg	10
 奋发图强	dnlx	10
@@ -13801,6 +13816,7 @@ encoder:
 厢房	dsyn	10
 奇迹	dsyo	10
 奇诡	dsyq	10
+大概率	dsyx	10
 奇文	dsyy	10
 帮	dt	20	dtbh
 帮工	dtaa	10
@@ -14131,6 +14147,7 @@ encoder:
 万头攒动	durf	10
 大半年	durh	10
 奇门遁甲	durl	10
+三次握手	durr	10
 碰撞	duru	10
 磸	dusd	10	dusd
 磁极	duse	10
@@ -17709,6 +17726,7 @@ encoder:
 运行	fctf	30
 支行	fctf	20
 动迁	fctf	10
+去重	fctg	10
 运算	fcth	20
 去处	fcth	10
 运程	fctk	10
@@ -17889,6 +17907,7 @@ encoder:
 震灾	fdpo	10
 老顾客	fdpt	10
 垯	fdpy	10	fdpy
+动态多态	fdqd	10
 城外	fdqh	10
 塽	fdqq	10	fdqq
 城铁	fdqr	10
@@ -18212,6 +18231,7 @@ encoder:
 幸运儿	ffqt	10
 封镜	ffqu	10
 㰪	ffqw	10	ffqw
+无需多言	ffqy	30
 塔塔尔族	ffqy	20
 款留	ffqy	10
 填报	ffrb	10
@@ -20111,6 +20131,7 @@ encoder:
 运输机	flsm	10
 雷德	fltf	10
 塔罗牌	flth	10
+协程	fltk	20
 协和	fltk	10
 协管	fltp	20
 雷管	fltp	10
@@ -21028,6 +21049,7 @@ encoder:
 南宁市	fpym	10
 过户	fpyn	10
 过弯	fpyo	10
+未定义	fpyq	10
 老实话	fpyt	20
 土家族	fpyt	10
 老实说	fpyu	20
@@ -21941,7 +21963,6 @@ encoder:
 老公	ftwc	20
 老翁	ftwc	10
 都会	ftwf	40
-才会	ftwf	30
 教会	ftwf	20
 老舍	ftwf	10
 老命	ftwg	20
@@ -22192,6 +22213,7 @@ encoder:
 培植	fusf	30
 壿	fusf	20	fusf
 墫	fusf	10	fusf
+走查	fhsj	10
 培根	fusv	10
 干净利落	futa	10
 求亲靠友	futd	10
@@ -23502,7 +23524,8 @@ encoder:
 天福	gdpy	10
 青面獠牙	gdqa	10
 天色	gdqc	10
-天然	gdqd	10
+天然	gdqd	20
+静态多态	gdqd	10
 珠三角	gdqe	10
 天外	gdqh	10
 天象	gdqj	10
@@ -24174,6 +24197,7 @@ encoder:
 一块	ggfn	30
 一声	ggfn	20
 一场	ggfn	10
+一坨	ggfp	30
 王勃	ggfp	20
 于事无补	ggfp	10
 一元	ggfq	20
@@ -26837,6 +26861,7 @@ encoder:
 严格	gost	10
 晋升	gota	10
 严辞	gotd	10
+严选	gotf	30
 恶行	gotf	20
 恶徒	gotf	10
 严重	gotg	30
@@ -30154,6 +30179,7 @@ encoder:
 睥	hr	10	hrtf
 紫气东来	hrag	10
 眅	hrcy	10	hrcy
+卡拉马佐夫兄弟	hrcu	10
 卡拉奇	hrds	10
 齿白唇红	hrdx	10
 眽	hrey	10	hrey
@@ -30196,7 +30222,7 @@ encoder:
 睞	hsww	10	hsww
 叔本华	hswx	10
 盯住	hswy	10
-睡	ht	10	htgf
+睡	ht	30	htgf
 肯德基	htad	10
 睡卧	htah	10
 睡莲	htal	10
@@ -30227,7 +30253,6 @@ encoder:
 眨眼	hthv	20
 睡眼	hthv	10
 矏	hthy	10	hthy
-睡觉	htip	10
 睡吧	htkc	10
 䀩	htkg	10	htkg
 战利品	htkk	10
@@ -31309,6 +31334,7 @@ encoder:
 灃	idhu	10	idhu
 尜	idi	10	idiu
 湖泽	idic	10
+尖尖	idid	30
 源源	idid	20
 沥沥	idid	10
 尖削	idie	10
@@ -31652,6 +31678,7 @@ encoder:
 法政	ifgh	10
 法理	ifgj	10
 法事	ifgk	10
+激动不已	ifgn	10
 洗劫一空	ifgp	10
 汗死	ifgq	10
 汗珠	ifgr	10
@@ -34144,10 +34171,10 @@ encoder:
 赏赐	ipmj	20
 峃	ipmj	10	ipmj
 深山	ipmm	10
-觉	ipmq	50	ipmq
-常见	ipmq	40
-淘宝网	ipmq	30
-学风	ipmq	20
+常见	ipmq	50
+觉	ipmq	40	ipmq
+学风	ipmq	30
+淘宝网	ipmq	20
 党风	ipmq	10
 党内	ipmw	10
 涫	ipn	10	ipnn
@@ -35089,6 +35116,7 @@ encoder:
 河底	isyq	10
 河床	isys	10
 酒旗	isyt	10
+小概率	isyx	10
 沭	isyy	10	isyy
 少	it	30	itr
 洚	ita	10	itah
@@ -35664,6 +35692,7 @@ encoder:
 河北省	iuit	30
 湖北省	iuit	20
 小道消息	iuit	10
+滴滴	iuiu	60
 滋润	iuiu	50
 滚滚	iuiu	40
 洋洋	iuiu	30
@@ -36266,6 +36295,7 @@ encoder:
 泑	ixln	10	ixln
 涨幅	ixmh	10
 溺婴	ixmm	10
+小红书	ixnn	10
 酒绿灯红	ixox	10
 小组赛	ixpf	10
 涨钱	ixqg	10
@@ -36950,6 +36980,7 @@ encoder:
 竖起	jcfh	20
 竖直	jcfh	10
 竖井	jcfj	10
+暗通款曲	jcfm	10
 坚韧	jcfn	20
 肾亏	jcfn	10
 贤才	jcft	30
@@ -38687,7 +38718,6 @@ encoder:
 临危不挠	jqgr	10
 日久天长	jqgt	10
 晚班	jqgy	10
-晚上	jqhh	10
 晚点	jqhk	10
 晚餐	jqhq	10
 晚睡	jqht	10
@@ -38959,7 +38989,7 @@ encoder:
 晒衣	jsye	10
 日本语	jsyg	10
 临机应变	jsyy	10
-昨	jt	10	jthf
+昨	jt	30	jthf
 监工	jtaa	10
 星期	jtad	10
 星散	jtae	10
@@ -39090,6 +39120,7 @@ encoder:
 临邑	jtkc	10
 星号	jtkg	20
 蛒	jtkg	10	jtkg
+最短路	jtkh	10
 紧箍咒	jtkk	10
 鉴别	jtkl	20
 临别	jtkl	10
@@ -40842,6 +40873,7 @@ encoder:
 中脑	khey	10
 趺	khf	20	khfw
 ⻊	khf	10	khf
+跨域	khfa	20
 路霸	khfa	10
 踋	khfb	20	khfb
 踍	khfb	10	khfb
@@ -44317,6 +44349,7 @@ encoder:
 转变	lfyo	30
 转弯	lfyo	20
 墨迹	lfyo	10
+转义	lfyq	20
 黑亮	lfyp	10
 黑底	lfyq	10
 转磨	lfys	10
@@ -44916,6 +44949,7 @@ encoder:
 回到	lkgc	20
 驾到	lkgc	10
 回天	lkgd	10
+回表	lkge	20
 回青	lkge	10
 圆球	lkgf	10
 圆环	lkgg	20
@@ -45325,6 +45359,7 @@ encoder:
 边界线	llxg	10
 畏畏缩缩	llxx	10
 田庄	llyf	10
+男主	llyg	10
 轻车熟路	llyk	10
 田亩	llyl	10
 田亮	llyp	10
@@ -45857,13 +45892,12 @@ encoder:
 暂缓	lrxe	10
 连接线	lrxg	10
 回报率	lryx	10
-困	ls	20	lsi
+困	ls	30	lsi
 困苦	lsad	20
 恩格斯	lsad	10
 困惑	lsak	10
 黑木耳	lsbg	10
 困了	lsbn	10
-困难	lscw	10
 困厄	lsdb	10
 困在	lsdh	10
 黔西南	lsfm	10
@@ -46141,6 +46175,7 @@ encoder:
 困兽犹斗	luqu	10
 較	luqy	10	luqy
 较近	lurp	10
+四次挥手	lurr	10
 圈椅	lusd	10
 輶	lusg	10	lusg
 输送机	lusm	10
@@ -46195,7 +46230,7 @@ encoder:
 囡囡	lvlv	10
 轨辙	lvly	10
 軌	lvn	10	lvn
-图灵完备	tvpl	10
+图灵完备	lvpl	10
 輗	lvqn	10	lvqn
 思如泉涌	lvri	10
 轨枕	lvsp	10
@@ -46211,6 +46246,7 @@ encoder:
 办	lw	30	lwi
 轮式	lwaa	10
 办公区	lwaq	10
+软件工程	lwat	10
 轮子	lwbb	10
 输出	lwbm	10
 输了	lwbn	10
@@ -46472,6 +46508,7 @@ encoder:
 轆	lynx	20	lynx
 䍡	lynx	10	lynx
 略识之无	lypf	10
+转义字符	lypt	10
 连衣裙	lypu	10
 轻诺寡信	lypw	10
 罚钱	lyqg	10
@@ -46835,6 +46872,7 @@ encoder:
 骨灰级	mdxe	10
 岩缝	mdxt	10
 賎	mdxy	10	mdxy
+内存序	mdyc	10
 央请	mdyg	10
 网大为	mdyl	10
 崖刻	mdyn	10
@@ -46968,6 +47006,7 @@ encoder:
 㟎	mevg	10	mevg
 崢	mevh	10	mevh
 骩	mevn	10	mevn
+岁月如歌	mevs	10
 骫	mevy	10	mevy
 骱	mew	10	mewj
 䯍	mewc	10	mewc
@@ -47122,6 +47161,7 @@ encoder:
 雕镌	mfqw	20
 崁	mfqw	10	mfqw
 财贸	mfqy	10
+财报	mfrb	20
 周报	mfrb	10
 周年	mfrh	20
 财年	mfrh	10
@@ -48502,6 +48542,7 @@ encoder:
 岁序	mqyc	10
 风衣	mqye	10
 见诸	mqyf	10
+风评	mqyg	30
 见证	mqyg	20
 网评	mqyg	10
 网店	mqyh	10
@@ -49697,6 +49738,7 @@ encoder:
 㤕	nbmh	10	nbmh
 鶌	nbmo	10	nbmo
 忚	nbn	10	nbn
+憨憨	nbnb	10
 屈居	nbnd	10
 敢情	nbng	20
 尽职尽责	nbng	10
@@ -49914,6 +49956,7 @@ encoder:
 恢宏	ndpd	10
 居家	ndpe	10
 居室	ndpg	10
+已成定局	ndpn	20
 居官	ndpn	10
 屠龙之技	ndpr	10
 忧色	ndqc	10
@@ -50058,7 +50101,6 @@ encoder:
 屠夫	nffw	20
 懦夫	nffw	10
 迅雷不及掩耳	nfgb	10
-导致	nfgc	10
 愤青	nfge	10
 慎于	nfgf	10
 书声琅琅	nfgg	10
@@ -50416,6 +50458,7 @@ encoder:
 心平气和	ngrt	10
 情势	ngrv	10
 忙不迭	ngrw	10
+快速排序	ngry	10
 刁横	ngsa	10
 屋顶	ngsd	10
 怀想	ngsh	10
@@ -51380,6 +51423,7 @@ encoder:
 快报	nnrb	20
 书报	nnrb	10
 书摊	nnrc	10
+快排	nnrd	10
 心怀鬼胎	nnre	10
 快捷	nnrg	20
 慴	nnrg	10	nnrg
@@ -51682,6 +51726,7 @@ encoder:
 发指眦裂	nrhg	10
 㥴	nrhm	10	nrhm
 发扬光大	nrid	10
+羼水	nuii	10
 怕是	nrjg	10
 飞扬跋扈	nrky	10
 憮	nrlo	10	nrlo
@@ -53039,6 +53084,7 @@ encoder:
 炼乳	oaeb	10
 粪肥	oaec	10
 糤	oaet	10	oaet
+烧脑	oaey	10
 粪土	oaff	10
 烘干	oafg	40
 烧坏	oafg	30
@@ -53622,6 +53668,7 @@ encoder:
 数目字	ohpb	10
 爘	ohqe	10	ohqe
 火眼金睛	ohqh	10
+粘包	ohqn	30
 粯	ohqn	20	ohqn
 䙺	ohqn	10	ohqn
 燦	ohqo	10	ohqo
@@ -53769,6 +53816,7 @@ encoder:
 烦躁不安	okgp	10
 炽烈	okgq	10
 熡	okgv	10	okgv
+米哈游	okiy	10
 燥	okk	10	okks
 燀	okkf	10	okkf
 焒	okkg	10	okkg
@@ -54995,7 +55043,7 @@ encoder:
 粮库	oyyl	10
 米高	oyym	10
 糖膏	oyyp	10
-这	p	30	ypi
+这	p	50	ypi
 宽	pa	10	pamq
 空荡荡	paai	10
 密匝匝	paam	10
@@ -55212,6 +55260,7 @@ encoder:
 宁夏省	pdit	10
 宏兴	pdiw	10
 宠溺	pdix	10
+字面量	pdjg	10
 害虫	pdjh	10
 宏昌	pdjj	10
 祸在旦夕	pdjq	10
@@ -55657,6 +55706,7 @@ encoder:
 完竣	pfuc	10
 完善	pfud	10
 赛前	pfue	10
+蜜雪冰城	pfuf	10
 完美	pfug	10
 客运站	pfuh	10
 寒冰	pfui	10
@@ -57028,7 +57078,6 @@ encoder:
 审美观	pucm	10
 褬	pucs	10	pucs
 鹤立鸡群	pucv	10
-实验	pucw	10
 褦	pucx	10	pucx
 被骗	pucy	20
 袏	puda	10	puda
@@ -57558,6 +57607,7 @@ encoder:
 补缀	puxc	10
 初级	puxe	20
 褖	puxe	10	puxe
+实线	puxg	30
 实绩	puxg	20
 裤线	puxg	10
 䘟	puxh	10	puxh
@@ -59534,6 +59584,7 @@ encoder:
 乐颠颠	qffh	10
 杀无赦	qffo	10
 鐃	qffq	10	qffq
+负载均衡	qfft	20
 独裁者	qfft	10
 怨声载道	qffu	10
 急起直追	qffw	20
@@ -61923,6 +61974,7 @@ encoder:
 争名夺利	qqdt	10
 狄尔泰	qqdw	10
 金龙	qqdx	10
+多态	qqdy	30
 金矿	qqdy	20
 危急存亡	qqdy	10
 多肽	qqed	10
@@ -63056,6 +63108,7 @@ encoder:
 猪手	qtrt	30
 獥	qtrt	20	qtrt
 鋨	qtrt	10	qtrt
+我很抱歉	ttru	20
 猛撞	qtru	10
 狂热	qtrv	10
 猛推	qtrw	10
@@ -64658,6 +64711,7 @@ encoder:
 摊点	rchk	10
 抬眼	rchv	10
 返潮	rcif	10
+掺水	rcii	20
 反水	rcii	10
 反常	rcip	10
 反光	rciq	10
@@ -65541,6 +65595,7 @@ encoder:
 逝者如斯	rfva	10
 报刊杂志	rfvf	10
 持刀	rfvn	10
+气运如钟	rfvq	10
 扶	rfw	10	rfwy
 持仓	rfwb	10
 㩕	rfwc	10	rfwc
@@ -68085,6 +68140,7 @@ encoder:
 抵销	rqqi	10
 抵免	rqqk	10
 抱负	rqqm	10
+拼多多	rqqq	10
 撳	rqqw	10	rqqw
 挽留	rqqy	30
 拘留	rqqy	20
@@ -68661,6 +68717,7 @@ encoder:
 打工	rsaa	10
 打散	rsae	10
 打靶	rsaf	10
+后槽牙	rsah	10
 打落	rsai	10
 打药	rsax	10
 投机取巧	rsba	10
@@ -69043,6 +69100,7 @@ encoder:
 摠	rtln	10	rtln
 手边	rtlp	10
 手软	rtlq	10
+执行力	rtlt	20
 插图	rtlt	10
 手办	rtlw	20
 托办	rtlw	10
@@ -69523,6 +69581,7 @@ encoder:
 拼装	ruuf	10
 拉美	ruug	10
 接站	ruuh	10
+抖音	ruuj	30
 拼音	ruuj	20
 接单	ruuj	10
 抱头痛哭	ruuk	20
@@ -72764,6 +72823,7 @@ encoder:
 杏眼	skhv	10
 可汗	skif	10
 可没	skim	10
+机器学习	skin	10
 可溶	skip	10
 可当	skiv	10
 可是	skjg	10
@@ -75755,6 +75815,7 @@ encoder:
 敌群	tdvt	10
 矬	tdw	10	tdwf
 筹借	tdwa	10
+乱做	tdwd	10
 知会	tdwf	20
 适值	tdwf	10
 适合	tdwg	30
@@ -75818,6 +75879,7 @@ encoder:
 乱说	tdyu	10
 嵇康	tdyv	20
 矫诏	tdyv	10
+生而为人	tdyw	20
 知府	tdyw	10
 短文	tdyy	50
 第三方	tdyy	40
@@ -77305,6 +77367,7 @@ encoder:
 重做	tgwd	20
 惩一儆百	tgwd	10
 生俘	tgwe	10
+重传	tgwf	20
 和事佬	tgwf	10
 重合	tgwg	10
 重修	tgwh	20
@@ -77915,6 +77978,7 @@ encoder:
 短小精悍	tion	10
 微波炉	tioy	10
 科学家	tipe	10
+复活赛	tipf	10
 簹	tipl	10	tipl
 血光之灾	tipp	10
 䉎	tips	10	tips
@@ -78620,6 +78684,7 @@ encoder:
 粤曲	tlma	10
 血崩	tlme	10
 笔架山	tlmm	10
+血赚	tlmu	20
 簤	tlmu	10	tlmu
 血肉	tlmw	10
 惫	tln	10	tlnu
@@ -78752,6 +78817,7 @@ encoder:
 秃子	tmbb	10
 向阳	tmbj	10
 射出	tmbm	10
+躺了	tmbn	10
 身陷	tmbq	10
 役	tmc	10	tmcy
 垼	tmcf	10	tmcf
@@ -79783,6 +79849,7 @@ encoder:
 生搬硬套	trdd	10
 特有	trde	20
 牻	trde	10	trde
+鹅厂	trdg	40
 牯	trdg	30	trdg
 我厂	trdg	20
 牧犬	trdg	10
@@ -81005,6 +81072,7 @@ encoder:
 很强	tvxk	10
 很细	tvxl	10
 很弱	tvxu	10
+复杂度	tvya	10
 很熟	tvyb	10
 笋衣	tvye	10
 律诗	tvyf	10
@@ -81429,6 +81497,7 @@ encoder:
 穖	txxt	10	txxt
 系统	txxy	10
 繁育	txyc	10
+系统调用	txye	10
 每亩	txyl	10
 每户	txyn	20
 篆刻	txyn	10
@@ -81465,6 +81534,7 @@ encoder:
 入队	tybw	10
 籬	tyby	10	tyby
 入戏	tyca	10
+彻夜难眠	tych	10
 长夜难明	tycj	10
 勶	tycl	10	tycl
 重峦叠嶂	tycm	10
@@ -81990,6 +82060,7 @@ encoder:
 痛死	ucgq	20
 痛歼	ucgq	10
 交通卡	uchh	10
+痛点	uchk	20
 交叉点	uchk	10
 㾺	uci	20	uci
 闖	uci	10	uci
@@ -83646,6 +83717,7 @@ encoder:
 冰暴	uija	10
 阔野	uijf	10
 冰晶	uijj	10
+单源最短路	uijk	10
 交流电	uijn	10
 阔叶	uikf	10
 阔别	uikl	10
@@ -84673,6 +84745,7 @@ encoder:
 决出	unbm	10
 闞	unbt	10	unbt
 闷骚	uncc	10
+道心破碎	undd	10
 决非	undj	10
 问心有愧	undn	10
 决胜	unet	10
@@ -86491,6 +86564,7 @@ encoder:
 总经理	uxgj	10
 背带	uxgk	20
 背囊	uxgk	10
+背刺	uxgm	10
 北亚	uxgo	10
 凝碧	uxgr	10
 北平	uxgu	10
@@ -86600,6 +86674,7 @@ encoder:
 孳生	uxtg	10
 递延	uxth	20
 癡	uxth	10	uxth
+单线程	uxtk	20
 慈和	uxtk	10
 凝血	uxtl	10
 背向	uxtm	10
@@ -89557,9 +89632,9 @@ encoder:
 代开	waga	10
 休斯顿	wagb	10
 借到	wagc	10
+代表	wage	10
 仺	wagf	10	wagf
 㑌	wagg	10	wagg
-代理	wagj	10
 供事	wagk	10
 借来	wago	10
 坐卧不安	wagp	10
@@ -90052,12 +90127,14 @@ encoder:
 公文	wcyy	10
 估	wd	30	wdg
 佐	wda	10	wdag
+分布式	wdaa	20
 做工	wdaa	10
 做菜	wdae	10
 优雅	wdah	10
 段落	wdai	20
 做东	wdai	10
 做功	wdal	10
+分布式锁	wdaq	10
 亿万斯年	wdar	10
 人非草木	wdas	10
 今非昔比	wdax	10
@@ -90358,6 +90435,7 @@ encoder:
 仍为	weyl	10
 合肥市	weym	10
 促膝谈心	weyn	10
+体脂率	weyx	20
 使用率	weyx	10
 八股文	weyy	20
 伋	weyy	10	weyy
@@ -91226,6 +91304,7 @@ encoder:
 全村	wgsf	30
 全票	wgsf	20
 倒票	wgsf	10
+全栈	wgsg	20
 全本	wgsg	10
 命相	wgsh	10
 便可	wgsk	10
@@ -91532,6 +91611,7 @@ encoder:
 㫦	whtj	10	whtj
 俱备	whtl	20
 偹	whtl	10	whtl
+企微	whtm	30
 修身	whtm	20
 仆役	whtm	10
 悠	whtn	20	whtn
@@ -92428,6 +92508,7 @@ encoder:
 欲火焚身	wost	10
 人烟稀少	woti	10
 人烟稠密	wotp	10
+企业微信	wotw	10
 偻	wov	10	wovg
 拿糖作醋	wows	10
 伙伴	wowu	10
@@ -92456,6 +92537,7 @@ encoder:
 㒏	wpfu	10	wpfu
 㑏	wpfy	10	wpfy
 公之于世	wpga	10
+偏安一隅	wpgb	10
 儐	wpgm	10	wpgm
 付之一炬	wpgo	10
 从容不迫	wpgr	10
@@ -92778,6 +92860,7 @@ encoder:
 偟	wrgg	10	wrgg
 件事	wrgk	10
 人手一册	wrgm	10
+全排列	wrgq	10
 假手于人	wrgw	20
 㑟	wrgw	10	wrgw
 件	wrh	30	wrhh
@@ -92863,6 +92946,7 @@ encoder:
 体腔	wsep	10
 体彩	wses	10
 何用	wset	10
+体脂	wsex	10
 体裁	wsfa	10
 何地	wsfb	10
 何去	wsfc	10
@@ -93082,7 +93166,6 @@ encoder:
 八股	wtem	10
 作爱	wtep	10
 侨胞	wteq	10
-作用	wtet	30
 任用	wtet	20
 俢	wtet	10	wtet
 侜	wtey	10	wtey
@@ -93705,6 +93788,7 @@ encoder:
 伜	wvfh	20	wvfh
 侓	wvfh	10	wvfh
 分场	wvfn	10
+创建者	wvft	10
 㚢	wvg	10	wvg
 分开	wvga	50
 岔开	wvga	40
@@ -94157,6 +94241,7 @@ encoder:
 豀	wwkd	10	wwkd
 豂	wwke	10	wwke
 䜰	wwkf	10	wwkf
+公众号	wwkg	20
 鹆	wwkg	10	wwkg
 从中	wwkh	30
 㑖	wwkh	20	wwkh
@@ -94703,6 +94788,7 @@ encoder:
 邻	wycb	10	wycb
 领驭	wycc	10
 人高马大	wycd	10
+信通	wyce	30
 俼	wyce	20	wyce
 㒟	wyce	10	wyce
 鸰	wycg	10	wycg
@@ -96173,6 +96259,7 @@ encoder:
 线形	xgga	10
 纯青	xgge	10
 纯玩	xggf	10
+线下	xggh	20
 纯正	xggh	10
 线束	xggk	10
 红玫瑰	xggr	10
@@ -97541,6 +97628,7 @@ encoder:
 綖	xthp	10	xthp
 绛紫	xthx	10
 张江	xtia	10
+线程池	xtib	10
 张涛	xtid	10
 纤尘	xtif	10
 纤小	xtih	10
@@ -98169,6 +98257,7 @@ encoder:
 幽浮	xxie	20
 毕肖	xxie	10
 比法	xxif	10
+丝滑	xxim	20
 顈	xxim	10	xxim
 纰漏	xxin	10
 鷥	xxio	10	xxio
@@ -99541,6 +99630,7 @@ encoder:
 诗经	yfxc	10
 市场经济	yfxi	10
 计费	yfxj	10
+文献综述	yfxs	10
 毫无疑问	yfxu	10
 讲给	yfxw	10
 毫无疑义	yfxy	10
@@ -102216,6 +102306,7 @@ encoder:
 言近旨远	yrxf	10
 廐	yrxq	10	yrxq
 诉诸	yryf	10
+语气词	yryn	10
 误打误撞	yryr	10
 譤	yryt	10	yryt
 诉说	yryu	10
@@ -103888,7 +103979,6 @@ encoder:
 諪	yyps	10	yyps
 访客	yypt	10
 靡靡之音	yypu	10
-方案	yypv	40
 文案	yypv	30
 议案	yypv	20
 广安	yypv	10

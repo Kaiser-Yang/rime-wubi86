@@ -15,8 +15,8 @@ schema:
 
 engine:
   processors:
-    - lua_processor@z_selector
     - ascii_composer
+    - lua_processor@z_selector
     - recognizer
     - key_binder
     - speller
@@ -70,7 +70,7 @@ switches:
     states: [ 半,全 ]
 
 menu:
-  page_size: 10
+  page_size: 5
   alternative_select_labels: [ ㊀, ㊁, ㊂, ㊃, ㊄, ㊅, ㊆, ㊇, ㊈, ㊉ ]
 
 speller:
@@ -79,7 +79,7 @@ speller:
   max_code_length: 1000
   auto_select: false
   auto_select_pattern: ^^\w{4}$
-  auto_clear: max_length
+  auto_clear: 1000
 
 recognizer:
   patterns:
@@ -90,7 +90,7 @@ translator:
   db_class: tabledb
   initial_quality: 100000
   enable_charset_filter: false
-  enable_sentence: false
+  enable_sentence: true
   enable_user_dict: false
   enable_encoder: false
   encode_commit_history: false
@@ -129,6 +129,7 @@ key_binder:
     - {accept: Control+Shift+J, toggle: new_hide_pinyin, when: always}
     - {accept: Control+Shift+space, toggle: full_shape, when: always}
     - {accept: Control+period, toggle: ascii_punct, when: always}
+    - {accept: Shift+space, toggle: ascii_mode, when: always}
     - {accept: Control+Shift+U, toggle: GB2312, when: always}
 punctuator:
   import_preset: symbols
