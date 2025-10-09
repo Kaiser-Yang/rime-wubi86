@@ -3895,7 +3895,7 @@ encoder:
 苛刻	asyn	10
 蒁	asyp	10	asyp
 东西方	asyy	10
-攻	at	10	aty
+攻	at	30	aty
 苌	ata	10	atay
 斯特劳斯	ataa	10
 范德萨	atab	10
@@ -3963,7 +3963,6 @@ encoder:
 翘起	atfh	20
 蓗	atfh	10	atfh
 功德无量	atfj	10
-攻击	atfm	10
 芼	atfn	10	atfn
 蓬勃	atfp	30
 莛	atfp	20	atfp
@@ -17136,6 +17135,7 @@ encoder:
 堪	fad	10	fadn
 去芜存菁	fada	10
 十七大	fadd	10
+截胡	fade	20
 载有	fade	10
 裁夺	fadf	10
 雨花石	fadg	20
@@ -97169,6 +97169,7 @@ encoder:
 缕缕	xoxo	10
 䋛	xoy	10	xoy
 毕业证	xoyg	10
+毕业论文	xoyy	20
 纳粹主义	xoyy	10
 综	xp	10	xpfi
 综艺	xpan	10
