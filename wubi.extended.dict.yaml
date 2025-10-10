@@ -128,6 +128,7 @@ encoder:
 队友	bw	20
 双方	cc	20
 双手	cc	10
+参加	cd	20
 能够	ce	20
 能力	ce	10
 对象	cf	20
@@ -617,6 +618,7 @@ encoder:
 结点	xf	20
 结束	xf	10
 结果	xf	0
+线程	xg	20
 引用	xh	20
 引起	xh	10
 强烈	xk	20
