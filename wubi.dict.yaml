@@ -8074,7 +8074,7 @@ encoder:
 叠放	ccyt	10
 又说	ccyu	10
 双座	ccyw	10
-参	cd	20	cder
+参	cd	30	cder
 参茸	cdab	10
 骑警	cdaq	10
 参院	cdbp	10
@@ -8116,7 +8116,6 @@ encoder:
 参团	cdlf	10
 骑车	cdlg	10
 軬	cdlj	10	cdlj
-参加	cdlk	10
 马达加斯加	cdll	10
 马克思	cdln	10
 驮轿	cdlt	10
@@ -45088,8 +45087,8 @@ encoder:
 回神	lkpy	10
 圆角	lkqe	10
 加印	lkqg	10
-回销	lkqi	20
-加锁	lkqi	10
+加锁	lkqi	20
+回销	lkqi	10
 回锅	lkqk	10
 圆钢	lkqm	10
 回馈	lkqn	20
@@ -69521,6 +69520,7 @@ encoder:
 拉锯	ruqn	10
 拉钩	ruqq	10
 拼杀	ruqs	10
+看门狗	ruqt	20
 招商银行	ruqt	10
 拌匀	ruqu	10
 拼争	ruqv	10
@@ -72888,6 +72888,7 @@ encoder:
 㪼	skrh	10	skrh
 歌舞	skrl	10
 可气	skrn	10
+可控	skrp	20
 可按	skrp	10
 歌手	skrt	10
 哥	sks	10	sksk
@@ -79789,6 +79790,7 @@ encoder:
 自然保护区	tqwa	20
 称贷	tqwa	10
 称颂	tqwc	10
+自然段	tqwd	20
 千儿八百	tqwd	10
 逢凶化吉	tqwf	20
 知名人士	tqwf	10
@@ -96224,7 +96226,7 @@ encoder:
 结论	xfyw	20
 绪论	xfyw	10
 绪言	xfyy	10
-线	xg	10	xgt
+线	xg	30	xgt
 纯蓝	xgaj	10
 线芯	xgan	10
 纯	xgb	10	xgbn
@@ -96366,7 +96368,6 @@ encoder:
 纯毛	xgtf	10
 纯生	xgtg	10
 纯利	xgtj	10
-线程	xgtk	20
 纯种	xgtk	10
 线条	xgts	10
 细致入微	xgtt	10
@@ -101100,8 +101101,8 @@ encoder:
 高线	ymxg	10
 高强	ymxk	10
 设疑	ymxt	10
-调试	ymya	30
-调度	ymya	20
+调度	ymya	30
+调试	ymya	20
 高风亮节	ymya	10
 调离	ymyb	10
 调序	ymyc	10
