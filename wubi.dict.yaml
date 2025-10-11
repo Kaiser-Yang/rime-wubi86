@@ -13711,6 +13711,7 @@ encoder:
 奇才	dsft	10
 春梦无痕	dsfu	10
 硒	dsg	10	dsg
+大模型	dsga	10
 克林顿	dsgb	10
 有机玻璃	dsgg	20
 砵	dsgg	10	dsgg
@@ -17911,6 +17912,7 @@ encoder:
 城外	fdqh	10
 塽	fdqq	10	fdqq
 城铁	fdqr	10
+专有名词	fdqy	10
 塬	fdr	10	fdri
 震撼	fdrd	10
 志愿兵	fdrg	10
@@ -29845,6 +29847,7 @@ encoder:
 战乱	hktd	10
 战船	hkte	20
 战舰	hkte	10
+点赞	hktf	20
 占先	hktf	10
 点算	hkth	10
 战备	hktl	10
@@ -32942,8 +32945,8 @@ encoder:
 满江红	iixa	20
 满堂红	iixa	10
 消弭	iixb	10
-水母	iixg	20
-流水线	iixg	10
+流水线	iixg	20
+水母	iixg	10
 消费	iixj	20
 水费	iixj	10
 沙弥	iixq	10
@@ -75268,6 +75271,7 @@ encoder:
 自卫队	tbbw	10
 升降台	tbck	10
 箃	tbcu	10	tbcu
+知耿而后勇	tbdc	10
 季夏	tbdh	10
 向隅而泣	tbdi	10
 乘隙而入	tbdt	10
