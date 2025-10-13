@@ -201,7 +201,7 @@ encoder:
 无论	fq	10
 才能	ft	20
 才会	ft	10
-才华	ft	0
+才是	ft	0
 增加	fu	20
 增长	fu	10
 夫妻	fw	20
@@ -221,7 +221,8 @@ encoder:
 下班	gh	20
 下面	gh	10
 还是	gi	20
-还有	gi	10
+还会	gi	10
+还能	gi	0
 理解	gj	20
 理由	gj	10
 事实	gk	20
@@ -318,7 +319,8 @@ encoder:
 哪些	kv	20
 哪里	kv	10
 只是	kw	20
-只有	kw	10
+只会	kw	10
+只能	kw	0
 羁绊	la	20
 羁押	la	10
 轻松	lc	20
