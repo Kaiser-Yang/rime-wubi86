@@ -5430,6 +5430,7 @@ encoder:
 取反	bcrc	10
 聚拢	bcrd	10
 聚气	bcrn	10
+取模	bcsa	10
 取材	bcsf	10
 聚酯	bcsg	10
 取样	bcsu	20
@@ -12195,6 +12196,7 @@ encoder:
 悲喜	djfk	10
 蜚声	djfn	10
 百元	djfq	10
+非零	djfw	10
 泰晤士报	djfr	10
 碍	djg	10	djgf
 非刑	djga	10
@@ -13188,6 +13190,7 @@ encoder:
 大米饭	doqn	10
 灰狼	doqt	10
 灰质	dorf	10
+大数据	dorn	10
 灰白	dorr	10
 磷酸	dosg	10
 厝火积薪	dota	10
@@ -17710,6 +17713,7 @@ encoder:
 运势	fcrv	20
 支招	fcrv	10
 劫掠	fcry	10
+二叉树	fcsc	10
 云顶	fcsd	10
 云杉	fcse	10
 支票	fcsf	10
@@ -21749,9 +21753,8 @@ encoder:
 都	ftjb	10	ftjb
 䰩	ftjc	20	ftjc
 殾	ftjc	10	ftjc
-都是	ftjg	60
-老师	ftjg	50
-才是	ftjg	40
+都是	ftjg	50
+老师	ftjg	40
 教师	ftjg	30
 考量	ftjg	20
 考题	ftjg	10
@@ -21983,6 +21986,7 @@ encoder:
 考分	ftwv	10
 老人	ftww	10
 老化	ftwx	40
+才华	ftwx	30
 教化	ftwx	20
 雾化	ftwx	10
 煮食	ftwy	10
@@ -25033,8 +25037,6 @@ encoder:
 不防	giby	10
 玩游戏	gica	10
 不予	gicb	10
-不能	gice	30
-还能	gice	20
 不通	gice	10
 不对	gicf	10
 不允	gicq	10
@@ -25042,6 +25044,7 @@ encoder:
 不顾	gidb	10
 不大	gidd	20
 不厌	gidd	10
+还有	gide	20
 还没有	gide	10
 不辱	gidf	10
 还在	gidh	20
@@ -25395,7 +25398,6 @@ encoder:
 不公	giwc	10
 不做	giwd	10
 䬩	giwe	10	giwe
-还会	giwf	50
 不佳	giwf	40
 不舍	giwf	30
 不值	giwf	20
@@ -25739,6 +25741,7 @@ encoder:
 带过	gkfp	10
 融雪	gkfv	10
 顿口无言	gkfy	10
+整型	gkga	20
 整形	gkga	10
 整顿	gkgb	10
 带到	gkgc	10
@@ -59121,6 +59124,7 @@ encoder:
 色鬼	qcrq	10
 勾手	qcrt	10
 色拉	qcru	10
+多叉树	qcsc	10
 色相	qcsh	10
 色样	qcsu	10
 勾选	qctf	10
@@ -76177,6 +76181,7 @@ encoder:
 航程	tetk	30
 稻种	tetk	20
 艁	tetk	10	tetk
+微服务	tetl	30
 船务	tetl	20
 航务	tetl	10
 透射	tetm	40
@@ -77910,6 +77915,7 @@ encoder:
 自恋	thyo	10
 自豪	thyp	10
 自诉	thyr	10
+自旋	thyt	30
 衢州	thyt	20
 算话	thyt	10
 自谦	thyu	10
