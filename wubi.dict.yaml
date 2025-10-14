@@ -45176,6 +45176,7 @@ encoder:
 轵	lkw	10	lkwy
 嗧	lkwa	10	lkwa
 加仓	lkwb	10
+回传	lkwf	20
 加值	lkwf	10
 回合	lkwg	10
 鴐	lkwo	10	lkwo
@@ -78529,6 +78530,7 @@ encoder:
 和盘	tkte	10
 各行	tktf	20
 积德	tktf	10
+各自	tkth	20
 各处	tkth	10
 各得	tktj	10
 种种	tktk	10
@@ -81967,6 +81969,7 @@ encoder:
 塑封	ubff	10
 闻声	ubfn	10
 塑壳	ubfp	10
+逆元	ubfq	10
 逆境	ubfu	10
 闻到	ubgc	10
 逆天	ubgd	10

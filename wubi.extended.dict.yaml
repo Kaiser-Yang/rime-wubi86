@@ -186,7 +186,7 @@ encoder:
 二战	fg	10
 直接	fh	20
 直到	fh	10
-示例	fh	20
+示例	fi	20
 示范	fi	10
 示意	fi	0
 进行	fj	20
@@ -357,7 +357,8 @@ encoder:
 内容	mw	20
 内在	mw	10
 异常	na	20
-异性	na	10
+异或	na	10
+异性	na	0
 居然	nd	20
 居民	nd	10
 导致	nf	20
