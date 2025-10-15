@@ -2809,6 +2809,7 @@ encoder:
 荒山野岭	amjm	10
 黄易	amjq	10
 黄果	amjs	10
+欧几里德	amjt	20
 黄蜂	amjt	10
 苘	amk	10	amkf
 㔯	amkd	10	amkd
@@ -4927,8 +4928,10 @@ encoder:
 药粉	axow	10
 药农	axpe	10
 药补	axpu	10
+莫比乌斯	axqa	10
 蕝	axqc	10	axqc
 药铺	axqg	10
+莫比乌斯反演	axqi	10
 莱比锡	axqj	10
 药名	axqk	10
 药饵	axqn	10
@@ -23191,6 +23194,7 @@ encoder:
 王孙公子	gbwb	10
 现阶段	gbwd	20
 天随人愿	gbwd	10
+整除分块	gbwf	20
 与子偕老	gbwf	10
 五子登科	gbwt	10
 顿住	gbwy	10
@@ -45334,6 +45338,7 @@ encoder:
 男模	llsa	10
 男权	llsc	10
 男丁	llsg	10
+辗转相除法	llsi	10
 轻轻松松	llss	10
 辅车相依	llsw	10
 田径	lltc	10
@@ -56810,6 +56815,7 @@ encoder:
 宾阳	prbj	10
 牢骚	prcc	10
 寙	prcy	10	prcy
+容斥原理	prdg	20
 礼拜三	prdg	10
 空手而归	prdj	10
 宾服	preb	10
@@ -58112,6 +58118,7 @@ encoder:
 空手	pwrt	20
 竅	pwrt	10	pwrt
 䆢	pwrw	10	pwrw
+容斥	pwry	40
 窳	pwry	30	pwry
 社会制度	pwry	20
 窊	pwry	10	pwry
@@ -64965,6 +64972,7 @@ encoder:
 扑面而来	rddg	10
 排在	rddh	10
 振奋	rddl	10
+排面	rddm	20
 排布	rddm	10
 排成	rddn	10
 拜寿	rddt	10
@@ -75888,6 +75896,7 @@ encoder:
 适应	tdyi	10
 丢盔弃甲	tdyl	10
 长春市	tdym	10
+科大讯飞	tdyn	20
 短讯	tdyn	10
 简而言之	tdyp	10
 知底	tdyq	10
@@ -93811,6 +93820,7 @@ encoder:
 分赴	wvfh	30
 伜	wvfh	20	wvfh
 侓	wvfh	10	wvfh
+分块	wvfn	20
 分场	wvfn	10
 创建者	wvft	10
 㚢	wvg	10	wvg
