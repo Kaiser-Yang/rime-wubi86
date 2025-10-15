@@ -27629,7 +27629,7 @@ encoder:
 不可言传	gsyw	10
 理想主义	gsyy	20
 㺷	gsyy	10	gsyy
-玫	gt	20	gty
+玫	gt	30	gty
 麦芽	gtaa	20
 不等式	gtaa	10
 敖德萨	gtab	10
@@ -27711,7 +27711,6 @@ encoder:
 不得不发	gtgn	10
 不务正业	gtgo	10
 一系列	gtgq	10
-玫瑰	gtgr	30
 天生丽质	gtgr	20
 一毛不拔	gtgr	10
 平等互利	gtgt	30
@@ -58688,6 +58687,7 @@ encoder:
 祖父	pywq	30
 神父	pywq	20
 神像	pywq	10
+神作	pywt	30
 视作	pywt	20
 神伤	pywt	10
 神位	pywu	10
