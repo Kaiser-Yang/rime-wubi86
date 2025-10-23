@@ -474,7 +474,8 @@ encoder:
 可以	sk	20
 可能	sk	10
 机会	sm	20
-机构	sm	10
+机制	sm	10
+机构	sm	0
 林业	ss	20
 林子	ss	10
 格式	st	20
