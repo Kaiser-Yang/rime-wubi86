@@ -17834,6 +17834,7 @@ encoder:
 㙊	fdey	10	fdey
 震	fdf	20	fdfe
 雼	fdf	10	fdf
+动态规划	fdfa	10
 盐碱地	fdfb	10
 震动	fdfc	10
 霏霏	fdfd	10
@@ -30530,6 +30531,7 @@ encoder:
 齨	hwwv	10	hwwv
 齻	hwww	20	hwww
 齞	hwww	10	hwww
+凸优化	hwwx	40
 齜	hwwx	30	hwwx
 齔	hwwx	20	hwwx
 齥	hwwx	10	hwwx
@@ -75254,7 +75256,6 @@ encoder:
 长丝	taxx	10
 长统	taxy	10
 䄩	tay	10	tay
-长度	taya	10
 升序	tayc	10
 长斋	tayd	20
 长庆	tayd	10
@@ -84858,7 +84859,7 @@ encoder:
 总书记	unyn	10
 痴心妄想	unys	10
 决议	unyy	10
-普	uo	10	uogj
+普	uo	30	uogj
 冰糖葫芦	uoaa	10
 普世	uoan	10
 养精蓄锐	uoaq	10
@@ -96817,9 +96818,8 @@ encoder:
 强庄	xkyf	10
 强记	xkyn	10
 引吭高歌	xkys	10
-细	xl	20	xlg
+细	xl	30	xlg
 幼芽	xlaa	10
-细节	xlab	10
 细菜	xlae	10
 细巧	xlag	10
 细菌	xlal	20
