@@ -235,8 +235,10 @@ encoder:
 来自	go	10
 列表	gq	20
 列举	gq	10
+玫瑰	gt	20
 平均	gu	20
 平等	gu	10
+肯定	he	20
 止损	hh	20
 止盈	hh	10
 步骤	hi	20
@@ -473,7 +475,8 @@ encoder:
 可以	sk	20
 可能	sk	10
 机会	sm	20
-机构	sm	10
+机制	sm	10
+机构	sm	0
 林业	ss	20
 林子	ss	10
 格式	st	20
@@ -485,8 +488,9 @@ encoder:
 检查	sw	20
 术语	sy	20
 术士	sy	10
-长期	ta	20
-长江	ta	10
+长度	ta	20
+长期	ta	10
+长江	ta	0
 知道	td	20
 知识	td	10
 行为	tf	20
@@ -545,6 +549,7 @@ encoder:
 商业	um	10
 决定	un	20
 决赛	un	10
+普通	uo	20
 帝国	up	20
 帝王	up	10
 交通	uq	20
@@ -626,6 +631,7 @@ encoder:
 引起	xh	10
 强烈	xk	20
 强调	xk	10
+细节	xl	20
 继续	xo	20
 约定	xq	20
 约会	xq	10
