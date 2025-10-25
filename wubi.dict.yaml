@@ -149,6 +149,7 @@ encoder:
 蒆	aamv	10	aamv
 茿	aamy	10	aamy
 苣	aan	10	aanf
+艾欧尼亚	aang	10
 戒惧	aanh	10
 草草收兵	aanr	10
 葉	aans	10	aans
@@ -25691,9 +25692,9 @@ encoder:
 速攻	gkat	10
 带薪	gkau	10
 豆花	gkaw	10
-豆子	gkbb	30
-带子	gkbb	20
-两口子	gkbb	10
+两口子	gkbb	30
+豆子	gkbb	20
+带子	gkbb	10
 不足取	gkbc	10
 事隔	gkbg	10
 一叶障目	gkbh	20
@@ -29055,7 +29056,7 @@ encoder:
 眬	hdxn	10	hdxn
 瞭望	hdyn	10
 占有率	hdyx	10
-肯	he	10	hef
+肯	he	30	hef
 䁔	hefc	10	hefc
 肯干	hefg	10
 眀	heg	10	heg
@@ -29064,7 +29065,6 @@ encoder:
 䂃	helf	10	helf
 瞬发	hent	10
 瞬	hep	10	heph
-肯定	hepg	10
 瞹	hept	10	hept
 䁘	herm	10	herm
 睬	hes	10	hesy
@@ -62021,6 +62021,7 @@ encoder:
 多才	qqft	10
 镥	qqg	20	qqgj
 鍂	qqg	10	qqg
+钢铁烈阳	qqgb	20
 希尔顿	qqgb	10
 多到	qqgc	10
 多天	qqgd	10
@@ -97096,6 +97097,7 @@ encoder:
 弹尽粮绝	xnox	10
 纪实	xnpu	10
 纠察	xnpw	10
+幻神	xnpy	20
 幻视	xnpy	10
 纠错	xnqa	10
 强心针	xnqf	10
