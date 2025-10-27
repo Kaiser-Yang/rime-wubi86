@@ -4390,7 +4390,6 @@ encoder:
 切近	avrp	10
 切要	avsv	10
 䒲	avta	10	avta
-切片	avth	10
 莙	avtk	10	avtk
 切身	avtm	10
 蔒	avto	10	avto
@@ -43027,6 +43026,7 @@ encoder:
 品竹弹丝	ktxx	10
 咊	kty	20	kty
 呚	kty	10	kty
+吃席	ktya	20
 响度	ktya	10
 唾弃	ktyc	10
 吃斋	ktyd	10
@@ -74269,6 +74269,7 @@ encoder:
 可塑性	sunt	10
 椪	suog	10	suog
 酸辣粉	suow	10
+树状数组	suox	10
 榜	sup	10	supy
 格斗家	supe	10
 校赛	supf	10
@@ -98161,6 +98162,7 @@ encoder:
 维拉	xwru	10
 维护	xwry	10
 纵横	xwsa	10
+线段树	xwsc	20
 维权	xwsc	10
 绘本	xwsg	10
 综合楼	xwso	10

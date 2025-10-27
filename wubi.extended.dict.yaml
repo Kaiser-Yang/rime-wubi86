@@ -107,7 +107,8 @@ encoder:
 区别	aq	20
 攻击	at	20
 切换	av	20
-切实	av	10
+切片	av	10
+切实	av	0
 共同	aw	20
 共享	aw	10
 子女	bb	20
