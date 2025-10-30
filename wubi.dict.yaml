@@ -21763,10 +21763,9 @@ encoder:
 都	ftjb	10	ftjb
 䰩	ftjc	20	ftjc
 殾	ftjc	10	ftjc
-都是	ftjg	60
-老师	ftjg	50
-教师	ftjg	40
-才是	ftjg	30
+都是	ftjg	50
+老师	ftjg	40
+教师	ftjg	30
 考量	ftjg	20
 考题	ftjg	10
 老早	ftjh	20
@@ -59590,7 +59589,7 @@ encoder:
 触诊	qeyw	10
 鈒	qeyy	20	qeyy
 钑	qeyy	10	qeyy
-针	qf	20	qfh
+针	qf	30	qfh
 针式	qfaa	10
 鐵	qfag	10	qfag
 镇邪	qfah	10
@@ -59602,7 +59601,6 @@ encoder:
 䥫	qfay	10	qfay
 镇子	qfbb	10
 针孔	qfbn	10
-针对	qfcf	10
 鎑	qfcl	20	qfcl
 㔩	qfcl	10	qfcl
 危地马拉	qfcr	10
@@ -101714,6 +101712,7 @@ encoder:
 变节	yoab	10
 变革	yoaf	10
 亦或	yoak	10
+谈薪	yoau	10
 蛮荒	yoay	10
 孪	yob	10	yobf
 弯子	yobb	20

@@ -192,12 +192,13 @@ encoder:
 无法	fq	20
 无论	fq	10
 才能	ft	20
+才是	ft	10
 增加	fu	20
 增长	fu	10
 夫妻	fw	20
 夫妇	fw	10
-开发	ga	20
-开始	ga	10
+开始	ga	20
+开发	ga	10
 到底	gc	20
 到处	gc	10
 天才	gd	20
@@ -401,6 +402,7 @@ encoder:
 然而	qd	10
 角度	qe	20
 角色	qe	10
+针对	qf	20
 钱包	qg	20
 钱财	qg	10
 外面	qh	20
