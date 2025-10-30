@@ -90,7 +90,7 @@ translator:
   db_class: tabledb
   initial_quality: 100000
   enable_charset_filter: false
-  enable_sentence: true
+  enable_sentence: false
   enable_user_dict: false
   enable_encoder: false
   encode_commit_history: false
