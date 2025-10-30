@@ -48,6 +48,9 @@ local function z_selector(key_event, env)
     elseif composition.selected_index + dest - 1 < composition.menu:candidate_count() then
         context:select(composition.selected_index + dest - 1)
         return accept
+    elseif dest == 2 then
+        context:push_input('/')
+        return accept
     end
     return pass_to_next
 end
