@@ -4640,6 +4640,7 @@ encoder:
 孽	awnb	10	awnb
 共居	awnd	20
 葔	awnd	10	awnd
+共情	awng	20
 孽情	awng	10
 蒒	awnh	30	awnh
 躠	awnh	20	awnh
@@ -9398,7 +9399,8 @@ encoder:
 駩	cwgg	10	cwgg
 騟	cwgj	10	cwgj
 难事	cwgk	10
-难熬	cwgq	10
+难熬	cwgq	20
+皴裂	cwgq	10
 难平	cwgu	20
 䮴	cwgu	10	cwgu
 験	cwgw	20	cwgw
@@ -11563,6 +11565,7 @@ encoder:
 石像	dgwq	20
 镾	dgwq	10	dgwq
 硬件	dgwr	10
+三体	dgws	20
 硬体	dgws	10
 感伤	dgwt	40
 三八	dgwt	30
@@ -42561,6 +42564,7 @@ encoder:
 史上	kqhh	10
 吹水	kqii	10
 哈尔滨	kqip	20
+史学	kqiq	10
 哈尔滨市	kqiy	10
 咰	kqjg	10	kqjg
 別	kqjh	10	kqjh
@@ -42597,6 +42601,7 @@ encoder:
 嚕	kqoj	10	kqoj
 鸣炮	kqoq	10
 吹灯	kqos	10
+史料	kqou	10
 史家	kqpe	10
 吃饱穿暖	kqpj	10
 史官	kqpn	10
