@@ -27529,6 +27529,7 @@ encoder:
 不失为	gryl	10
 束手就擒	gryr	10
 璬	gryt	10	gryt
+事后诸葛亮	gryy	10
 末	gs	20	gsi
 末节	gsab	10
 末期	gsad	10
@@ -49544,6 +49545,7 @@ encoder:
 恇	nagg	10	nagg
 民政	nagh	20
 殿下	nagh	10
+懵逼	nagk	30
 懂事	nagk	20
 民事	nagk	10
 展现	nagm	10
@@ -72639,7 +72641,7 @@ encoder:
 想说	shyu	10
 相认	shyw	20
 相府	shyw	10
-档	si	10	sivg
+档	si	30	sivg
 档期	siad	10
 根深蒂固	sial	10
 杨浦区	siaq	10
@@ -72711,7 +72713,6 @@ encoder:
 梢公	siwc	10
 桃仁	siwf	10
 﨔	siwr	10	siwr
-档位	siwu	10
 检举人	siww	10
 桃红	sixa	10
 㭂	siy	10	siy
@@ -78326,6 +78327,7 @@ encoder:
 知易行难	tjtc	10
 得知	tjtd	20
 香甜	tjtd	10
+复盘	tjte	10
 筛选	tjtf	20
 复选	tjtf	10
 复生	tjtg	20
@@ -81381,6 +81383,7 @@ encoder:
 答谢	twyt	20
 答话	twyt	10
 自作主张	twyx	10
+符文	twyy	20
 答言	twyy	10
 第	tx	30	txht
 每节	txab	10
@@ -81652,6 +81655,7 @@ encoder:
 稿源	tyid	10
 循序渐进	tyif	20
 自讨没趣	tyif	10
+符文法师	tyij	10
 长夜漫漫	tyii	20
 入水	tyii	10
 入洞	tyim	10
@@ -84894,7 +84898,6 @@ encoder:
 普陀	uobp	10
 普降	uobt	10
 普桑	uocc	10
-普通	uoce	10
 卷烟厂	uodg	10
 塑料布	uodm	10
 普及	uoey	10
@@ -102911,6 +102914,7 @@ encoder:
 旋梯	ytsu	10
 㫏	ytsv	10	ytsv
 放松	ytsw	10
+话术	ytsy	20
 施术	ytsy	10
 族	ytt	10	yttd
 族长	ytta	60
@@ -104116,6 +104120,7 @@ encoder:
 文物	yytr	30
 废弃物	yytr	20
 方特	yytr	10
+夜夜笙歌	yyts	10
 文笔	yytt	40
 文竹	yytt	30
 说说笑笑	yytt	20
