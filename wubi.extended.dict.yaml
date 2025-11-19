@@ -283,7 +283,7 @@ encoder:
 昌盛	jj	20
 昌明	jj	10
 电话	jn	20
-电影	jn	10
+电脑	jn	10
 显然	jo	20
 显著	jo	10
 晚上	jq	20
@@ -306,8 +306,8 @@ encoder:
 叫好	kn	10
 听说	kr	20
 听见	kr	10
-哪些	kv	20
-哪里	kv	10
+哪里	kv	20
+哪些	kv	10
 只要	kw	20
 羁绊	la	20
 羁押	la	10
