@@ -4021,6 +4021,7 @@ encoder:
 㦴	atkd	10	atkd
 萂	atkf	20	atkf
 茖	atkf	10	atkf
+翘嘴	atkh	10
 医患	atkk	10
 勤务员	atkm	10
 医嘱	atkn	10
@@ -10882,6 +10883,7 @@ encoder:
 磕破	dfdh	10
 礝	dfdj	10	dfdj
 雄才大略	dfdl	10
+夸克	dfdq	20
 有声有色	dfdq	10
 大吉大利	dfdt	10
 磕碰	dfdu	20
@@ -18193,6 +18195,7 @@ encoder:
 运动员	ffkm	10
 壊	ffle	10	ffle
 堵车	fflg	10
+霍元甲	fflh	20
 二十四	fflh	10
 二十四史	fflk	10
 劸	ffln	10	ffln
@@ -20298,6 +20301,7 @@ encoder:
 献丑	fmnf	10
 堝	fmnk	10	fmnk
 击发	fmnt	10
+击飞	fmnu	20
 南飞	fmnu	10
 鼓风炉	fmoy	10
 南家	fmpe	10
@@ -31701,6 +31705,7 @@ encoder:
 潜到	ifgc	10
 水土不服	ifge	20
 汗青	ifge	10
+油盐不进	ifgf	20
 滚雪球	ifgf	10
 法王	ifgg	10
 法政	ifgh	10
@@ -36637,6 +36642,7 @@ encoder:
 注释	iyto	20
 溈	iyto	10	iyto
 游移	iytq	10
+小鹿乱撞	iytr	20
 游牧	iytr	10
 㶛	iytw	10	iytw
 注入	iyty	40
@@ -41760,6 +41766,7 @@ encoder:
 噐	kkak	10	kkak
 品茗	kkaq	10
 品茶	kkaw	10
+串子	kkbb	20
 口子	kkbb	10
 呱呱坠地	kkbf	10
 口耳	kkbg	10
@@ -55588,6 +55595,7 @@ encoder:
 赛地	pffb	10
 守城	pffd	10
 守土	pfff	10
+赛博	pffg	20
 寒士	pffg	10
 塞进	pffj	10
 寒露	pffk	10
@@ -68785,6 +68793,7 @@ encoder:
 打非	rsdj	10
 打夯	rsdl	10
 打成	rsdn	10
+打灰	rsdo	10
 拍板成交	rsdu	10
 打春	rsdw	10
 搭桥牵线	rsdx	10
