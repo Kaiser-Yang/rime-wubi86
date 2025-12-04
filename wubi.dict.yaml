@@ -5364,6 +5364,7 @@ encoder:
 子集	bbwy	10
 子母	bbxg	10
 子弹	bbxu	10
+陆陆续续	bbxx	20
 隐隐约约	bbxx	10
 子房	bbyn	10
 耶诞	bbyt	10
@@ -12842,6 +12843,7 @@ encoder:
 面食	dmwy	30
 而今	dmwy	20
 磪	dmwy	10	dmwy
+面经	dmxc	10
 布线	dmxg	10
 面纱	dmxi	10
 面纸	dmxq	10
@@ -16306,6 +16308,7 @@ encoder:
 胉	erg	10	erg
 䝈	ergb	10	ergb
 月报表	erge	10
+爱搭不理	ergg	10
 用兵一时	ergj	10
 受制于人	ergw	10
 肵	erh	10	erh
@@ -29657,6 +29660,7 @@ encoder:
 此时此刻	hjhy	10
 旧学	hjip	10
 䁜	hjiq	10	hjiq
+桌游	hjiy	10
 卓	hjj	10	hjj
 旧时	hjjf	10
 旧日	hjjj	10
@@ -44334,6 +44338,7 @@ encoder:
 转好	lfvb	10
 黑奴	lfvc	10
 围垦	lfve	10
+团建	lfvf	20
 黑妹	lfvf	10
 轌	lfvg	10	lfvg
 转录	lfvi	10
@@ -46046,6 +46051,7 @@ encoder:
 图景	ltjy	10
 略	ltk	20	ltkg
 畧	ltkf	10	ltkf
+车牌号	ltkg	30
 辂	ltkg	20	ltkg
 輅	ltkg	10	ltkg
 图中	ltkh	10
@@ -54873,7 +54879,8 @@ encoder:
 粉色	owqc	10
 粉钻	owqh	10
 炝锅	owqk	10
-粉饰	owqn	10
+粉饰	owqn	20
+烩饭	owqn	10
 类人猿	owqt	10
 粉扑	owrh	10
 粉白	owrr	10
@@ -58933,6 +58940,7 @@ encoder:
 昏君	qavt	10
 镬	qaw	10	qawc
 鑊	qawc	10	qawc
+错付	qawf	20
 错会	qawf	10
 昏倒	qawg	10
 鎝	qawk	20	qawk
@@ -66242,7 +66250,8 @@ encoder:
 年宵	rhpi	10
 年审	rhpj	10
 看官	rhpn	10
-看客	rhpt	10
+看客	rhpt	20
+牛客	rhpt	10
 年初	rhpu	10
 扑空	rhpw	20
 看穿	rhpw	10
@@ -67742,6 +67751,7 @@ encoder:
 擦除	rpbw	20
 摈除	rpbw	10
 近观	rpcm	10
+拧巴	rpcn	20
 探马	rpcn	10
 损之又损	rpcr	10
 迫	rpd	20	rpd
@@ -89451,6 +89461,7 @@ encoder:
 妇人	vvww	10
 女红	vvxa	10
 妇幼	vvxl	10
+女主	vvyg	20
 奴隶主	vvyg	10
 女魔	vvys	10
 女郎	vvyv	10
@@ -94116,6 +94127,7 @@ encoder:
 分体	wvws	10
 分作	wvwt	10
 贫僧	wvwu	10
+分岔	wvwv	20
 忿忿	wvwv	10
 仇人	wvww	30
 伊人	wvww	20
@@ -99789,6 +99801,7 @@ encoder:
 諘	ygey	20	ygey
 庯	ygey	10	ygey
 主裁	ygfa	10
+主动	ygfc	10
 主城	ygfd	10
 说不过去	ygff	10
 主干	ygfg	20
@@ -100048,7 +100061,6 @@ encoder:
 谈一谈	ygyo	10
 语义	ygyq	20
 说到底	ygyq	10
-主义	ygyq	10
 鹿死谁手	ygyr	10
 说来话长	ygyt	10
 评说	ygyu	20
@@ -103911,6 +103923,7 @@ encoder:
 方丈	yydy	10
 文县	yyeg	10
 庡	yyei	10	yyei
+谈恋爱	yyep	20
 广受	yyep	10
 文胸	yyeq	10
 文采	yyes	10
