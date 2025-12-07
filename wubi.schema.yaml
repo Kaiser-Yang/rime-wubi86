@@ -74,8 +74,7 @@ menu:
   alternative_select_labels: [ ㊀, ㊁, ㊂, ㊃, ㊄, ㊅, ㊆, ㊇, ㊈, ㊉ ]
 
 speller:
-  # we can not add ' and " into alphabet
-  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA0123456789
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
   max_code_length: 0
   auto_select: false
   auto_select_pattern: ^^\w{4}$

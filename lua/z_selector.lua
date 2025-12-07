@@ -34,9 +34,16 @@ local function z_selector(key_event, env)
         dest = 2
     end
     if not context:has_menu() then
-        if key_event.keycode > 32 and key_event.keycode < 127 then
-            -- Other visible characters, this means that we are inputing alphabets
+        if
+            key_event.keycode >= string.byte('a') and key_event.keycode <= string.byte('z')
+            or key_event.keycode >= string.byte('A') and key_event.keycode <= string.byte('Z')
+        then
             context:push_input(string.char(key_event.keycode))
+            return accept
+        elseif key_event.keycode > 32 and key_event.keycode < 127 then
+            -- Other visible characters, this means that we are inputing alphabets
+            env.engine:commit_text(input .. string.char(key_event.keycode))
+            context:clear()
             return accept
         elseif key_event.keycode == 32 then
             -- We always commit the text when space is pressed
@@ -47,9 +54,6 @@ local function z_selector(key_event, env)
         return pass_to_next
     elseif composition.selected_index + dest - 1 < composition.menu:candidate_count() then
         context:select(composition.selected_index + dest - 1)
-        return accept
-    elseif dest == 2 then
-        context:push_input('/')
         return accept
     end
     return pass_to_next
