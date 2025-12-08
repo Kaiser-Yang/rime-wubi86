@@ -442,6 +442,7 @@ encoder:
 葫芦	aday	10
 苊	adb	10	adbb
 茬子	adbb	10
+英雄联盟	adbj	10
 苦了	adbn	10
 基隆	adbt	10
 期限	adbv	10
@@ -17717,6 +17718,7 @@ encoder:
 䰟	fcrc	10	fcrc
 支援	fcre	20
 动摇	fcre	10
+支持	fcrf	20
 劫持	fcrf	10
 动兵	fcrg	10
 去年	fcrh	20
@@ -17784,6 +17786,7 @@ encoder:
 叇	fcvp	10	fcvp
 刼	fcvy	10	fcvy
 却仍	fcwe	10
+支付	fcwf	10
 支使	fcwg	10
 鳷	fcwo	20	fcwo
 䲰	fcwo	10	fcwo
@@ -52833,6 +52836,7 @@ encoder:
 心胸	nyeq	10
 心脾	nyer	10
 心腹	nyet	10
+以及	nyey	30
 心脏	nyey	20
 心脑	nyey	10
 心裁	nyfa	10
@@ -53107,6 +53111,7 @@ encoder:
 心语	nyyg	10
 尽让	nyyh	10
 迟误	nyyk	10
+以为	nyyl	10
 心高	nyym	10
 惦记	nyyn	30
 心扉	nyyn	20
@@ -60391,6 +60396,7 @@ encoder:
 外债	qhwg	10
 外企	qhwh	10
 外侧	qhwm	10
+触目伤怀	qhwn	10
 外伤	qhwt	10
 外人	qhww	10
 外倾	qhwx	10
@@ -97448,6 +97454,7 @@ encoder:
 䋂	xqqy	10	xqqy
 弥撒	xqra	20
 约摸	xqra	10
+纸质	xqrf	20
 绝技	xqrf	10
 绝后	xqrg	10
 绹	xqrm	20	xqrm
