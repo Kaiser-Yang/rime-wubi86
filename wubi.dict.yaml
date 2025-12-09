@@ -442,6 +442,7 @@ encoder:
 葫芦	aday	10
 苊	adb	10	adbb
 茬子	adbb	10
+英雄联盟	adbj	10
 苦了	adbn	10
 基隆	adbt	10
 期限	adbv	10
@@ -13614,6 +13615,7 @@ encoder:
 原煤	droa	10
 原料	drou	10
 原粮	droy	10
+套接字	drpb	10
 原宥	drpd	10
 原定	drpg	10
 原审	drpj	10
@@ -16654,6 +16656,7 @@ encoder:
 用刀	etvn	10
 乃翁	etwc	10
 胜仗	etwd	10
+用例	etwg	20
 用命	etwg	10
 䐫	etwh	20	etwh
 豵	etwh	10	etwh
@@ -17715,6 +17718,7 @@ encoder:
 䰟	fcrc	10	fcrc
 支援	fcre	20
 动摇	fcre	10
+支持	fcrf	20
 劫持	fcrf	10
 动兵	fcrg	10
 去年	fcrh	20
@@ -17782,6 +17786,7 @@ encoder:
 叇	fcvp	10	fcvp
 刼	fcvy	10	fcvy
 却仍	fcwe	10
+支付	fcwf	10
 支使	fcwg	10
 鳷	fcwo	20	fcwo
 䲰	fcwo	10	fcwo
@@ -22518,6 +22523,7 @@ encoder:
 零数	fwov	10
 㙸	fwoy	10	fwoy
 老人家	fwpe	10
+支付宝	fwpg	20
 规定	fwpg	10
 救命之恩	fwpl	10
 无价之宝	fwpp	10
@@ -24838,6 +24844,7 @@ encoder:
 正畸	ghld	10
 下置	ghlf	10
 下车	ghlg	10
+下架	ghlk	20
 下回	ghlk	10
 下田	ghll	10
 下边	ghlp	10
@@ -26824,6 +26831,7 @@ encoder:
 来呀	goka	10
 来啊	gokb	10
 来吧	gokc	10
+来哇	gokf	10
 来路	gokh	20
 晋中	gokh	10
 灭火器	gokk	20
@@ -36421,6 +36429,7 @@ encoder:
 㵝	iyek	10	iyek
 流脓	iyep	10
 流彩	iyes	10
+测试用例	wyew	10
 流脑	iyey	20
 㳖	iyey	10	iyey
 流域	iyfa	10
@@ -38206,6 +38215,7 @@ encoder:
 蝇	jk	10	jkjn
 虹口区	jkaq	10
 蝇子	jkbb	10
+影响面	jkdm	10
 蜎	jkeg	10	jkeg
 蜈	jkg	10	jkgd
 曼哈顿	jkgb	10
@@ -41717,6 +41727,7 @@ encoder:
 吠影吠声	kjkf	10
 喝足	kjkh	10
 喁喁	kjkj	10
+叽里咕噜	kjkk	20
 噼里啪啦	kjkk	10
 唱响	kjkt	10
 呻吟	kjkw	10
@@ -52825,6 +52836,7 @@ encoder:
 心胸	nyeq	10
 心脾	nyer	10
 心腹	nyet	10
+以及	nyey	30
 心脏	nyey	20
 心脑	nyey	10
 心裁	nyfa	10
@@ -53099,6 +53111,7 @@ encoder:
 心语	nyyg	10
 尽让	nyyh	10
 迟误	nyyk	10
+以为	nyyl	10
 心高	nyym	10
 惦记	nyyn	30
 心扉	nyyn	20
@@ -60383,6 +60396,7 @@ encoder:
 外债	qhwg	10
 外企	qhwh	10
 外侧	qhwm	10
+触目伤怀	qhwn	10
 外伤	qhwt	10
 外人	qhww	10
 外倾	qhwx	10
@@ -68932,6 +68946,7 @@ encoder:
 打扮	rsrw	10
 打横	rssa	10
 打票	rssf	10
+技术栈	rssg	10
 㩒	rssi	10	rssi
 白森森	rsss	10
 打样	rssu	10
@@ -76922,6 +76937,7 @@ encoder:
 待建	tfvf	20
 鼾声如雷	tfvf	10
 选录	tfvi	10
+选妃	tfvn	10
 待嫁	tfvp	10
 臭老九	tfvt	10
 先妣	tfvx	10
@@ -95303,6 +95319,7 @@ encoder:
 含意	wyuj	20
 领章	wyuj	10
 俯冲	wyuk	30
+人文关怀	wyun	10
 体育部	wyuk	20
 供应部	wyuk	10
 禽兽	wyul	10
@@ -97438,6 +97455,7 @@ encoder:
 䋂	xqqy	10	xqqy
 弥撒	xqra	20
 约摸	xqra	10
+纸质	xqrf	20
 绝技	xqrf	10
 绝后	xqrg	10
 绹	xqrm	20	xqrm
