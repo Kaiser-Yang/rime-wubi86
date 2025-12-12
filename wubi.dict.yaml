@@ -8635,6 +8635,7 @@ encoder:
 难上加难	chlc	10
 鸡皮鹤发	chpn	10
 覌	chqn	10	chqn
+邓紫棋	chsa	10
 圣卢西亚	chsg	10
 鸡皮疙瘩	chuu	10
 邓小平	cigu	10
@@ -13692,6 +13693,7 @@ encoder:
 有所作为	drwy	20
 镻	drwy	10	drwy
 原纸	drxq	10
+原语	dryg	20
 原主	dryg	10
 原为	dryl	10
 愿望	dryn	20
@@ -41383,7 +41385,8 @@ encoder:
 䠗	khtd	10	khtd
 中盘	khte	20
 嘻皮笑脸	khte	10
-中午	khtf	70
+中午	khtf	80
+践行	khtf	70
 踵	khtf	60	khtf
 中等	khtf	50
 忠告	khtf	40
@@ -53832,6 +53835,7 @@ encoder:
 熀	ojiq	10	ojiq
 焻	ojjg	10	ojjg
 爞	ojjj	10	ojjj
+爆照	ojjv	20
 烛照	ojjv	10
 熳	ojl	10	ojlc
 䊡	ojlc	10	ojlc
@@ -63579,6 +63583,7 @@ encoder:
 包头市	quym	10
 解决方案	quyp	10
 猫头鹰	quyw	10
+镜头语言	quyy	20
 名门望族	quyy	10
 争	qv	30	qvhj
 詹姆斯	qvad	10
@@ -73404,6 +73409,7 @@ encoder:
 槣	spdk	20	spdk
 㮫	spdk	10	spdk
 西祠胡同	spdm	10
+李宗盛	spdn	20
 櫶	spdn	10	spdn
 相视而笑	spdt	10
 李宇春	spdw	10
@@ -97116,6 +97122,7 @@ encoder:
 纳雍	xmyx	10
 纪	xn	20	xnn
 缗	xna	10	xnaj
+缪斯	xnad	10
 纠葛	xnaj	30
 緡	xnaj	10	xnaj
 㢯	xnan	20	xnan
