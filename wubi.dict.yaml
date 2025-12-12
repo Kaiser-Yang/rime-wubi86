@@ -11629,8 +11629,8 @@ encoder:
 大开方便之门	dgyu	10
 硬朗	dgyv	10
 硬座	dgyw	10
-感言	dgyy	50
-三方	dgyy	40
+三方	dgyy	50
+感言	dgyy	40
 古文	dgyy	30
 厂方	dgyy	20
 砡	dgyy	10	dgyy
@@ -23101,8 +23101,8 @@ encoder:
 开闸	gaul	10
 开端	gaum	10
 形旁	gaup	10
-武将	gauq	30
-开奖	gauq	20
+开奖	gauq	30
+武将	gauq	20
 青花瓷	gauq	10
 开道	gaut	10
 开立	gauu	10
@@ -30515,6 +30515,7 @@ encoder:
 具备	hwtl	10
 卤化物	hwtr	10
 齿条	hwts	10
+占位符	hwtw	10
 仧	hwu	10	hwu
 盼头	hwud	20
 瞪着	hwud	10
@@ -32443,7 +32444,8 @@ encoder:
 小灶	ihof	10
 小炒	ihoi	10
 小火	ihoo	10
-小数	ihov	10
+小数	ihov	20
+浮点数	ihov	10
 小米	ihoy	10
 小字	ihpb	10
 小家	ihpe	30
@@ -32807,6 +32809,7 @@ encoder:
 混淆黑白	iilr	10
 添油加醋	iils	10
 水力	iilt	10
+游泳圈	iilu	20
 水圈	iilu	10
 淌	iim	10	iimk
 水岸	iimd	10
@@ -52174,6 +52177,7 @@ encoder:
 发行	nttf	30
 改行	nttf	20
 发毛	nttf	10
+发行版	ntth	50
 改版	ntth	40
 发自	ntth	30
 发牌	ntth	20
@@ -53033,6 +53037,7 @@ encoder:
 心智	nytd	20
 忙乱	nytd	10
 以待	nytf	10
+发生	nttg	20
 心生	nytg	10
 迟延	nyth	20
 心算	nyth	10
@@ -74412,6 +74417,7 @@ encoder:
 校庆	suyd	10
 板门店	suyh	10
 校训	suyk	10
+标准库	suyl	10
 杜门谢客	suyp	10
 校订	suys	10
 校旗	suyt	10
@@ -86126,6 +86132,7 @@ encoder:
 关门大吉	uudf	10
 立夏	uudh	10
 関	uudi	10	uudi
+养痈成患	uudk	10
 阅历	uudl	10
 立面	uudm	10
 冰冻三尺	uudn	10
@@ -89680,6 +89687,7 @@ encoder:
 侙	waag	10	waag
 㑘	waah	10	waah
 代劳	waap	10
+依葫芦画瓢	waas	20
 僷	waas	10	waas
 俴	waat	10	waat
 袋子	wabb	10
@@ -90002,6 +90010,7 @@ encoder:
 创伤	wbwt	10
 他人	wbww	10
 仓储	wbwy	10
+分隔线	wbxg	10
 保险费	wbxj	10
 仔细	wbxl	10
 他乡	wbxt	10
@@ -99560,6 +99569,7 @@ encoder:
 言无不尽	yfgn	10
 庄严	yfgo	10
 方寸不乱	yfgt	10
+为老不尊	yfgu	10
 讨平	yfgu	10
 刘嘉玲	yfgw	10
 永志不忘	yfgy	10
@@ -101779,6 +101789,7 @@ encoder:
 亦有	yode	10
 变压	yodf	10
 谜面	yodm	10
+变成	yodn	10
 变故	yodt	10
 变奏	yodw	10
 变态	yody	10
@@ -101928,6 +101939,7 @@ encoder:
 变位	yowu	10
 恋人	yoww	20
 变价	yoww	10
+变化	yowx	10
 变焦	yowy	10
 弯	yox	10	yoxb
 恋母	yoxg	10
@@ -103892,6 +103904,7 @@ encoder:
 誸	yxyx	20	yxyx
 玆	yxyx	10	yxyx
 方	yy	30	yygn
+方式	yyaa	10
 刘亦菲	yyad	20
 该项	yyad	10
 文革	yyaf	20
