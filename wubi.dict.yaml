@@ -14068,6 +14068,7 @@ encoder:
 非亲非故	dudd	10
 有头有脸	dude	20
 礢	dude	10	dude
+左闭右开	dudg	20
 磁石	dudg	10
 厦门大学	dudi	10
 羍	dudj	10	dudj
@@ -35401,8 +35402,8 @@ encoder:
 少男	itll	10
 漗	itln	10	itln
 海边	itlp	10
-活力	itlt	40
-省略	itlt	30
+省略	itlt	40
+活力	itlt	30
 省力	itlt	20
 流程图	itlt	10
 潜移默化	itlw	10
@@ -98422,6 +98423,7 @@ encoder:
 比数	xxov	10
 丝米	xxoy	10
 皆宜	xxpe	10
+比赛	xxpf	10
 幽寂	xxph	10
 幽冥	xxpj	10
 丝绸之路	xxpk	10
