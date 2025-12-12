@@ -20,8 +20,6 @@ encoder:
     - length_in_range: [4, 90]
       formula: AaBaCaZa
 ...
-工作	a	20
-工程	a	10
 了解	b	20
 了结	b	10
 在场	d	20
@@ -168,6 +166,7 @@ encoder:
 用途	et	10
 及时	ey	20
 及格	ey	10
+支持	fc	20
 城市	fd	20
 城镇	fd	10
 二月	fg	20
