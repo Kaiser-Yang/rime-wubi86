@@ -52,8 +52,17 @@ local function z_selector(key_event, env)
             return accept
         end
         return pass_to_next
-    elseif composition.selected_index + dest - 1 < composition.menu:candidate_count() then
+    elseif
+        dest <= page_size
+        and math.floor(composition.selected_index / page_size) * page_size + dest - 1
+            < composition.menu:candidate_count()
+    then
         context:select(composition.selected_index + dest - 1)
+        return accept
+    elseif dest <= 10 then
+        if dest == 10 then dest = 0 end
+        env.engine:commit_text(input .. tostring(dest))
+        context:clear()
         return accept
     end
     return pass_to_next
