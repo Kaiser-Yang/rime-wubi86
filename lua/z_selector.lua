@@ -60,8 +60,7 @@ local function z_selector(key_event, env)
         context:select(composition.selected_index + dest - 1)
         return accept
     elseif dest <= 10 then
-        if dest == 10 then dest = 0 end
-        env.engine:commit_text(input .. tostring(dest))
+        env.engine:commit_text(input .. string.char(key_event.keycode))
         context:clear()
         return accept
     end
