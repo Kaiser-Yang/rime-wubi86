@@ -20,6 +20,7 @@ encoder:
     - length_in_range: [4, 90]
       formula: AaBaCaZa
 ...
+工作	a	20
 了解	b	20
 了结	b	10
 在场	d	20
