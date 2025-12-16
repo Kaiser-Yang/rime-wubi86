@@ -193,7 +193,6 @@ encoder:
 工行	aatf	10
 警匪片	aath	10
 蓬荜生辉	aati	10
-工程	aatk	20
 工种	aatk	10
 戒备	aatl	10
 蘙	aatn	10	aatn
@@ -81078,6 +81077,7 @@ encoder:
 魏晋	tvgo	10
 迁怒于人	tvgw	10
 自始至终	tvgx	10
+很卡	tvhh	20
 簫	tvhh	10	tvhh
 覣	tvhq	10	tvhq
 箫	tvi	10	tvij
@@ -87126,6 +87126,7 @@ encoder:
 六线	uyxg	10
 差旅费	uyxj	10
 门缝	uyxt	10
+闲言细语	uyxy	20
 癕	uyxy	10	uyxy
 凉席	uyya	20
 六度	uyya	10
@@ -96144,6 +96145,7 @@ encoder:
 组建	xevf	10
 綏	xevg	20	xevg
 縚	xevg	10	xevg
+组会	xewf	10
 组合	xewg	10
 鶨	xewo	10	xewo
 组件	xewr	10
@@ -103020,6 +103022,7 @@ encoder:
 妄自尊大	ytud	10
 庭前	ytue	10
 谢病	ytug	10
+计算资源	ytui	20
 庝	ytui	10	ytui
 话音	ytuj	30
 谢意	ytuj	20
