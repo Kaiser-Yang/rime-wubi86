@@ -1758,6 +1758,7 @@ encoder:
 工具类	ahod	10
 蔝	ahou	10	ahou
 牙粉	ahow	10
+牙冠	ahpf	20
 七步之才	ahpf	10
 卧室	ahpg	10
 雅安	ahpv	10
@@ -3197,6 +3198,7 @@ encoder:
 荥阳	apbj	10
 蒙了	apbn	10
 营垒	apcc	10
+其实难副	apcg	10
 黄家驹	apcq	10
 蒙难	apcw	10
 蒙骗	apcy	10
@@ -12729,6 +12731,7 @@ encoder:
 布网	dmmq	30
 面见	dmmq	20
 耍风	dmmq	10
+春风风人	dmmw	10
 矶	dmn	10	dmn
 布展	dmna	10
 面层	dmnf	10
@@ -13268,6 +13271,8 @@ encoder:
 牵紧	dpjc	10
 碗里	dpjf	10
 达旦	dpjg	10
+达官显贵	dpjk	10
+达官显宦	dpjp	10
 大祸临头	dpju	10
 万宝路	dpkh	10
 碗口	dpkk	20
@@ -13446,7 +13451,9 @@ encoder:
 大多数	dqov	10
 大多数人	dqow	10
 䂹	dqoy	10	dqoy
-确定	dqpg	10
+确定	dqpg	30
+盛名之下，其实难副	dqpg	20
+盛名之下	dqpg	10
 布鲁塞尔	dqpq	10
 确实	dqpu	10
 爽神	dqpy	10
@@ -17063,7 +17070,6 @@ encoder:
 脑干	eyfg	10
 脑壳	eyfp	10
 及至	eygc	10
-月亮与六便士	eygf	20
 及于	eygf	10
 腋下	eygh	10
 用词不当	eygi	10
@@ -17126,6 +17132,7 @@ encoder:
 脚底板	eysr	10
 脏乱	eytd	10
 脑筋	eyte	10
+月亮和六便士	eytf	20
 腋毛	eytf	10
 及笄	eytg	10
 腋臭	eyth	10
@@ -18215,7 +18222,8 @@ encoder:
 䖯	ffju	10	ffju
 郌	ffkc	10	ffkc
 封号	ffkg	10
-堵嘴	ffkh	10
+堵嘴	ffkh	20
+去无踪	ffkh	10
 封口	ffkk	10
 运动员	ffkm	10
 壊	ffle	10	ffle
@@ -24015,10 +24023,12 @@ encoder:
 天南海北	gfiu	20
 不二法门	gfiu	10
 玩兴	gfiw	10
+来无影，去无踪	gfjk	10
 琎	gfjp	10	gfjp
 球果	gfjs	10
 球星	gfjt	20
 一无是处	gfjt	10
+来无影	gfjy	10
 玩味	gfkf	20
 吞云吐雾	gfkf	10
 下坡路	gfkh	10
@@ -24073,6 +24083,7 @@ encoder:
 于锐	gfqu	10
 一无所获	gfra	10
 一无所能	gfrc	10
+列夫·托尔斯泰	gfrd	30
 一无所有	gfrd	20
 一无所成	gfrd	10
 副教授	gfre	10
@@ -29461,6 +29472,7 @@ encoder:
 皮卡丘	hhrg	10
 上年	hhrh	20
 卡掉	hhrh	10
+卡扣	hhrk	20
 上操	hhrk	10
 上扬	hhrn	10
 目的	hhrq	10
@@ -30428,6 +30440,7 @@ encoder:
 眼胶	hveu	10
 睷	hvfp	10	hvfp
 眼霜	hvfs	10
+上好下甚	hvga	10
 眼球	hvgf	10
 眼下	hvgh	10
 眼珠	hvgr	10
@@ -33959,6 +33972,7 @@ encoder:
 消炎药	ioax	10
 汪精卫	iobg	10
 淡出	iobm	10
+光焰万丈	iodd	10
 淡月	ioee	10
 㶋	ioeg	10	ioeg
 水火无情	iofn	10
@@ -38984,6 +38998,7 @@ encoder:
 暣	jrno	10	jrno
 㫹	jrnr	10	jrnr
 蝗害	jrpd	10
+暖手宝	jrpg	20
 易拉宝	jrpg	10
 蝗灾	jrpo	10
 螝	jrqc	10	jrqc
@@ -40301,6 +40316,7 @@ encoder:
 中顾委	kdtv	10
 噘	kdu	20	kduw
 㕦	kdu	10	kdu
+呃逆	kdub	10
 顺着	kdud	30
 喊着	kdud	20
 顺差	kdud	10
@@ -40503,6 +40519,7 @@ encoder:
 喃	kfm	10	kfmf
 鄙见	kfmq	10
 贵远贱近	kfmr	10
+吴越同舟	kfmt	10
 叶肉	kfmw	10
 嗔怪	kfnc	10
 嚋	kfnf	10	kfnf
@@ -44656,6 +44673,7 @@ encoder:
 国外	lgqh	10
 国玺	lgqi	10
 国名	lgqk	10
+车饰	lgqn	20
 軏	lgqn	10	lgqn
 车钩	lgqq	10
 车铃	lgqw	10
@@ -44762,6 +44780,7 @@ encoder:
 国度	lgya	20
 加速度	lgya	10
 国庆	lgyd	10
+车衣	lgye	10
 国计	lgyf	10
 国语	lgyg	20
 车主	lgyg	10
@@ -47926,6 +47945,7 @@ encoder:
 㢠	mkpd	10	mkpd
 风中之烛	mkpo	10
 网中之鱼	mkpq	10
+山中宰相	mkps	10
 贶	mkq	10	mkqn
 迥然	mkqd	10
 曲别针	mkqf	10
@@ -51387,7 +51407,8 @@ encoder:
 局子	nnbb	10
 书函	nnbi	10
 快了	nnbn	10
-书院	nnbp	10
+书院	nnbp	20
+恪尽职守	nnbp	10
 慷慨陈辞	nnbt	20
 㦑	nnbt	10	nnbt
 局限	nnbv	10
@@ -53616,6 +53637,7 @@ encoder:
 炖菜	ogae	10
 精巧	ogag	10
 精英	ogam	10
+精警	ogaq	10
 精萃	ogay	10
 邺	ogb	10	ogbh
 精子	ogbb	20
@@ -56212,6 +56234,7 @@ encoder:
 穿堂风	pimq	10
 穷光蛋	pinh	10
 容光焕发	pion	10
+补光灯	pios	10
 守活寡	pipd	10
 写没写	pipg	10
 宨	piqb	10	piqb
@@ -56521,6 +56544,7 @@ encoder:
 鴧	pmwo	10	pmwo
 冗余	pmwt	10
 神雕侠侣	pmww	10
+家败人亡	pmwy	10
 字典序	pmyc	10
 官	pn	30	pnhn
 农民工	pnaa	10
@@ -60391,7 +60415,8 @@ encoder:
 外界	qhlw	10
 外贼	qhma	10
 外财	qhmf	10
-外网	qhmq	10
+外网	qhmq	20
+外见	qhmq	10
 鍞	qhmy	10	qhmy
 外展	qhna	10
 外层	qhnf	10
@@ -60713,6 +60738,7 @@ encoder:
 锡盟	qjje	10
 锠	qjjg	20	qjjg
 錩	qjjg	10	qjjg
+金晃晃	qjji	10
 旬日	qjjj	10
 锂电	qjjn	20
 亀	qjjn	10	qjjn
@@ -72933,6 +72959,7 @@ encoder:
 槛	sjt	10	sjtl
 查私	sjtc	10
 查知	sjtd	10
+查重	sjtg	10
 查处	sjth	10
 榄	sjtq	10	sjtq
 配电箱	sjts	10
@@ -77432,6 +77459,7 @@ encoder:
 垂危	tgqd	10
 生角	tgqe	10
 重镇	tgqf	10
+生鲜	tgqg	20
 重印	tgqg	10
 征象	tgqj	20
 䅀	tgqj	10	tgqj
@@ -82025,6 +82053,7 @@ encoder:
 并进	uafj	10
 并击	uafm	10
 并无	uafq	10
+闲工夫	uafw	20
 旁若无人	uafw	10
 瓶	uag	30	uagn
 冮	uag	10	uag
@@ -89031,6 +89060,7 @@ encoder:
 婙	vqvh	10	vqvh
 婚姻	vqvl	10
 婚嫁	vqvp	10
+如解倒悬	vqwe	10
 如狼似虎	vqwh	10
 如饥似渴	vqwi	10
 婚介	vqwj	10
@@ -95174,6 +95204,7 @@ encoder:
 侪	wyj	10	wyjh
 今晨	wyjd	10
 今明	wyje	10
+倒计时	wyjf	20
 邻里	wyjf	10
 含量	wyjg	50
 会计师	wyjg	40
@@ -98764,6 +98795,7 @@ encoder:
 红旗手	xyrt	10
 统招	xyrv	10
 弗朗西斯	xysa	10
+纯文本	xysg	20
 统配	xysg	10
 弦歌	xysk	10
 纺机	xysm	10
@@ -103710,6 +103742,7 @@ encoder:
 文化路	ywkh	20
 夜路	ywkh	10
 离合器	ywkk	10
+记分员	ywkm	10
 說	ywkq	10	ywkq
 认罪	ywld	10
 夜车	ywlg	10
