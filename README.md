@@ -68,7 +68,6 @@ Forked from [空山明月/Rime五笔](https://gitee.com/hi-coder/rime-wubi)
 * 颜    ute
 * 道    uth
 * 善    udu
-* 君    vtk
 * 袋    way
 * 追    wnn
 * 您    wqi

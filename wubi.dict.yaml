@@ -11436,9 +11436,10 @@ encoder:
 大开杀戒	dgqa	10
 三色	dgqc	10
 砰然	dgqd	10
-三角	dgqe	40
-感触	dgqe	30
-右下角	dgqe	20
+感触	dgqe	50
+右下角	dgqe	40
+左下角	dgqe	30
+三角	dgqe	20
 硬解	dgqe	10
 古镇	dgqf	10
 咸鱼	dgqg	10
@@ -27066,6 +27067,7 @@ encoder:
 一字千金	gptq	10
 一官半职	gpub	10
 天安门广场	gpuf	10
+开宗立派	gpui	10
 天安门	gpuy	10
 囊空如洗	gpvi	10
 琛	gpw	10	gpws
@@ -31960,6 +31962,7 @@ encoder:
 潜	ifw	10	ifwj
 澪	ifwc	10	ifwc
 潜伏	ifwd	10
+梁朝伟	ifwf	20
 淕	ifwf	10	ifwf
 法例	ifwg	10
 涛声依旧	ifwh	10
@@ -73090,7 +73093,8 @@ encoder:
 㪼	skrh	10	skrh
 歌舞	skrl	10
 可气	skrn	10
-可控	skrp	20
+可控	skrp	30
+梦中的婚礼	skrp	20
 可按	skrp	10
 歌手	skrt	10
 哥	sks	10	sksk
@@ -76569,6 +76573,7 @@ encoder:
 赞成	tfdn	10
 先达	tfdp	10
 千克	tfdq	10
+德邦	tfdt	30
 移动硬盘	tfdt	20
 行帮	tfdt	10
 先秦	tfdw	20
@@ -82215,6 +82220,7 @@ encoder:
 普陀山	ubmm	10
 逆风	ubmq	10
 章子怡	ubnc	10
+间隔性	ubnt	20
 塑性	ubnt	10
 塑业	ubog	10
 逆火	uboo	10
@@ -89278,10 +89284,10 @@ encoder:
 九日	vtjj	10
 群星	vtjt	20
 君临	vtjt	10
-君	vtk	10	vtkd
+群	vtk	10	vtkd
 郡	vtkb	10	vtkb
 㪊	vtkc	10	vtkc
-群	vtkd	20	vtkd
+君	vtkd	20	vtkd
 羣	vtkd	10	vtkd
 裠	vtke	10	vtke
 娇嗔	vtkf	10
