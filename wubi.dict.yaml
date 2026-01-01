@@ -5991,6 +5991,7 @@ encoder:
 䧋	bhqn	10	bhqn
 阿卜杜拉	bhsr	10
 耻笑	bhtt	10
+附点音符	bhut	10
 子目录	bhvi	10
 㞣	bhwv	10	bhwv
 承上启下	bhyg	10
@@ -7289,6 +7290,7 @@ encoder:
 険	bwgw	10	bwgw
 附上	bwhh	10
 除旧	bwhj	10
+附点	bwhk	10
 除此	bwhx	20
 险些	bwhx	10
 险滩	bwic	20
@@ -7696,7 +7698,8 @@ encoder:
 预测	cbim	20
 柔滑	cbim	10
 预演	cbip	10
-预兆	cbiq	10
+预兆	cbiq	20
+柔光	cbiq	10
 柔润	cbiu	10
 驰誉	cbiw	10
 予	cbj	10	cbj
@@ -10338,6 +10341,7 @@ encoder:
 大兵	ddrg	20
 大捷	ddrg	10
 大年	ddrh	10
+大撑	ddri	10
 大摆	ddrl	10
 大气	ddrn	10
 布达拉宫	ddrp	10
@@ -21153,6 +21157,7 @@ encoder:
 远大	fqdd	10
 均有	fqde	10
 无奈	fqdf	10
+无感	fqdg	20
 远古	fqdg	10
 远在	fqdh	20
 㹕	fqdh	10	fqdh
@@ -21598,11 +21603,13 @@ encoder:
 无可替代	fsfw	10
 霜天	fsgd	10
 考核表	fsge	10
+堙灭	fsgo	10
 南柯一梦	fsgs	10
 无可否认	fsgy	10
 圢	fsh	10	fsh
 鹴	fshg	10	fshg
 鸘	fsho	10	fsho
+堙没	fsim	10
 吉林省	fsit	10
 南极洲	fsiy	10
 霜晨	fsjd	10
@@ -31760,6 +31767,7 @@ encoder:
 洼	iffg	10	iffg
 潮起	iffh	10
 沙坪坝	iffm	10
+滑雪场	iffn	20
 法场	iffn	10
 澆	iffq	10	iffq
 污垢	iffr	20
@@ -32131,6 +32139,7 @@ encoder:
 浭	igjq	10	igjq
 清晰	igjs	10
 海王星	igjt	10
+清旷	igjy	20
 清影	igjy	10
 滞	igk	20	igkh
 灢	igke	10	igke
@@ -33054,6 +33063,7 @@ encoder:
 消弱	iixu	10
 水绿	iixv	10
 水纹	iixy	10
+温湿度	iiya	10
 沝	iiy	10	iiy
 深沟高垒	iiyc	10
 游泳衣	iiye	10
@@ -49654,6 +49664,7 @@ encoder:
 异形	naga	30
 以牙还牙	naga	20
 异型	naga	10
+民屯	nagb	10
 异于	nagf	20
 㦊	nagf	10	nagf
 恇	nagg	10	nagg
@@ -49686,6 +49697,7 @@ encoder:
 改邪归正	najg	10
 刡	najh	20	najh
 愺	najh	10	najh
+履薄临深	naji	10
 异日	najj	20
 蟁	najj	10	najj
 展映	najm	10
@@ -54663,6 +54675,7 @@ encoder:
 灯饰	osqn	10
 爩	osre	10	osre
 火枪手	osrt	10
+断梗飘蓬	ossa	10
 灯标	ossf	10
 灯柱	ossy	10
 灯笼	ostd	10
@@ -65307,6 +65320,7 @@ encoder:
 排挡	rdri	10
 挑三拣四	rdrl	10
 所有制	rdrm	10
+拔擢	rdrn	30
 排气	rdrn	20
 撩拨	rdrn	10
 挪威的森林	rdrs	10
@@ -68111,6 +68125,7 @@ encoder:
 摍	rpwj	10	rpwj
 搈	rpwk	20	rpwk
 㩈	rpwk	10	rpwk
+近似	rpwn	40
 挖	rpwn	30	rpwn
 攛	rpwn	10	rpwn
 摉	rpwq	10	rpwq
@@ -73982,6 +73997,7 @@ encoder:
 楚汉	ssic	10
 林涛	ssid	10
 桃李满天下	ssig	10
+丁丁当当	ssii	10
 橄榄油	ssim	10
 酸梅汤	ssin	10
 棒棒堂	ssip	10
@@ -86291,6 +86307,7 @@ encoder:
 立脚	uuef	10
 闭门觅句	uueq	10
 头疼脑热	uuer	10
+拳拳服膺	uuey	10
 立地	uufb	10
 疯疯颠颠	uuff	10
 冸	uufh	20	uufh
