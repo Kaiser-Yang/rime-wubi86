@@ -6416,8 +6416,8 @@ encoder:
 聘任	bmwt	20
 出任	bmwt	10
 出位	bmwu	10
-出众	bmww	20
-出价	bmww	10
+出价	bmww	20
+出众	bmww	10
 出货	bmwx	10
 出售	bmwy	10
 出线	bmxg	10
@@ -13960,6 +13960,7 @@ encoder:
 故曰	dtjh	20
 䂰	dtjh	10	dtjh
 春和景明	dtjj	10
+百香果	dtjs	10
 寿星	dtjt	10
 硌	dtk	10	dtkg
 邫	dtkc	10	dtkc
@@ -16678,6 +16679,7 @@ encoder:
 用意	etuj	10
 腹部	etuk	20
 服务部	etuk	10
+服务端	etum	20
 服务商	etum	10
 腹背	etux	10
 用好	etvb	10
@@ -17233,6 +17235,7 @@ encoder:
 夫荣妻贵	fagk	10
 无巧不成书	fagn	10
 索菲亚	fago	10
+无功不受禄	fagp	20
 动荡不安	fagp	10
 寸草不留	fagq	10
 寸草不生	fagt	10
@@ -20671,8 +20674,8 @@ encoder:
 无懈可击	fnsf	10
 亏本	fnsg	10
 卖相	fnsh	10
-专机	fnsm	20
-老司机	fnsm	10
+老司机	fnsm	20
+专机	fnsm	10
 违禁	fnss	10
 专栏	fnsu	10
 块根	fnsv	10
@@ -30140,6 +30143,7 @@ encoder:
 肻	hpef	10	hpef
 瞎干	hpfg	10
 睆	hpfq	10	hpfq
+虚空索敌	fpft	10
 壑	hpg	10	hpgf
 目空一切	hpga	10
 㕢	hpgc	50	hpgc
@@ -40932,6 +40936,7 @@ encoder:
 中通	khce	20
 忠勇	khce	10
 䠁	khcf	10	khcf
+中台	khck	40
 跆	khck	30	khck
 跳台	khck	20
 蹫	khck	10	khck
@@ -47379,6 +47384,7 @@ encoder:
 同声传译	mfwy	10
 财经	mfxc	10
 周线	mfxg	10
+赌约	mfxq	10
 财运亨通	mfyc	10
 周庄	mfyf	10
 财主	mfyg	10
@@ -50131,6 +50137,7 @@ encoder:
 情有独钟	ndqq	20
 慡	ndqq	10	ndqq
 居留	ndqy	10
+尼古拉·阿列克谢耶维奇·奥斯特洛夫斯基	ndra	20
 尼古拉斯	ndra	10
 发聋振聩	ndrb	10
 㥳	ndri	10	ndri
@@ -55444,8 +55451,8 @@ encoder:
 祸在旦夕	pdjq	10
 寡味	pdkf	10
 豁嘴	pdkh	10
-突破口	pdkk	30
-寄存器	pdkk	20
+寄存器	pdkk	30
+突破口	pdkk	20
 豁口	pdkk	10
 宁夏回族自治区	pdla	10
 寄回	pdlk	10
@@ -59560,6 +59567,7 @@ encoder:
 锾	qefc	20	qefc
 鍰	qefc	10	qefc
 银月城	qefd	10
+解封	qeff	20
 觟	qeff	10	qeff
 解救	qefi	10
 触雷	qefl	10
@@ -66118,6 +66126,7 @@ encoder:
 白平衡	rgtq	10
 手不释卷	rgtu	10
 兵不血刃	rgtv	10
+制表符	rgtw	20
 兵符	rgtw	10
 挟	rgu	10	rguw
 手到病除	rgub	10
@@ -79925,6 +79934,7 @@ encoder:
 筍	tqjf	10	tqjf
 衡量	tqjg	30
 称量	tqjg	10
+自然日	tqjj	10
 黎曼	tqjl	10
 穐	tqjn	10	tqjn
 智多星	tqjt	10
@@ -87954,8 +87964,8 @@ encoder:
 娃	vff	10	vffg
 那支	vffc	10
 那封	vfff	10
-建起	vffh	20
-寻址	vffh	10
+寻址	vffh	20
+建起	vffh	10
 那块	vffn	40
 㜇	vffn	30	vffn
 嫮	vffn	20	vffn
@@ -100240,6 +100250,7 @@ encoder:
 请坐	ygww	30
 主从	ygww	20
 肇事人	ygww	10
+序列化	ygwx	10
 主食	ygwy	20
 证伪	ygwy	10
 评级	ygxe	10
