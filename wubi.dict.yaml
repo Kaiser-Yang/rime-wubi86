@@ -22454,6 +22454,7 @@ encoder:
 零陵	fwbf	10
 邞	fwbh	10	fwbh
 堆叠	fwcc	10
+无人能及	fwce	10
 规劝	fwcl	10
 塕	fwcn	10	fwcn
 真假难辨	fwcu	10
@@ -31848,6 +31849,7 @@ encoder:
 濣	ifjf	10	ifjf
 法师	ifjg	10
 汫	ifjh	10	ifjh
+活动日	ifjj	10
 法螺	ifjl	10
 瀚	ifjn	20	ifjn
 漧	ifjn	10	ifjn
@@ -45161,6 +45163,7 @@ encoder:
 回电	lkjn	30
 贺电	lkjn	20
 加电	lkjn	10
+回显	lkjo	10
 圆晕	lkjp	10
 加冕	lkjq	10
 驾临	lkjt	10
@@ -53225,7 +53228,6 @@ encoder:
 心语	nyyg	10
 尽让	nyyh	10
 迟误	nyyk	10
-以为	nyyl	10
 心高	nyym	10
 惦记	nyyn	30
 心扉	nyyn	20
@@ -77781,6 +77783,7 @@ encoder:
 牌坊	thfy	10
 片	thg	20	thgn
 䄳	thg	10	thg
+处刑	thga	40
 版型	thga	30
 牑	thga	20	thga
 牋	thga	10	thga
@@ -91620,6 +91623,7 @@ encoder:
 全靠	wgtf	30
 例行	wgtf	20
 全选	wgtf	10
+公开处刑	wgtg	20
 便笺	wgtg	10
 合算	wgth	50
 分理处	wgth	40
@@ -94695,10 +94699,10 @@ encoder:
 众筹	wwtd	20
 令人生厌	wwtd	10
 坐船	wwte	10
-人选	wwtf	50
-人造	wwtf	40
-坐等	wwtf	30
-人行	wwtf	20
+命令行	wwtf	50
+人选	wwtf	40
+人造	wwtf	30
+坐等	wwtf	20
 你追我赶	wwtf	10
 人生	wwtg	40
 众生	wwtg	30
