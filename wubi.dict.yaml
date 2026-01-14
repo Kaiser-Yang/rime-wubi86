@@ -8402,6 +8402,7 @@ encoder:
 对台	cfck	10
 馶	cfcy	20	cfcy
 䮃	cfcy	10	cfcy
+圣埃克絮佩里	cfdj	10
 通都大邑	cfdk	10
 对面	cfdm	20
 頚	cfdm	10	cfdm
@@ -22849,6 +22850,7 @@ encoder:
 刑警	gaaq	10
 不甘落后	gaar	10
 琖	gaat	10	gaat
+毒药苦口利于病	gaau	10
 开花	gaaw	20
 五劳七伤	gaaw	10
 开药	gaax	10
@@ -25846,6 +25848,7 @@ encoder:
 带刺	gkgm	10
 不吐不快	gkgn	20
 正中下怀	gkgn	10
+速来	gkgo	20
 带来	gkgo	10
 一路平安	gkgp	10
 整死	gkgq	20
@@ -30260,6 +30263,7 @@ encoder:
 眼急手快	hqrn	10
 䀛	hqrt	10	hqrt
 餐椅	hqsd	10
+餐标	hqsf	10
 点钞机	hqsm	10
 餐盘	hqte	10
 战争片	hqth	10
@@ -40575,8 +40579,8 @@ encoder:
 吹鼓手	kfrt	10
 哭丧棒	kfsd	10
 叶枝	kfsf	10
-叶柄	kfsg	20
-吐槽	kfsg	10
+吐槽	kfsg	20
+叶柄	kfsg	10
 中直机关	kfsu	10
 喷枪	kfsw	10
 哮	kft	10	kftb
@@ -43653,6 +43657,9 @@ encoder:
 哼着	kyud	10
 中州韵	kyuj	10
 咳痰	kyuo	10
+忠言逆耳利于行	kyut	10
+忠言逆耳利于行，良药苦口利于病	kyuu	20
+忠言逆耳利于行，毒药苦口利于病	kyuu	10
 啷	kyv	10	kyvb
 哴	kyve	10	kyve
 嚌	kyvf	10	kyvf
@@ -49353,7 +49360,8 @@ encoder:
 内审	mwpj	10
 内宾	mwpr	10
 内宅	mwpt	10
-内裤	mwpu	10
+内裤	mwpu	20
+内衬	mwpu	10
 肉色	mwqc	10
 内角	mwqe	10
 肉铺	mwqg	10
@@ -55262,6 +55270,7 @@ encoder:
 宽畅	pajh	20
 冪	pajh	10	pajh
 寥若晨星	pajj	10
+字节跳动	pakf	20
 宽叶	pakf	10
 宽边	palp	10
 宽幅	pamh	10
@@ -66719,6 +66728,7 @@ encoder:
 朱笔	ritt	10
 挥洒自如	ritv	10
 泉	riu	10	riu
+拖油瓶	riua	20
 热水瓶	riua	10
 抄送	riud	50
 撑着	riud	40
@@ -69825,6 +69835,7 @@ encoder:
 拉闸	ruul	10
 挂羊头卖狗肉	ruum	10
 白净净	ruuq	10
+拉新	ruus	20
 接亲	ruus	10
 打交道	ruut	10
 挠痒痒	ruuu	10
@@ -81114,6 +81125,7 @@ encoder:
 简称	tutq	10
 利弊得失	tutr	10
 第六条	tuts	10
+自问自答	tutt	20
 行善积德	tutt	10
 科委	tutv	10
 简答	tutw	10
@@ -84549,6 +84561,7 @@ encoder:
 问路	ukkh	10
 闆	ukkk	10	ukkk
 㿋	ukks	10	ukks
+冷嗖嗖	ukkv	10
 闹嚷嚷	ukky	10
 问罪	ukld	10
 部署	uklf	20
@@ -84922,6 +84935,7 @@ encoder:
 㾎	ummg	10	ummg
 端由	ummh	10
 瘦骨嶙峋	ummm	10
+冷飕飕	ummq	20
 瞥见	ummq	10
 商贩	ummr	10
 凋败	ummt	10
@@ -98945,8 +98959,9 @@ encoder:
 刘若英	yaam	10
 䜓	yaas	10	yaas
 諓	yaat	10	yaat
-遮蔽	yaau	20
-望其项背	yaau	10
+遮蔽	yaau	30
+望其项背	yaau	20
+良药苦口利于病	yaau	10
 席子	yabb	10
 谋取	yabc	10
 遮阴	yabe	10
@@ -100765,6 +100780,7 @@ encoder:
 衰草	ykaj	10
 误区	ykaq	10
 衰萎	ykat	10
+讨口子	ykbb	20
 瓤子	ykbb	10
 諿	ykbg	10	ykbg
 襄阳	ykbj	10
