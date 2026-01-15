@@ -31,6 +31,7 @@ encoder:
 工期	aaad	10
 黄花菜	aaae	10
 某某某	aaaf	10
+戒荤茹素	aaag	20
 工巧	aaag	10
 葡萄牙	aaah	10
 工勤	aaak	10
@@ -26632,6 +26633,7 @@ encoder:
 再续	gmxf	10
 青山绿水	gmxi	10
 枣强	gmxk	10
+两张	gmxt	20
 刺绣	gmxt	10
 两弹	gmxu	10
 丙纶	gmxw	20
@@ -45618,6 +45620,7 @@ encoder:
 思量	lnjg	10
 思归	lnjv	10
 思路	lnkh	10
+罹患	lnkk	10
 辅导员	lnkm	10
 䡶	lnku	10	lnku
 辗转	lnlf	10
@@ -51087,6 +51090,7 @@ encoder:
 尿道	niut	20
 情深意重	niut	10
 恍如	nivk	10
+异常值	niwf	10
 情深似海	niwi	10
 以小人之心	niwn	10
 惨淡经营	nixa	10
@@ -52538,6 +52542,7 @@ encoder:
 悯惜	nuna	10
 愣头愣脑	nune	10
 憧憬	nunj	10
+飞书	nunn	40
 飞快	nunn	30
 买书	nunn	20
 飞羽	nunn	10
@@ -58415,6 +58420,7 @@ encoder:
 容	pww	10	pwwk
 空仓	pwwb	10
 彮	pwwe	10	pwwe
+空值	pwwf	20
 宿舍	pwwf	10
 宿命	pwwg	20
 宿便	pwwg	10
@@ -94877,7 +94883,8 @@ encoder:
 华夏	wxdh	10
 傾	wxdm	10	wxdm
 化成	wxdn	10
-人皆有之	wxdp	10
+人皆有之	wxdp	20
+货比三家	wxdp	10
 华邦	wxdt	10
 华泰	wxdw	10
 华服	wxeb	10
@@ -96440,9 +96447,9 @@ encoder:
 结局	xfnn	30
 㢪	xfnn	20	xfnn
 䊸	xfnn	10	xfnn
-结尾	xfnt	10
 乡规民约	xfnx	10
-结发	xfnt	30
+结尾	xfnt	20
+结发	xfnt	10
 䌸	xfny	20	xfny
 綕	xfny	10	xfny
 结籽	xfob	10
