@@ -122,6 +122,7 @@ simplifier:
 key_binder:
   bindings:
     - {accept: Control+Shift+F, toggle: zh_trad, when: always}
+    - {accept: Control+H, send: BackSpace, when: composing}
     - {accept: Control+Shift+H, toggle: new_spelling, when: always}
     - {accept: Control+Shift+J, toggle: new_hide_pinyin, when: always}
     - {accept: Control+Shift+space, toggle: full_shape, when: always}
