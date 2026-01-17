@@ -1,0 +1,154 @@
+# Rime dictionary: book.dict
+# encoding: utf-8
+
+---
+name: wubi.user
+version: "0.1"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+  - stem
+encoder:
+  exclude_patterns:
+    - ^b.*$
+  rules:
+    - length_equal: 2
+      formula: AaAbBaBb
+    - length_equal: 3
+      formula: AaBaCaCb
+    - length_in_range: [4, 90]
+      formula: AaBaCaZa
+...
+《荒原狼》	badqt	40
+《世上最美的溺水者》	bahjf	10
+《基督山伯爵》	bahme	10
+《茶馆》	bawqn	20
+《英语语法分解大全》	bayyw	10
+《聂卫平围棋教程》	bbbgt	10
+《孙子兵法》	bbbri	10
+《了不起的盖茨比》	bbgfx	10
+《孔乙己》	bbnnn	20
+《阿Q正传》	bbqgw	10
+《骆驼祥子》	bccpb	10
+《CMake构建实战》	bcsvh	10
+《C++并发编程实战》	bcunh	10
+《厌女》	bddvv	20
+《三体》	bdgws	10
+《大明王朝1566》	bdjgf	30
+《三国演义》	bdliy	10
+《面纱》	bdmxi	10
+《布鲁克林有棵树》	bdqds	10
+《百年孤独》	bdrbq	10
+《尤利西斯》	bdtsa	10
+《在细雨中呼喊》	bdxfk	10
+《大话数据结构》	bdyos	20
+《爱的八次约会》	berww	10
+《月亮与六便士》	beygf	10
+《月亮和六便士》	beytf	20
+《地下室手记》	bfgpy	10
+《囚徒健身》	bfitn	10
+《霍乱时期的爱情》	bftjn	40
+《动物农场》	bftpf	20
+《老人与海》	bfwgi	10
+《献给阿尔吉侬的花束》	bfxbg	10
+《速通深度学习基础》	bgcid	10
+《带上她的眼睛》	bghvh	10
+《平凡的世界》	bgmrl	10
+《恶意》	bgouj	20
+《瓦尔登湖》	bgqwi	10
+《理想国》	bgslg	20
+《球状闪电》	bguuj	20
+《现代C++语言核心特性解析》	bgwcs	10
+《吞食者》	bgwft	10
+《天使时代》	bgwjw	10
+《Go语言精进之路：从新手到高手的编程思想、方法和技巧1》	bgyyk	40
+《Go语言精进之路：从新手到高手的编程思想、方法和技巧2》	bgyyk	30
+《Go语言精进之路：从新手到高手的编程思想、方法和技巧》	bgyyk	20
+《Go语言第一课》	bgyyy	10
+《战争与和平》	bhqgg	10
+《卡拉马佐夫兄弟》	bhrcu	10
+《上帝掷骰子吗？：量子物理史话》	bhurk	10
+《光荣与梦想》	biags	10
+《孔雀东南飞》	bian	10
+《堂吉诃德》	bifyt	30
+《小王子》	bigbb	10
+《流浪地球》	biifg	20
+《水浒传》	biiwf	10
+《流畅的Python》	bijrp	20
+《深入理解C++11：C++11新特性与应用》	bitgc	20
+《活着》	bitud	30
+《学好数学并不难·代数》	bivoc	20
+《学好数学并不难·几何》	bivoc	10
+《明朝那些事儿》	bjfvq	10
+《Java核心技术卷1：基础知识》	bjsnu	30
+《Java核心技术卷2》	bjsnu	20
+《Java核心技术卷》	bjsnu	10
+《晚熟的人》	bjyrw	10
+《中式英语之鉴》	bkaaj	10
+《跑步圣经》	bkhcx	10
+《中国太阳》	bkldb	10
+《兄弟》	bkqux	10
+《哈利·波特与魔法石》	bktit	80
+《哈利·波特与密室》	bktit	70
+《哈利·波特与阿兹卡班的囚徒》	bktit	60
+《哈利·波特与火焰杯》	bktit	50
+《哈利·波特与凤凰社》	bktit	40
+《哈利·波特与混血王子》	bktit	30
+《哈利·波特与死亡圣器》	bktit	20
+《哈利·波特》	bktit	10
+《四世同堂》	blami	10
+《围城》	blffd	10
+《思考，快与慢》	blfnn	20
+《罪与罚》	blgly	20
+《边城》	blpfd	20
+《囚徒健身：用失传的技艺练就强大的生存实力》	bltwt	30
+《囚徒健身2：用古老的智慧成就再无弱点的不败身躯》	bltwt	20
+《Linux就该这么学》	blyyi	10
+《风沙星辰》	bmijd	10
+《山》	bmmm	10	mmmm
+《尼采全集》	bneww	20
+《局外人》	bnqww	10
+《福尔摩斯探案全集》	bpqyw	10
+《安娜·卡列尼娜》	bpvhv	10
+《窄门》	bpwuy	30
+《杀死一只知更鸟》	bqggq	20
+《解忧杂货店》	bqnvy	10
+《钢铁是怎样炼成的》	bqqjr	10
+《狂人日记》	bqwjy	20
+《拜厄钢琴基础教程》	brdqt	10
+《挪威的森林》	brdrs	10
+《哲学与自杀》	brigq	10
+《摆渡人》	briww	10
+《撒哈拉的故事》	brkrg	10
+《鬼》	brqc	10	rqci
+《白鹿原》	brydr	20
+《白夜行》	brytf	20
+《飘》	bsfiq	10	sfiq
+《西游记》	bsiyn	10
+《西西弗神话》	bssxy	20
+《悉达多》	btdqq	10
+《我与地坛》	btgff	20
+《第一性原理：21堂科学通识课》	btgng	20
+《长安的荔枝》	btprs	10
+《我的第一本算法书》	btrtn	30
+《简爱》	btuep	20
+《我们三》	btwdg	10
+《程序员的README》	btykr	10
+《Vim实用技巧》	bvpea	10
+《分布式系统架构：架构策略与难题求解》	bwdas	20
+《从一到无穷大》	bwggd	20
+《追风筝的人》	bwmtw	10
+《傲慢与偏见》	bwngm	10
+《人性的枷锁》	bwnrq	30
+《人类简史：从动物到上帝》	bwotk	10
+《剑指Offer（专项突破版）：数据结构与算法名企面试题精讲》	bwrol	10
+《儒林外史》	bwsqk	10
+《人生有何意义》	bwtdy	30
+《费曼物理学讲义》	bxjty	20
+《红楼梦》	bxsss	10
+《许三观卖血记》	bydcy	20
+《房思琪的初恋乐园》	bylgl	10
+《计算广告：互联网商业变现的市场与技术》	bytyt	50
+《刘慈欣少儿科幻系列》	byurg	10
