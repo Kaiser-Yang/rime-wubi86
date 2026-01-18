@@ -5326,6 +5326,7 @@ encoder:
 阴阳师	bbjg	10
 子曰	bbjh	10
 子路	bbkh	10
+子串	bbkk	10
 子嗣	bbkm	10
 子车	bblg	10
 聉	bbmh	10	bbmh
@@ -77169,8 +77170,8 @@ encoder:
 毛纺	tfxy	10
 告诫	tfya	10
 科教文卫	tfyb	10
-德育	tfyc	20
-丢弃	tfyc	10
+丢弃	tfyc	20
+德育	tfyc	30
 德庆	tfyd	10
 毛衣	tfye	20
 造谣	tfye	10
