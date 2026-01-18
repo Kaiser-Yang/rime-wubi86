@@ -4767,6 +4767,7 @@ encoder:
 工欲善其事	awug	10
 工作站	awuh	10
 工作间	awuj	10
+工欲善其事，必先利其器	awuk	20
 蓓	awuk	10	awuk
 共商	awum	10
 茶资	awuq	20
@@ -21805,7 +21806,8 @@ encoder:
 才学	ftip	10
 老光	ftiq	10
 教派	ftir	10
-老酒	ftis	10
+老酒	ftis	20
+雾淞	ftis	10
 老少	ftit	10
 煮沸	ftix	10
 老生常谈	ftiy	10
@@ -27616,6 +27618,7 @@ encoder:
 不可救药	gsfa	10
 天覆地载	gsff	10
 不相干	gsfg	10
+平板支撑	gsfr	10
 不可一世	gsga	10
 天机不可泄露	gsgf	10
 一板一眼	gsgh	10
@@ -34235,8 +34238,9 @@ encoder:
 堂	ipkf	20	ipkf
 甞	ipkf	10	ipkf
 学号	ipkg	10
-常	ipkh	30	ipkh
-掌嘴	ipkh	20
+深蹲	ipkh	40
+掌嘴	ipkh	30
+常	ipkh	20	ipkh
 䟫	ipkh	10	ipkh
 演唱	ipkj	30
 劏	ipkj	20	ipkj
@@ -36182,6 +36186,7 @@ encoder:
 党八股	iwem	10
 鶺	iweo	10	iweo
 沴	iwet	10	iwet
+举腿	iwev	10
 举	iwf	10	iwfh
 浴霸	iwfa	10
 举动	iwfc	20
@@ -36500,6 +36505,7 @@ encoder:
 㵝	iyek	10	iyek
 流脓	iyep	10
 流彩	iyes	10
+斜方肌	wyem	10
 测试用例	wyew	10
 流脑	iyey	20
 㳖	iyey	10	iyey
@@ -41547,9 +41553,10 @@ encoder:
 中端	khum	10
 躢	khun	10	khun
 路旁	khup	10
-跤	khuq	30	khuq
-中奖	khuq	20
-中将	khuq	10
+中奖	khuq	40
+跪姿	khuq	30
+中将	khuq	20
+跤	khuq	10	khuq
 中新	khus	10
 遗产	khut	60
 跑道	khut	50
@@ -43244,6 +43251,7 @@ encoder:
 嗌	kuw	10	kuwl
 唥	kuwc	10	kuwc
 咬合	kuwg	10
+跪姿俯卧撑	kuwr	10
 咬伤	kuwt	10
 兄弟们	kuwu	10
 中间人	kuww	10
@@ -49791,6 +49799,7 @@ encoder:
 民歌	nask	10
 异构	nasq	10
 展板	nasr	10
+臀桥	nast	10
 异样	nasu	10
 懂	nat	10	natf
 慌乱	natd	10
@@ -51827,6 +51836,7 @@ encoder:
 性饥渴	nqij	10
 恂	nqj	10	nqjg
 惸	nqjb	10	nqjb
+书名号	nqkg	30
 怐	nqkg	20	nqkg
 翑	nqkg	10	nqkg
 收银员	nqkm	10
@@ -82497,6 +82507,7 @@ encoder:
 羊肠	uden	10
 关爱	udep	10
 头彩	udes	10
+卷腹	udet	30
 善用	udet	20
 羏	udet	10	udet
 羊腿	udev	10
@@ -98438,6 +98449,7 @@ encoder:
 综合利用	xwte	10
 絍	xwtf	10	xwtf
 维生	xwtg	10
+引体向上	xwth	20
 纪念版	xwth	10
 维和	xwtk	10
 纵向	xwtm	20
@@ -102737,6 +102749,7 @@ encoder:
 魔怪	ysnc	10
 魔怔	ysng	10
 订书	ysnn	10
+魔改	ysnt	20
 魔性	ysnt	10
 摩尼	ysnx	10
 磨炼	ysoa	10
