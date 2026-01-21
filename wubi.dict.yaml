@@ -8042,7 +8042,8 @@ encoder:
 又得	cctj	10
 双程	cctk	20
 又和	cctk	10
-双向	cctm	10
+双向	cctm	20
+双射	cctm	10
 双管	cctp	10
 又称	cctq	10
 双敏	cctx	10
@@ -23126,10 +23127,10 @@ encoder:
 开往	gaty	20
 开篇	gaty	10
 开瓶	gaua	10
-开关	gaud	50
-形状	gaud	40
-开着	gaud	30
-开头	gaud	20
+开头	gaud	50
+开关	gaud	40
+形状	gaud	30
+开着	gaud	20
 开卷	gaud	10
 五黄六月	gaue	10
 武装	gauf	10
@@ -25990,8 +25991,8 @@ encoder:
 带钱	gkqg	10
 逗乐	gkqi	20
 整句	gkqk	10
-整饬	gkqn	20
-豆包	gkqn	10
+豆包	gkqn	20
+整饬	gkqn	10
 事儿	gkqt	10
 逼急	gkqv	10
 逗留	gkqy	10
@@ -27946,7 +27947,6 @@ encoder:
 平阳	gubj	10
 一意孤行	gubt	10
 一将难求	gucf	10
-平台	guck	10
 瑳	guda	10	guda
 夹在	gudh	20
 珜	gudh	10	gudh
@@ -28098,6 +28098,7 @@ encoder:
 副部长	guta	10
 事关重大	gutd	10
 平盘	gute	10
+平等	gutf	30
 平行	gutf	20
 不道德	gutf	10
 平生	gutg	20
@@ -29381,6 +29382,7 @@ encoder:
 上上	hhhh	10
 止步	hhhi	10
 上桌	hhhj	10
+卡点	hhhk	10
 睁眼瞎	hhhp	10
 眼睁睁	hhhq	10
 上眼	hhhv	10
@@ -32828,7 +32830,8 @@ encoder:
 水沟	iiiq	20
 水泡	iiiq	10
 水汽	iiir	10
-沙河	iiis	30
+沙河	iiis	40
+清水河	iiis	30
 水漂	iiis	20
 水酒	iiis	10
 浙江省	iiit	20
@@ -35703,6 +35706,7 @@ encoder:
 少说	ityu	10
 海康	ityv	10
 省府	ityw	10
+渗透率	ityx	10
 活该	ityy	10
 洋	iu	20	iudh
 洋式	iuaa	10
@@ -44072,6 +44076,7 @@ encoder:
 园艺	lfan	20
 转世	lfan	10
 园区	lfaq	10
+墨攻	lfat	30
 黑莓	lfat	20
 围攻	lfat	10
 黑茶	lfaw	10
@@ -44510,8 +44515,8 @@ encoder:
 黑亮	lfyp	10
 黑底	lfyq	10
 转磨	lfys	10
-默许	lfyt	20
-黑话	lfyt	10
+黑话	lfyt	20
+默许	lfyt	10
 默认	lfyw	40
 黑夜	lfyw	30
 黑鹰	lfyw	20
@@ -47405,6 +47410,7 @@ encoder:
 㟖	mgaj	10	mgaj
 败下阵来	mgbg	10
 同出	mgbm	10
+赋能	mgce	10
 峌	mgcf	10	mgcf
 同台	mgck	10
 䞃	mgct	10	mgct
@@ -49323,7 +49329,8 @@ encoder:
 内圈	mwlu	10
 内嵌	mwma	20
 内贼	mwma	10
-内网	mwmq	20
+内网	mwmq	30
+内购	mwmq	20
 赊购	mwmq	10
 崔嵬	mwmr	10
 见仁见智	mwmt	20
@@ -50277,8 +50284,8 @@ encoder:
 惊魂未定	nffp	10
 憢	nffq	10	nffq
 悄无声息	nfft	10
-屠夫	nffw	20
-懦夫	nffw	10
+懦夫	nffw	20
+屠夫	nffw	10
 迅雷不及掩耳	nfgb	10
 愤青	nfge	10
 慎于	nfgf	10
@@ -52225,8 +52232,8 @@ encoder:
 发粉	ntow	10
 发家	ntpe	10
 恪守	ntpf	10
-必定	ntpg	20
-改写	ntpg	10
+改写	ntpg	20
+必定	ntpg	10
 㞏	ntpi	10	ntpi
 民告官	ntpn	10
 属实	ntpu	10
@@ -69664,6 +69671,7 @@ encoder:
 卸妆油	ruim	10
 接掌	ruip	10
 拦河	ruis	10
+拉活	ruit	30
 搓洗	ruit	20
 接活	ruit	10
 接洽	ruiw	10
@@ -73167,6 +73175,7 @@ encoder:
 枳	skw	10	skwy
 可供	skwa	10
 可他	skwb	10
+可颂	skwc	20
 歌颂	skwc	10
 可做	skwd	10
 杏仁	skwf	10
@@ -76884,8 +76893,8 @@ encoder:
 造字	tfpb	10
 德宏	tfpd	10
 行家	tfpe	10
-选定	tfpg	20
-待定	tfpg	10
+待定	tfpg	20
+选定	tfpg	10
 䅴	tfpi	10	tfpi
 午宴	tfpj	10
 迁	tfpk	30	tfpk
@@ -77740,6 +77749,7 @@ encoder:
 自夸	thdf	30
 怎奈	thdf	20
 篡夺	thdf	10
+自研	thdg	40
 自古	thdg	30
 自上而下	thdg	20
 片石	thdg	10
@@ -78013,6 +78023,7 @@ encoder:
 延后	thrg	10
 延年	thrh	10
 延揽	thrj	10
+自投	thrm	20
 自制	thrm	10
 臭氧	thrn	40
 处所	thrn	30
