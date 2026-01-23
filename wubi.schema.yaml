@@ -39,10 +39,9 @@ engine:
     - history_translator@history
     - script_translator@pinyin_reverse_lookup
     - table_translator
+    - lua_translator@date_ts
     # TODO:
     - lua_translator@helper
-    - lua_translator@date_ts
-    - lua_translator@date_extend_ts
     - lua_translator@test
   filters:
     - simplifier
@@ -69,7 +68,7 @@ menu:
   alternative_select_labels: [ ㊀, ㊁, ㊂, ㊃, ㊄, ㊅, ㊆, ㊇, ㊈, ㊉ ]
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA1234567890+-
   max_code_length: 0
   auto_select: false
   auto_select_pattern: ^^\w{4}$
@@ -118,6 +117,10 @@ key_binder:
   bindings:
     - {accept: comma, send: Page_Up, when: paging}
     - {accept: period, send: Page_Down, when: has_menu}
+    - {accept: Up, send: Page_Up, when: paging}
+    - {accept: Down, send: Page_Down, when: has_menu}
+    - {accept: Left, send: Up, when: has_menu}
+    - {accept: Right, send: Down, when: has_menu}
     - {accept: Control+Shift+F, toggle: zh_trad, when: always}
     - {accept: Control+H, send: BackSpace, when: composing}
     - {accept: Control+Shift+H, toggle: new_spelling, when: always}

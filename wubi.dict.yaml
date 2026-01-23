@@ -4594,6 +4594,7 @@ encoder:
 苶	awiu	20	awiu
 㳟	awiu	10	awiu
 花雀	awiw	10
+工作流	awiy	20
 共渡	awiy	10
 芥	awj	10	awjj
 花蝶	awja	10
@@ -16572,8 +16573,8 @@ encoder:
 胜	etg	10	etgg
 用刑	etga	20
 用武	etga	10
-乃至	etgc	20
-用到	etgc	10
+用到	etgc	20
+乃至	etgc	10
 甤	etgd	10	etgd
 用于	etgf	40
 胜于	etgf	30
@@ -21401,8 +21402,8 @@ encoder:
 顽童	fquj	20
 元音	fquj	10
 无冲	fquk	10
-无端	fqum	20
-远端	fqum	10
+远端	fqum	20
+无端	fqum	10
 无效	fquq	30
 远郊	fquq	20
 鋆	fquq	10	fquq
@@ -23172,6 +23173,7 @@ encoder:
 开售	gawy	20
 雃	gawy	10	gawy
 开练	gaxa	10
+下划线	gaxg	20
 开线	gaxg	10
 开花结果	gaxj	10
 开张	gaxt	10
@@ -32821,6 +32823,7 @@ encoder:
 㵘	iiii	10	iiii
 水温	iiij	10
 水涡	iiik	10
+清水河畔	iiil	10
 润滑油	iiim	10
 水泥	iiin	20
 沙漏	iiin	10
@@ -40323,7 +40326,9 @@ encoder:
 喊冤	kdpq	10
 顺祝	kdpy	10
 嘎然	kdqd	10
+踏破铁鞋无觅处，得来全不费工夫	kdqf	10
 顺鑫	kdqq	10
+踏破铁鞋无觅处	kdqt	10
 顺气	kdrn	10
 喊打	kdrs	10
 顺手	kdrt	10
@@ -41074,6 +41079,7 @@ encoder:
 跨境	khfu	10
 踏雪	khfv	10
 蹎	khfw	10	khfw
+踩坑	khfy	30
 蹲坑	khfy	20
 䟵	khfy	10	khfy
 践	khg	10	khgt
@@ -70437,8 +70443,8 @@ encoder:
 推入	rwty	20
 捈	rwty	10	rwty
 㒵	rwu	10	rwu
-摄像头	rwud	70
-推送	rwud	60
+推送	rwud	70
+摄像头	rwud	60
 抢着	rwud	50
 拎着	rwud	40
 推着	rwud	30
@@ -72910,6 +72916,7 @@ encoder:
 樑	sivs	10	sivs
 榉	siw	10	siwh
 梢公	siwc	10
+枚举值	siwf	20
 桃仁	siwf	10
 﨔	siwr	10	siwr
 检举人	siww	10
@@ -77636,8 +77643,9 @@ encoder:
 重做	tgwd	20
 惩一儆百	tgwd	10
 生俘	tgwe	10
-重传	tgwf	20
-和事佬	tgwf	10
+重传	tgwf	30
+和事佬	tgwf	20
+得来全不费工夫	tgwf	10
 重合	tgwg	20
 生命	tgwg	10
 重修	tgwh	20
@@ -87997,6 +88005,7 @@ encoder:
 奸夫	vffw	10
 寻到	vfgc	10
 那天	vfgd	10
+建表	vfge	10
 建于	vfgf	10
 那一	vfgg	10
 建政	vfgh	10
@@ -91667,6 +91676,7 @@ encoder:
 全乎	wgtu	10
 便签	wgtw	10
 登第	wgtx	10
+合入	wgty	40
 登入	wgty	30
 倒入	wgty	20
 全篇	wgty	10
@@ -93417,6 +93427,7 @@ encoder:
 作	wt	30	wthf
 伥	wta	10	wtay
 八戒	wtaa	10
+候选项	wtad	40
 任期	wtad	30
 任其	wtad	20
 八项	wtad	10

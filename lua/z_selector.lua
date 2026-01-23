@@ -5,28 +5,41 @@ local accept = 1
 local pass_to_next = 2
 
 local is_desktop = true
-local shift_pressed
+
+-- date and dati support [+]/-[digits] after special function keys to get relative time/date
+-- e.g.
+--  fdate1 and fdate1d means one day later than current date
+--  fdate-1 means one day earlier than current date
+--  fdati1 means one month later than current datetime
+--  fdati-1 means one year later than current datetime
+SpecialFunctionToKey = {
+    time = 'ftime', -- HH:mm:ss
+    date = 'fdate', -- yyyy-MM-dd
+    dati = 'fdati', -- yyyy-MM-dd HH:mm:ss
+}
 
 local function z_selector(key_event, env)
     local context = env.engine.context
     local input = context.input
-    if key_event.keycode == 65505 then -- Shift key
-        if not key_event:release() then
-            shift_pressed = true
-        elseif shift_pressed then
-            -- For single shift key, we commit the text
-            env.engine:commit_text(input)
-            context:clear()
-            shift_pressed = nil
-        end
+    local is_number = key_event.keycode >= 48 and key_event.keycode <= 57
+    if (not input or #input == 0) and is_number then
+        env.engine:commit_text(string.char(key_event.keycode))
         return accept
     end
-    shift_pressed = nil
     if key_event:release() or not input or #input == 0 then return pass_to_next end
+    local is_minus = key_event.keycode == 45
+    local is_pluss = key_event.keycode == 43
+    if is_number or is_minus or is_pluss then
+        for _, key in pairs(SpecialFunctionToKey) do
+            if input:match('^' .. key) then
+                context:push_input(string.char(key_event.keycode))
+                return accept
+            end
+        end
+    end
     local composition = context.composition:back()
     local dest = 9999
     local page_size = env.engine.schema.page_size
-    local is_number = key_event.keycode >= 48 and key_event.keycode <= 57
     if is_number then
         dest = key_event.keycode - 48
         if dest == 0 then dest = 10 end -- 0 for select the 10-th item
@@ -40,9 +53,16 @@ local function z_selector(key_event, env)
         -- On desktop, we use ';' to select the second item;
         -- On phone, we use '/' to select the second item;
         dest = 2
-    elseif key_event.keycode == 44 and composition.selected_index > page_size then
+    elseif key_event.keycode == 44 then
         -- ',' is used to go back one page
-        return pass_to_next
+        if composition.selected_index >= page_size then
+            return pass_to_next
+        elseif context:has_menu() and composition.selected_index < page_size then
+            -- When there is no previous page, we commit the first item with punctuation
+            env.engine:commit_text(composition.menu:get_candidate_at(0).text .. '，')
+            context:clear()
+            return accept
+        end
     elseif key_event.keycode == 46 then
         -- '.' is used to go forward one page
         if context:has_menu() and composition.menu:candidate_count() < page_size then
@@ -64,11 +84,6 @@ local function z_selector(key_event, env)
             env.engine:commit_text(input .. string.char(key_event.keycode))
             context:clear()
             return accept
-        elseif key_event.keycode == 32 then
-            -- We always commit the text when space is pressed
-            env.engine:commit_text(input)
-            context:clear()
-            return accept
         end
         return pass_to_next
     elseif
@@ -79,6 +94,7 @@ local function z_selector(key_event, env)
         context:select(composition.selected_index + dest - 1)
         return accept
     elseif dest <= 10 then
+        -- We will input ; when there is no three candidates
         env.engine:commit_text(input .. string.char(key_event.keycode))
         context:clear()
         return accept
