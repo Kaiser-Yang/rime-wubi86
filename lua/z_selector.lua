@@ -6,6 +6,18 @@ local pass_to_next = 2
 
 local is_desktop = true
 
+-- date and dati support [+]/-[digits] after special function keys to get relative time/date
+-- e.g.
+--  fdate1 and fdate1d means one day later than current date
+--  fdate-1 means one day earlier than current date
+--  fdati1 means one month later than current datetime
+--  fdati-1 means one year later than current datetime
+SpecialFunctionToKey = {
+    time = 'ftime', -- HH:mm:ss
+    date = 'fdate', -- yyyy-MM-dd
+    dati = 'fdati', -- yyyy-MM-dd HH:mm:ss
+}
+
 local function z_selector(key_event, env)
     local context = env.engine.context
     local input = context.input
@@ -15,6 +27,16 @@ local function z_selector(key_event, env)
         return accept
     end
     if key_event:release() or not input or #input == 0 then return pass_to_next end
+    local is_minus = key_event.keycode == 45
+    local is_pluss = key_event.keycode == 43
+    if is_number or is_minus or is_pluss then
+        for _, key in pairs(SpecialFunctionToKey) do
+            if input:match('^' .. key) then
+                context:push_input(string.char(key_event.keycode))
+                return accept
+            end
+        end
+    end
     local composition = context.composition:back()
     local dest = 9999
     local page_size = env.engine.schema.page_size
