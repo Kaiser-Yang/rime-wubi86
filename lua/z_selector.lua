@@ -62,11 +62,6 @@ local function z_selector(key_event, env)
             env.engine:commit_text(input .. string.char(key_event.keycode))
             context:clear()
             return accept
-        elseif key_event.keycode == 32 then
-            -- We always commit the text when space is pressed
-            env.engine:commit_text(input)
-            context:clear()
-            return accept
         end
         return pass_to_next
     elseif
@@ -77,6 +72,7 @@ local function z_selector(key_event, env)
         context:select(composition.selected_index + dest - 1)
         return accept
     elseif dest <= 10 then
+        -- We will input ; when there is no three candidates
         env.engine:commit_text(input .. string.char(key_event.keycode))
         context:clear()
         return accept
