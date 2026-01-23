@@ -9,20 +9,19 @@ local is_desktop = false
 local function z_selector(key_event, env)
     local context = env.engine.context
     local input = context.input
-    if key_event:release() then return pass_to_next end
-    if not input or #input == 0 then
-        if key_event.keycode >= 48 and key_event.keycode <= 57 then
-            -- Commit numbers directly
-            env.engine:commit_text(string.char(key_event.keycode))
-            context:clear()
-            return accept
-        else
-            return pass_to_next
-        end
+    local is_number = key_event.keycode >= 48 and key_event.keycode <= 57
+    if (not input or #input == 0) and is_number then
+        env.engine:commit_text(string.char(key_event.keycode))
+        return accept
     end
+    if key_event:release() or not input or #input == 0 then return pass_to_next end
     local composition = context.composition:back()
     local dest = 9999
-    if key_event.keycode == 122 and not input:match('^z') then
+    local page_size = env.engine.schema.page_size
+    if is_number then
+        dest = key_event.keycode - 48
+        if dest == 0 then dest = 10 end -- 0 for select the 10-th item
+    elseif key_event.keycode == 122 and not input:match('^z') then
         -- We use 'z' to select the third item
         dest = 3
     elseif
