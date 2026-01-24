@@ -1,0 +1,23 @@
+# Rime dictionary: name.dict
+# encoding: utf-8
+
+---
+name: wubi.name
+version: "0.1"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+  - stem
+encoder:
+  exclude_patterns:
+    - ^b.*$
+  rules:
+    - length_equal: 2
+      formula: AaAbBaBb
+    - length_equal: 3
+      formula: AaBaCaCb
+    - length_in_range: [4, 90]
+      formula: AaBaCaZa
+...

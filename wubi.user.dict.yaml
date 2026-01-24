@@ -7,8 +7,8 @@ version: "0.1"
 sort: by_weight
 import_tables:
   - wubi
-  - book
-  - private_symbols
+  - wubi.book
+  - wubi.name
   - wubi.extended
 columns:
   - text

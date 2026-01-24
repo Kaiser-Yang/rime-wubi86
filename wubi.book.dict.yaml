@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 ---
-name: wubi.user
+name: wubi.book
 version: "0.1"
 sort: by_weight
 columns:
@@ -265,8 +265,8 @@ Vim实用技巧	bvpeab	10
 人性的枷锁	bwnrqb	30
 《人类简史：从动物到上帝》	bwotk	10
 人类简史：从动物到上帝	bwotkb	10
-《剑指Offer（专项突破版）：数据结构与算法名企面试题精讲》	bwrol	10
-剑指Offer（专项突破版）：数据结构与算法名企面试题精讲	bwrolb	10
+《剑指Offer（专项突破版）：数据结构与算法名企面试题精讲》	bwrof	10
+剑指Offer（专项突破版）：数据结构与算法名企面试题精讲	bwrofb	10
 《儒林外史》	bwsqk	10
 儒林外史	bwsqkb	10
 《人生有何意义》	bwtdy	30
