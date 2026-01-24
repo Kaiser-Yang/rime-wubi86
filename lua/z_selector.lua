@@ -19,6 +19,7 @@ SpecialFunctionToKey = {
 }
 
 local function z_selector(key_event, env)
+    if key_event:release() then return pass_to_next end
     local context = env.engine.context
     local input = context.input
     local is_number = key_event.keycode >= 48 and key_event.keycode <= 57
@@ -26,12 +27,16 @@ local function z_selector(key_event, env)
         env.engine:commit_text(string.char(key_event.keycode))
         return accept
     end
-    if key_event:release() or not input or #input == 0 then return pass_to_next end
+    if not input or #input == 0 then return pass_to_next end
     local is_minus = key_event.keycode == 45
-    local is_pluss = key_event.keycode == 43
-    if is_number or is_minus or is_pluss then
+    local is_plus = key_event.keycode == 43
+    if is_number or is_minus or is_plus then
         for _, key in pairs(SpecialFunctionToKey) do
             if input:match('^' .. key) then
+                -- Time not support number offset now
+                if is_number and key == SpecialFunctionToKey.time then break end
+                -- This if means we can select by numbers after inputting a non-capital letter
+                if #input > #key and input:sub(#input, #input):match('[a-z]') then break end
                 context:push_input(string.char(key_event.keycode))
                 return accept
             end
