@@ -5316,7 +5316,6 @@ encoder:
 聊聊天	bbgd	10
 孩子王	bbgg	10
 耿耿于怀	bbgn	10
-聂卫平	bbgu	10
 孜孜不倦	bbgw	10
 耶	bbh	10	bbh
 子虚	bbha	10
@@ -6196,7 +6195,6 @@ encoder:
 阵阵	blbl	10
 孟夏	bldh	10
 孟春	bldw	10
-陀思妥耶夫斯基	blea	10
 阵脚	blef	10
 孟	blf	10	blf
 阵地	blfb	10
@@ -8651,7 +8649,6 @@ encoder:
 邓紫棋	chsa	10
 圣卢西亚	chsg	10
 鸡皮疙瘩	chuu	10
-邓小平	cigu	10
 对酒当歌	ciis	10
 台湾省	ciit	10
 騨	cijf	10	cijf
@@ -43044,7 +43041,6 @@ encoder:
 吃水	ktii	10
 嗅觉	ktip	10
 吃光	ktiq	10
-哈利·波特	ktit	20
 呼和浩特	ktit	10
 川渝	ktiw	10
 唾液	ktiy	10
@@ -48004,7 +48000,6 @@ encoder:
 嵔	mlge	20	mlge
 㟪	mlge	10	mlge
 㟵	mlgh	10	mlgh
-周恩来	mlgo	10
 岬	mlh	10	mlh
 峰回路转	mlkl	10
 㠥	mllf	10	mllf
@@ -50155,8 +50150,6 @@ encoder:
 情有独钟	ndqq	20
 慡	ndqq	10	ndqq
 居留	ndqy	10
-尼古拉·阿列克谢耶维奇·奥斯特洛夫斯基	ndra	20
-尼古拉斯	ndra	10
 发聋振聩	ndrb	10
 㥳	ndri	10	ndri
 居所	ndrn	10
@@ -57993,7 +57986,6 @@ encoder:
 案首	pvut	10
 安好	pvvb	10
 安妮	pvvn	10
-安娜	pvvv	10
 案值	pvwf	20
 㝧	pvwf	10	pvwf
 案例	pvwg	10
@@ -73457,8 +73449,6 @@ encoder:
 㰑	snns	10	snns
 㯢	snnw	10	snnw
 梞	snny	10	snny
-杨幂	snpj	10
-李慎之	snpp	10
 槢	snrg	10	snrg
 杨朱	snri	10
 杨树	snsc	10
@@ -78188,10 +78178,8 @@ encoder:
 秒	ti	10	titt
 复活节	tiab	10
 每学期	tiad	10
-毛泽东	tiai	10
 自治区	tiaq	20
 生活区	tiaq	10
-毛泽东思想	tias	10
 篊	tiaw	10	tiaw
 筂	tibb	20	tibb
 笵	tibb	10	tibb
@@ -103450,7 +103438,6 @@ encoder:
 论资排辈	yurd	10
 望门投止	yurh	10
 摩拳擦掌	yuri	10
-刘慈欣	yurq	10
 说白	yurr	10
 高新技术	yurs	10
 谦卑	yurt	10
