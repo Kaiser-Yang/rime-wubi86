@@ -169,8 +169,7 @@ local function get_date_time(input, seg, days)
     )
 
     local dt_nums = get_date_nums(addDaysToDate(days, '%Y.%m.%d'))
-    local dt_str =
-        dt_nums[1]
+    local dt_str = dt_nums[1]
         .. '年'
         .. dt_nums[2]
         .. '月'
@@ -267,15 +266,24 @@ end
 
 local symbol_len = #SpecialFunctionToKey.time
 -- TODO: support fdate3m to get date after 3 months
+--- @param input string
 local function str_to_datetime(input, seg)
     if not input or #input < symbol_len then return end
     local symbol = input:sub(1, symbol_len)
     local number = nil
     if #input > symbol_len then number = input:sub(symbol_len + 1):match('^[+-]?%d+') end
-    if number == nil and #input > symbol_len then return end
-    if number and #symbol + #number ~= #input then return end
-    -- Time not support number offset now
-    if symbol == SpecialFunctionToKey.time and number then return end
+    local unit = nil
+    if number == nil then
+        if #input == symbol_len + 1 then
+            unit = input:sub(symbol_len + 1, symbol_len + 1)
+        elseif #input > symbol_len then
+            return
+        end
+    elseif symbol_len + #number + 1 == #input then
+        unit = input:sub(#input, #input)
+    end
+    local parsed_len = symbol_len + (number and #number or 0) + (unit and #unit or 0)
+    if parsed_len ~= #input then return end
 
     if symbol == SpecialFunctionToKey.time then
         get_time(symbol, seg)
