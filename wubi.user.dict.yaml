@@ -7,8 +7,9 @@ version: "0.1"
 sort: by_weight
 import_tables:
   - wubi
-  - book
-  - private_symbols
+  - wubi.book
+  - wubi.long
+  - wubi.name
   - wubi.extended
 columns:
   - text
@@ -26,7 +27,6 @@ encoder:
     - length_in_range: [4, 90]
       formula: AaBaCaZa
 ...
-
 工作结点	awxh	
 联邦学习	bdin	
 参数服务器	coek	
