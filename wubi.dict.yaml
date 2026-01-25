@@ -6170,6 +6170,7 @@ encoder:
 阵子	blbb	20
 孟子	blbb	10
 阵阵	blbl	10
+隈隩	blbt	10
 孟夏	bldh	10
 孟春	bldw	10
 阵脚	blef	10
@@ -23388,8 +23389,9 @@ encoder:
 一成不变	gdgy	10
 珔	gdhb	10	gdhb
 不在此列	gdhg	10
-天上	gdhh	40
-画龙点睛	gdhh	30
+天上	gdhh	50
+画龙点睛	gdhh	40
+形而上	gdhh	30
 天目	gdhh	20
 玤	gdhh	10	gdhh
 形而上学	gdhi	10
@@ -33714,7 +33716,8 @@ encoder:
 漏泄	inia	10
 汤池	inib	10
 泥滩	inic	10
-没心没肺	inie	20
+没心没肺	inie	30
+潺湲	inie	20
 㴮	inie	10	inie
 泥污	inif	10
 泥淖	inih	20
@@ -36085,7 +36088,8 @@ encoder:
 涂满	iwia	10
 浴池	iwib	10
 潋滟	iwid	10
-澄清	iwig	10
+澄清	iwig	20
+泠洌	iwig	10
 港人治港	iwii	10
 沦没	iwim	10
 兴学	iwip	10
@@ -42598,7 +42602,6 @@ encoder:
 史诗	kqyf	10
 吊儿郎当	kqyi	10
 嚠	kqyj	10	kqyj
-史记	kqyn	10
 史迹	kqyo	10
 鸣谢	kqyt	30
 鸣放	kqyt	20
@@ -48272,7 +48275,8 @@ encoder:
 见到	mqgc	20
 刚到	mqgc	10
 见天	mqgd	10
-网球	mqgf	20
+网球	mqgf	30
+岿然不动	mqgf	20
 见于	mqgf	10
 风琴	mqgg	10
 刚正	mqgh	10
@@ -52848,6 +52852,7 @@ encoder:
 翯	nymk	10	nymk
 忼	nymn	10	nymn
 惊风	nymq	10
+以启山林	nyms	10
 心诚则灵	nymv	10
 以内	nymw	10
 忙	nyn	30	nynn
@@ -64432,7 +64437,8 @@ encoder:
 反攻倒算	rawt	10
 搭伴	rawu	10
 找岔	rawv	10
-找人	raww	10
+找人	raww	20
+扬基人	raww	10
 搭售	rawy	30
 推荐信	rawy	20
 㨤	rawy	10	rawy
@@ -65902,6 +65908,7 @@ encoder:
 后段	rgwd	10
 后会	rgwf	10
 搏命	rgwg	10
+丘阜	rgwn	10
 䳨	rgwo	10	rgwo
 岳父	rgwq	40
 后仰	rgwq	30
@@ -79248,6 +79255,7 @@ encoder:
 笖	tnyw	10	tnyw
 秘方	tnyy	10
 秋	to	10	toy
+舌灿莲花	toaa	20
 翻工	toaa	10
 愁苦	toad	10
 释惑	toak	10
@@ -86423,7 +86431,8 @@ encoder:
 疮疤	uwuc	10
 闪着	uwud	20
 准头	uwud	10
-新人新事	uwug	10
+新人新事	uwug	20
+冷冽	uwug	10
 冷冰	uwui	10
 关停并转	uwul	10
 准将	uwuq	10
@@ -103606,7 +103615,6 @@ encoder:
 㢑	ywyf	10	ywyf
 认证	ywyg	40
 论证	ywyg	30
-论语	ywyg	20
 誰	ywyg	10	ywyg
 夜店	ywyh	10
 文化课	ywyj	10
