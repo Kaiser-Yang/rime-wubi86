@@ -198,7 +198,7 @@ encoder:
 五月	gg	20
 五行	gg	10
 下面	gh	20
-下班	gh	30
+下班	gh	10
 还是	gi	20
 还会	gi	10
 理解	gj	20
@@ -435,7 +435,6 @@ encoder:
 批评	rx	20
 批判	rx	10
 李子	sb	20
-李白	sb	10
 极端	se	20
 极其	se	10
 村民	sf	20
