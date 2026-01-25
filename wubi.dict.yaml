@@ -6168,7 +6168,6 @@ encoder:
 阵式	blaa	10
 阵营	blap	10
 阵子	blbb	20
-孟子	blbb	10
 阵阵	blbl	10
 隈隩	blbt	10
 孟夏	bldh	10
@@ -6414,7 +6413,6 @@ encoder:
 出言	bmyy	10
 也	bn	30	bnhn
 阿司匹林	bnas	10
-孔子	bnbb	10
 孔隙	bnbi	10
 孔孟	bnbl	10
 了了	bnbn	10
@@ -6470,7 +6468,6 @@ encoder:
 ⺋	bnn	10	bnn
 也敢	bnnb	10
 也怪	bnnc	10
-孔乙己	bnnn	30
 也已	bnnn	10
 也以	bnny	10
 了断	bnon	10
@@ -6481,12 +6478,10 @@ encoder:
 了之	bnpp	10
 子丑寅卯	bnpq	10
 也被	bnpu	10
-孙悟空	bnpw	10
 了然	bnqd	20
 孑然	bnqd	10
 了解	bnqe	10
 也够	bnqk	10
-孔丘	bnrg	10
 也看	bnrh	10
 也挺	bnrt	10
 随心所欲	bnrw	10
@@ -49819,7 +49814,6 @@ encoder:
 怪相	ncsh	10
 怪杰	ncso	10
 怪样	ncsu	10
-司马迁	nctf	10
 惨重	nctg	10
 怡和	nctk	10
 怪物	nctr	10
@@ -65390,7 +65384,6 @@ encoder:
 挥霍一空	rfgp	10
 持平	rfgu	50
 返老还童	rfgu	40
-朱元璋	rfgu	30
 抚平	rfgu	20
 反老还童	rfgu	10
 质素	rfgx	10
