@@ -6483,6 +6483,7 @@ encoder:
 孙悟空	bnpw	10
 了然	bnqd	20
 孑然	bnqd	10
+了解	bnqe	10
 也够	bnqk	10
 孔丘	bnrg	10
 也看	bnrh	10
@@ -6515,6 +6516,7 @@ encoder:
 也像	bnwq	10
 孔位	bnwu	10
 䦼	bnwy	10	bnwy
+了结	bnxf	10
 也给	bnxw	10
 也比	bnxx	10
 恥	bny	10	bny
@@ -11673,6 +11675,7 @@ encoder:
 有眼无珠	dhfg	10
 在朝	dhfj	10
 破击	dhfm	10
+在场	dhfn	10
 破壳	dhfp	10
 丰都	dhft	20
 酆都	dhft	10
@@ -11680,6 +11683,7 @@ encoder:
 砋	dhg	10	dhg
 夏至	dhgc	10
 夏天	dhgd	10
+在于	dhgf	10
 百战不殆	dhgg	20
 破五	dhgg	10
 在下	dhgh	10
@@ -49609,6 +49613,7 @@ encoder:
 敃	naty	10	naty
 民瘼	naua	10
 殿前	naue	10
+民间	nauj	30
 惬意	nauj	20
 民意	nauj	10
 臀部	nauk	10
@@ -49660,6 +49665,7 @@ encoder:
 民变	nayo	10
 以攻为守	nayp	10
 民诉	nayr	10
+民族	nayt	20
 异族	nayt	10
 民谚	nayu	20
 异说	nayu	10
@@ -59868,7 +59874,6 @@ encoder:
 䥊	qgmy	10	qgmy
 鲺	qgn	10	qgnj
 铺展	qgna	10
-鲁迅	qgnf	20
 鳚	qgnf	10	qgnf
 鲜蛋	qgnh	10
 鳞屑	qgni	10
@@ -67973,6 +67978,7 @@ encoder:
 换成	rqdn	10
 撚	rqdo	10	rqdo
 抵达	rqdp	10
+的确	rqdq	10
 气象万千	rqdt	10
 捣碎	rqdy	20
 擔	rqdy	10	rqdy
@@ -67987,6 +67993,7 @@ encoder:
 鬼脸	rqew	10
 鬼魂	rqfc	10
 鬼城	rqfd	10
+的士	rqfg	10
 抱起	rqfh	10
 挽救	rqfi	10
 欣喜	rqfk	20
@@ -78363,6 +78370,7 @@ encoder:
 各不	tkgi	10
 赞叹不已	tkgn	10
 籔	tkgt	10	tkgt
+和平	tkgu	10
 簍	tkgv	10	tkgv
 矢口否认	tkgy	10
 种	tkh	10	tkhh
@@ -78530,6 +78538,7 @@ encoder:
 各族	tkyt	20
 禹州	tkyt	10
 和谁	tkyw	10
+和谐	tkyx	10
 各方	tkyy	10
 务	tl	30	tlb
 第四节	tlab	10
@@ -80203,6 +80212,7 @@ encoder:
 徆	tsg	10	tsg
 条形	tsga	10
 奥格瑞玛	tsgg	10
+稀松平常	tsgi	10
 条理	tsgj	10
 自相残杀	tsgq	10
 香榭丽舍	tsgw	10
