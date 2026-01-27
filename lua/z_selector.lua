@@ -23,13 +23,13 @@ local function z_selector(key_event, env)
     local context = env.engine.context
     local input = context.input
     local is_number = key_event.keycode >= 48 and key_event.keycode <= 57
-    if (not input or #input == 0) and is_number then
+    local is_minus = key_event.keycode == 45
+    local is_plus = key_event.keycode == 43
+    if (not input or #input == 0) and (is_number or is_minus or is_plus) then
         env.engine:commit_text(string.char(key_event.keycode))
         return accept
     end
     if not input or #input == 0 then return pass_to_next end
-    local is_minus = key_event.keycode == 45
-    local is_plus = key_event.keycode == 43
     if is_number or is_minus or is_plus then
         for _, key in pairs(SpecialFunctionToKey) do
             if input:match('^' .. key) then
