@@ -20924,6 +20924,7 @@ encoder:
 过家家	fppe	10
 过完	fppf	10
 未定之天	fppg	10
+过审	fppj	10
 十字军	fppl	10
 丧家之狗	fppq	10
 过客	fppt	10
@@ -45164,6 +45165,7 @@ encoder:
 回调	lkym	30
 架设	lkym	20
 加高	lkym	10
+加词	lkyn	40
 贺词	lkyn	30
 回望	lkyn	20
 圆房	lkyn	10
@@ -57554,9 +57556,9 @@ encoder:
 实像	puwq	10
 襷	puwr	10	puwr
 实体	puws	50
-褓	puws	40	puws
-裸体	puws	30
-补休	puws	20
+裸体	puws	40
+补休	puws	30
+褓	puws	20	puws
 襍	puws	10	puws
 初八	puwt	10
 补位	puwu	20
@@ -92055,6 +92057,7 @@ encoder:
 仙草	wmaj	10
 僼	wmau	10	wmau
 倎	wmaw	10	wmaw
+人贩子	wmbb	20
 仙子	wmbb	10
 侧耳	wmbg	10
 登山队	wmbw	10
@@ -100437,7 +100440,8 @@ encoder:
 誤	ykgd	10	ykgd
 衰	ykge	10	ykge
 襄理	ykgj	10
-误事	ykgk	10
+误事	ykgk	20
+鹰嘴豆	ykgk	10
 谴责	ykgm	10
 㲤	ykgn	10	ykgn
 调嘴弄舌	ykgt	10
