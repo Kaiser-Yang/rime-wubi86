@@ -55891,6 +55891,7 @@ encoder:
 富实	pgpu	10
 宝安	pgpv	20
 定案	pgpv	10
+定容	pgpw	20
 神不守舍	pgpw	10
 定神	pgpy	10
 写错	pgqa	10
@@ -91034,6 +91035,7 @@ encoder:
 食不果腹	wgje	10
 登时	wgjf	20
 傳	wgjf	10	wgjf
+全量	wgjg	50
 倒是	wgjg	40
 命题	wgjg	30
 便是	wgjg	20
