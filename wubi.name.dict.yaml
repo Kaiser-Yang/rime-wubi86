@@ -21,6 +21,21 @@ encoder:
     - length_in_range: [4, 90]
       formula: AaBaCaZa
 ...
+聂卫平	bbgu	0
+孟子	blbb	0
+陀思妥耶夫斯基	blea	0
+孔子	bnbb	0
+孔乙己	bnnn	0
+孙悟空	bnpw	0
+孔丘	bnrg	0
+邓小平	cigu	0
+老子	ftbb	0
+列夫·托尔斯泰	gfrd	0
+柴可夫斯基	hsfa	0
+亚里士多德	jftl	0
+哈利·波特	ktit	0
+加缪	lkxn	0
+周恩来	mlgo	0
 聂卫平	nbbgu	10
 孟子	nblbb	10
 陀思妥耶夫斯基	nblea	10
@@ -29,8 +44,16 @@ encoder:
 孙悟空	nbnpw	10
 孔丘	nbnrg	10
 邓小平	ncigu	10
+司马迁	nctf	0
+尼古拉·阿列克谢耶维奇·奥斯特洛夫斯基	ndra	0
+尼古拉斯·凯奇	ndrd	0
 老子	nftbb	30
+列夫·托尔斯泰	ngfrd	30
+柴可夫斯基	nhsfa	10
+亚里士多德	njftl	30
+屠呦呦	nkkx	0
 哈利·波特	nktit	20
+加缪	nlkxn	10
 周恩来	nmlgo	10
 司马迁	nnctf	10
 尼古拉·阿列克谢耶维奇·奥斯特洛夫斯基	nndra	20
@@ -45,3 +68,12 @@ encoder:
 李慎之	nsnpp	10
 毛泽东	ntiai	10
 刘慈欣	nyurq	10
+安娜	pvvv	0
+鲁迅	qgnf	0
+朱元璋	rfgu	0
+李耳	sbbg	0
+李白	sbrr	0
+杨幂	snpj	0
+李慎之	snpp	0
+毛泽东	tiai	0
+刘慈欣	yurq	0

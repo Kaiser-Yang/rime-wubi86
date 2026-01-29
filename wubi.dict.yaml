@@ -24458,8 +24458,8 @@ encoder:
 一般	ggte	30
 一盘	ggte	20
 一艘	ggte	10
-一千	ggtf	60
-一行	ggtf	50
+一行	ggtf	60
+一千	ggtf	50
 五毛	ggtf	30
 五千	ggtf	20
 一等	ggtf	10
@@ -32840,8 +32840,8 @@ encoder:
 潜水艇	iite	20
 沙盘	iite	10
 沾沾自喜	iitf	10
-鲨	iitg	20	iitg
-小学生	iitg	10
+小学生	iitg	20
+鲨	iitg	10	iitg
 消息	iith	30
 渻	iith	20	iith
 㸺	iith	10	iith
@@ -37535,6 +37535,7 @@ encoder:
 昊	jgd	10	jgdu
 师友	jgdc	10
 师大	jgdd	10
+是非	jgdj	10
 晤面	jgdm	10
 旺盛	jgdn	10
 日理万机	jgds	10
@@ -39022,7 +39023,6 @@ encoder:
 星形	jtga	20
 䗗	jtga	10	jtga
 临到	jtgc	10
-昨天	jtgd	10
 日程表	jtge	10
 鉴于	jtgf	30
 星球	jtgf	20
@@ -45149,7 +45149,6 @@ encoder:
 回绕	lkxa	10
 架线	lkxg	10
 加纳	lkxm	10
-加缪	lkxn	10
 回绝	lkxq	10
 圆弧	lkxr	10
 回乡	lkxt	10
@@ -93252,6 +93251,7 @@ encoder:
 途中	wtkh	30
 八路	wtkh	20
 作践	wtkh	10
+作品	wtkk	20
 伤口	wtkk	10
 作别	wtkl	20
 叙别	wtkl	10
