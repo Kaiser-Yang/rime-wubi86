@@ -264,32 +264,38 @@ local function get_month_sameday(is_next)
     return offset_days
 end
 
-local symbol_len = #SpecialFunctionToKey.time
+local normal_symbol_len = 4
 -- TODO: support fdate3m to get date after 3 months
 --- @param input string
 local function str_to_datetime(input, seg)
-    if not input or #input < symbol_len then return end
-    local symbol = input:sub(1, symbol_len)
+    if not input or #input < normal_symbol_len then return end
+    local symbol = input:sub(1, normal_symbol_len)
+    if
+        #input > normal_symbol_len
+        and input:sub(normal_symbol_len + 1, normal_symbol_len + 1) == 'f'
+    then
+        symbol = symbol .. 'f'
+    end
     local number = nil
-    if #input > symbol_len then number = input:sub(symbol_len + 1):match('^[+-]?%d+') end
+    if #input > #symbol then number = input:sub(#symbol + 1):match('^[+-]?%d+') end
     local unit = nil
     if number == nil then
-        if #input == symbol_len + 1 then
-            unit = input:sub(symbol_len + 1, symbol_len + 1)
-        elseif #input > symbol_len then
+        if #input == #symbol + 1 then
+            unit = input:sub(#symbol + 1, #symbol + 1)
+        elseif #input > #symbol then
             return
         end
-    elseif symbol_len + #number + 1 == #input then
+    elseif #symbol + #number + 1 == #input then
         unit = input:sub(#input, #input)
     end
-    local parsed_len = symbol_len + (number and #number or 0) + (unit and #unit or 0)
+    local parsed_len = #symbol + (number and #number or 0) + (unit and #unit or 0)
     if parsed_len ~= #input then return end
 
-    if symbol == SpecialFunctionToKey.time then
+    if symbol:match(SpecialFunctionToKey.time) then
         get_time(symbol, seg)
-    elseif symbol == SpecialFunctionToKey.date then
+    elseif symbol:match(SpecialFunctionToKey.date) then
         get_date(symbol, seg, number and tonumber(number) or 0)
-    elseif symbol == SpecialFunctionToKey.dati then
+    elseif symbol:match(SpecialFunctionToKey.dati) then
         get_date_time(symbol, seg, number and tonumber(number) or 0)
     end
 end

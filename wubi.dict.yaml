@@ -20924,6 +20924,7 @@ encoder:
 过家家	fppe	10
 过完	fppf	10
 未定之天	fppg	10
+过审	fppj	10
 十字军	fppl	10
 丧家之狗	fppq	10
 过客	fppt	10
@@ -24457,8 +24458,8 @@ encoder:
 一般	ggte	30
 一盘	ggte	20
 一艘	ggte	10
-一千	ggtf	60
-一行	ggtf	50
+一行	ggtf	60
+一千	ggtf	50
 五毛	ggtf	30
 五千	ggtf	20
 一等	ggtf	10
@@ -32839,8 +32840,8 @@ encoder:
 潜水艇	iite	20
 沙盘	iite	10
 沾沾自喜	iitf	10
-鲨	iitg	20	iitg
-小学生	iitg	10
+小学生	iitg	20
+鲨	iitg	10	iitg
 消息	iith	30
 渻	iith	20	iith
 㸺	iith	10	iith
@@ -37534,6 +37535,7 @@ encoder:
 昊	jgd	10	jgdu
 师友	jgdc	10
 师大	jgdd	10
+是非	jgdj	10
 晤面	jgdm	10
 旺盛	jgdn	10
 日理万机	jgds	10
@@ -39021,7 +39023,6 @@ encoder:
 星形	jtga	20
 䗗	jtga	10	jtga
 临到	jtgc	10
-昨天	jtgd	10
 日程表	jtge	10
 鉴于	jtgf	30
 星球	jtgf	20
@@ -45148,7 +45149,6 @@ encoder:
 回绕	lkxa	10
 架线	lkxg	10
 加纳	lkxm	10
-加缪	lkxn	10
 回绝	lkxq	10
 圆弧	lkxr	10
 回乡	lkxt	10
@@ -45164,6 +45164,7 @@ encoder:
 回调	lkym	30
 架设	lkym	20
 加高	lkym	10
+加词	lkyn	40
 贺词	lkyn	30
 回望	lkyn	20
 圆房	lkyn	10
@@ -55889,6 +55890,7 @@ encoder:
 富实	pgpu	10
 宝安	pgpv	20
 定案	pgpv	10
+定容	pgpw	20
 神不守舍	pgpw	10
 定神	pgpy	10
 写错	pgqa	10
@@ -57554,9 +57556,9 @@ encoder:
 实像	puwq	10
 襷	puwr	10	puwr
 实体	puws	50
-褓	puws	40	puws
-裸体	puws	30
-补休	puws	20
+裸体	puws	40
+补休	puws	30
+褓	puws	20	puws
 襍	puws	10	puws
 初八	puwt	10
 补位	puwu	20
@@ -91032,6 +91034,7 @@ encoder:
 食不果腹	wgje	10
 登时	wgjf	20
 傳	wgjf	10	wgjf
+全量	wgjg	50
 倒是	wgjg	40
 命题	wgjg	30
 便是	wgjg	20
@@ -92055,6 +92058,7 @@ encoder:
 仙草	wmaj	10
 僼	wmau	10	wmau
 倎	wmaw	10	wmaw
+人贩子	wmbb	20
 仙子	wmbb	10
 侧耳	wmbg	10
 登山队	wmbw	10
@@ -93247,6 +93251,7 @@ encoder:
 途中	wtkh	30
 八路	wtkh	20
 作践	wtkh	10
+作品	wtkk	20
 伤口	wtkk	10
 作别	wtkl	20
 叙别	wtkl	10
@@ -100437,7 +100442,8 @@ encoder:
 誤	ykgd	10	ykgd
 衰	ykge	10	ykge
 襄理	ykgj	10
-误事	ykgk	10
+误事	ykgk	20
+鹰嘴豆	ykgk	10
 谴责	ykgm	10
 㲤	ykgn	10	ykgn
 调嘴弄舌	ykgt	10
