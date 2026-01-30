@@ -145,6 +145,7 @@ encoder:
 克隆	dq	20
 原因	dr	20
 原来	dr	10
+帮助	dt	20
 太阳	dy	20
 太子	dy	10
 服务	eb	20
@@ -209,8 +210,8 @@ encoder:
 现实	gm	10
 与其	gn	20
 与会	gn	10
-来源	go	20
-来自	go	10
+来自	go	20
+来源	go	10
 列表	gq	20
 列举	gq	10
 玫瑰	gt	20
