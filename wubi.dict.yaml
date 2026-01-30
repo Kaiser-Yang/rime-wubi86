@@ -13802,7 +13802,7 @@ encoder:
 奇诡	dsyq	10
 大概率	dsyx	10
 奇文	dsyy	10
-帮	dt	20	dtbh
+帮	dt	30	dtbh
 帮工	dtaa	10
 万向节	dtab	10
 䂫	dtah	10	dtah
@@ -25903,6 +25903,7 @@ encoder:
 整机	gksm	10
 噩梦	gkss	10
 带枪	gksw	10
+整行	gktf	30
 事先	gktf	20
 吾等	gktf	10
 吾生	gktg	10
@@ -57953,8 +57954,9 @@ encoder:
 空中	pwkh	40
 䆔	pwkh	20	pwkh
 䆗	pwkh	10	pwkh
-窗口	pwkk	30
-容器	pwkk	20
+窗口	pwkk	40
+容器	pwkk	30
+空串	pwkk	20
 空口	pwkk	10
 安全员	pwkm	20
 䆬	pwkm	10	pwkm
@@ -62411,6 +62413,7 @@ encoder:
 锦西	qrsg	10
 铁棍	qrsj	10
 铁栅	qrsm	10
+触摸板	qrsr	30
 铁板	qrsr	20
 炙手可热	qrsr	10
 铁桥	qrst	10

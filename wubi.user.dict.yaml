@@ -8,6 +8,7 @@ sort: by_weight
 import_tables:
   - wubi
   - wubi.book
+  - wubi.information
   - wubi.long
   - wubi.name
   - wubi.extended
