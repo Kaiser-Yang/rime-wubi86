@@ -10062,6 +10062,7 @@ encoder:
 大志	ddfn	20
 厉声	ddfn	10
 大赦	ddfo	10
+套壳	ddfp	20
 大过	ddfp	10
 大元	ddfq	10
 大都	ddft	40
@@ -10966,6 +10967,7 @@ encoder:
 奈叶	dfkf	20
 㕑	dfkf	10	dfkf
 硈	dfkg	10	dfkg
+原地踏步	dfkh	20
 奔跑	dfkh	10
 辱骂	dfkk	30
 夸口	dfkk	20
@@ -41667,6 +41669,7 @@ encoder:
 㖂	kjnt	10	kjnt
 喝完	kjpf	10
 喝	kjq	10	kjqn
+顺时针	kjqf	20
 唱针	kjqf	10
 唱名	kjqk	10
 喝多	kjqq	10
@@ -56992,6 +56995,7 @@ encoder:
 客人	ptww	20
 被告人	ptww	10
 客货	ptwx	10
+字符集	ptwy	10
 福利费	ptxj	10
 额度	ptya	10
 客店	ptyh	10
@@ -73951,6 +73955,7 @@ encoder:
 桻	stdh	10	stdh
 橋	stdk	20	stdk
 椥	stdk	10	stdk
+标签页	stdm	20
 桥面	stdm	10
 李自成	stdn	10
 槰	stdp	10	stdp
@@ -76796,6 +76801,7 @@ encoder:
 造次	tfuq	20
 行将	tfuq	10
 等闲	tfus	10
+行首	tfut	30
 街道	tfut	20
 德才兼备	tfut	10
 鹄立	tfuu	10
