@@ -5446,6 +5446,7 @@ encoder:
 取笑	bctt	10
 聚头	bcud	10
 取决	bcun	10
+取次	bcuq	10
 娶亲	bcus	10
 聚首	bcut	20
 取道	bcut	10
@@ -20867,9 +20868,9 @@ encoder:
 过眼	fphv	10
 过江	fpia	10
 堰塞湖	fpid	10
-无穷小	fpih	30
-过小	fpih	20
-过滤	fpih	10
+过滤	fpih	30
+无穷小	fpih	20
+过小	fpih	10
 过水	fpii	10
 过堂	fpip	10
 过激	fpir	10
@@ -21276,8 +21277,8 @@ encoder:
 无棣	fqsv	10
 无核	fqsy	10
 无私	fqtc	10
-无敌	fqtd	20
-无知	fqtd	10
+无知	fqtd	20
+无敌	fqtd	10
 远航	fqte	10
 远行	fqtf	20
 均等	fqtf	10
@@ -28348,6 +28349,7 @@ encoder:
 毒枭	gxqy	10
 素描	gxra	10
 素质	gxrf	10
+互搏	gxrg	10
 严纪年	gxrh	10
 毒气	gxrn	10
 互换	gxrq	10
@@ -45811,6 +45813,7 @@ encoder:
 蹔	lrkh	10	lrkh
 加热器	lrkk	10
 暂别	lrkl	10
+畏手畏脚	lrle	20
 轻手轻脚	lrle	10
 䍢	lrlo	10	lrlo
 圆舞曲	lrma	10
@@ -51096,6 +51099,7 @@ encoder:
 㥜	nleg	10	nleg
 以力服人	nlew	10
 㥵	nley	10	nley
+懒加载	nlfa	10
 翼翅	nlfc	10
 懌	nlff	10	nlff
 怬	nlg	10	nlg
@@ -93490,6 +93494,7 @@ encoder:
 侮	wtx	10	wtxu
 途经	wtxc	10
 俄顷	wtxd	10
+优先级	wtxe	20
 八级	wtxe	10
 斜线	wtxg	10
 係	wtxi	10	wtxi
@@ -97930,6 +97935,7 @@ encoder:
 绿坝	xvfm	10
 绿豆	xvgk	10
 绿玉	xvgy	10
+绿皮	xvhc	10
 绿卡	xvhh	30
 彇	xvhh	20	xvhh
 繡	xvhh	10	xvhh
