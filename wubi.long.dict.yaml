@@ -6,20 +6,20 @@ name: wubi.long
 version: "0.1"
 sort: by_weight
 columns:
-  - text
-  - code
-  - weight
-  - stem
+	- text
+	- code
+	- weight
+	- stem
 encoder:
-  exclude_patterns:
-    - ^b.*$
-  rules:
-    - length_equal: 2
-      formula: AaAbBaBb
-    - length_equal: 3
-      formula: AaBaCaCb
-    - length_in_range: [4, 90]
-      formula: AaBaCaZa
+	exclude_patterns:
+		- ^b.*$
+	rules:
+		- length_equal: 2
+			formula: AaAbBaBb
+		- length_equal: 3
+			formula: AaBaCaCb
+		- length_in_range: [4, 90]
+			formula: AaBaCaZa
 ...
 恭敬不如从命	aagw	0
 恭敬不如从命	aagwl	10
