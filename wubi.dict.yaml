@@ -6481,7 +6481,6 @@ encoder:
 也被	bnpu	10
 了然	bnqd	20
 孑然	bnqd	10
-了解	bnqe	10
 也够	bnqk	10
 也看	bnrh	10
 也挺	bnrt	10
@@ -31400,6 +31399,7 @@ encoder:
 湷	idwj	10	idwj
 鸿雁传书	idwn	10
 湖人	idww	30
+深有体会	idww	20
 浹	idww	10	idww
 㳁	idwy	10	idwy
 泷	idx	10	idxn
@@ -32268,6 +32268,7 @@ encoder:
 涉毒	ihgx	10
 小班	ihgy	10
 小眼睛	ihhg	10
+泪目	ihhh	40
 沾上	ihhh	30
 小卡	ihhh	20
 澁	ihhh	10	ihhh
@@ -36204,6 +36205,7 @@ encoder:
 举债	iwwg	20
 瀸	iwwg	10	iwwg
 兴修	iwwh	10
+小伙伴	iwwu	10
 浴盆	iwwv	10
 举人	iwww	10
 兴华	iwwx	10
@@ -55066,6 +55068,7 @@ encoder:
 宽裕	papu	10
 宽容	papw	20
 宽窄	papw	10
+安慕希	paqd	10
 宽解	paqe	10
 宽免	paqk	10
 宽甸	paql	10
@@ -68705,6 +68708,7 @@ encoder:
 打对	rscf	10
 手术台	rsck	10
 打叉	rscy	10
+打码	rsdc	10
 打压	rsdf	10
 打破	rsdh	20
 打在	rsdh	10
