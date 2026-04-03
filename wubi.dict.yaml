@@ -11112,7 +11112,8 @@ encoder:
 研	dga	10	dgah
 非正式	dgaa	10
 三节	dgab	10
-三项	dgad	10
+三项	dgad	20
+三期	dgad	10
 咸菜	dgae	10
 三菱	dgaf	10
 三七	dgag	10
@@ -24060,6 +24061,7 @@ encoder:
 环节	ggab	30
 五一节	ggab	20
 一节	ggab	10
+一期	ggad	30
 王菲	ggad	20
 一项	ggad	10
 环靶	ggaf	20
@@ -64898,6 +64900,7 @@ encoder:
 扠	rcyy	10	rcyy
 拓	rd	10	rdg
 拔节	rdab	10
+排期	rdad	30
 掩藏	rdad	20
 撩惹	rdad	10
 㨊	rdae	10	rdae
