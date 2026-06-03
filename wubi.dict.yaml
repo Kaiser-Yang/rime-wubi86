@@ -9603,7 +9603,7 @@ encoder:
 台州市	cyym	10
 圣诞夜	cyyw	10
 在	d	30	dhfd
-左	da	10	daf
+左	da	30	daf
 泰勒斯	daad	10
 礷	daal	10	daal
 灰蒙蒙	daap	10
@@ -9617,7 +9617,6 @@ encoder:
 百慕大	dadd	10
 砌砖	dadf	10
 砸破	dadh	10
-左右	dadk	10
 磡	dadl	10	dadl
 左面	dadm	10
 碪	dadn	10	dadn
@@ -26577,6 +26576,7 @@ encoder:
 于心不甘	gnga	10
 不屑一顾	gngd	10
 不属于	gngf	10
+事已至此	gngh	10
 与否	gngi	10
 不慌不忙	gngn	10
 不怕死	gngq	10
@@ -32054,7 +32054,8 @@ encoder:
 清官	igpn	10
 清客	igpt	10
 添补	igpu	10
-清空	igpw	20
+清空	igpw	30
+滞空	igpw	20
 清穿	igpw	10
 清福	igpy	10
 洌	igq	10	igqj
@@ -52775,6 +52776,7 @@ encoder:
 心下	nygh	10
 心事	nygk	20
 尽速	nygk	10
+已读不回	nygl	10
 尽责	nygm	10
 以来	nygo	20
 迟来	nygo	10
@@ -68580,6 +68582,7 @@ encoder:
 欣欣向荣	rrta	10
 气垫船	rrte	10
 拆迁	rrtf	30
+折行	rrtf	20
 白毛	rrtf	10
 缺斤短两	rrtg	10
 折算	rrth	20
@@ -91383,6 +91386,7 @@ encoder:
 例如	wgvk	10
 拿刀	wgvn	10
 剑灵	wgvo	10
+傲娇	wgvt	20
 合群	wgvt	10
 侄女	wgvv	30
 倩女	wgvv	20
@@ -102087,6 +102091,7 @@ encoder:
 义卖	yqfn	10
 底墒	yqfu	10
 高尔夫	yqfw	10
+底表	yqge	50
 褏	yqge	40	yqge
 褎	yqge	30	yqge
 裦	yqge	20	yqge
