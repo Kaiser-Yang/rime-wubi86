@@ -43,7 +43,7 @@ local function z_selector(key_event, env)
     local composition = context.composition:back()
     local dest = 9999
     local page_size = env.engine.schema.page_size
-    if is_number then
+    if is_number and is_desktop then
         dest = key_event.keycode - 48
         if dest == 0 then dest = 10 end -- 0 for select the 10-th item
     elseif key_event.keycode == 122 and not input:match('^z') then
@@ -58,9 +58,11 @@ local function z_selector(key_event, env)
         dest = 2
     elseif key_event.keycode == 44 then
         -- ',' is used to go back one page
-        if composition.selected_index >= page_size then
+        if is_desktop and composition.selected_index >= page_size then
             return pass_to_next
-        elseif context:has_menu() and composition.selected_index < page_size then
+        elseif
+            context:has_menu() and (not is_desktop or composition.selected_index < page_size)
+        then
             -- When there is no previous page, we commit the first item with punctuation
             env.engine:commit_text(composition.menu:get_candidate_at(0).text .. '，')
             context:clear()
@@ -68,7 +70,10 @@ local function z_selector(key_event, env)
         end
     elseif key_event.keycode == 46 then
         -- '.' is used to go forward one page
-        if context:has_menu() and composition.menu:candidate_count() < page_size then
+        if
+            context:has_menu()
+            and (not is_desktop or composition.menu:candidate_count() < page_size)
+        then
             -- When there is no next page, we commit the first item with punctuation
             env.engine:commit_text(composition.menu:get_candidate_at(0).text .. '。')
             context:clear()
