@@ -5,20 +5,20 @@ name: wubi
 version: "0.1"
 sort: by_weight
 columns:
-	- text
-	- code
-	- weight
-	- stem
+  - text
+  - code
+  - weight
+  - stem
 encoder:
-	exclude_patterns:
-		- ^z.*$
-	rules:
-		- length_equal: 2
-			formula: AaAbBaBb
-		- length_equal: 3
-			formula: AaBaCaCb
-		- length_in_range: [4, 32]
-			formula: AaBaCaZa
+  exclude_patterns:
+    - ^z.*$
+  rules:
+    - length_equal: 2
+      formula: AaAbBaBb
+    - length_equal: 3
+      formula: AaBaCaCb
+    - length_in_range: [4, 32]
+      formula: AaBaCaZa
 ...
 工	a	30	aaaa
 式	aa	30	aad
