@@ -5475,7 +5475,7 @@ encoder:
 聚变	bcyo	10
 取义	bcyq	10
 聚议	bcyy	10
-承	bd	10	bdii
+承	bd	30	bdii
 隋	bda	10	bdae
 隓	bdaa	10	bdaa
 墮	bdaf	10	bdaf
@@ -40807,8 +40807,8 @@ encoder:
 踌	khdf	30	khdf
 蹰	khdf	20	khdf
 䠑	khdf	10	khdf
-跖	khdg	40	khdg
-嘴硬	khdg	30
+嘴硬	khdg	40
+跖	khdg	30	khdg
 中古	khdg	20
 跍	khdg	10	khdg
 遗存	khdh	30
