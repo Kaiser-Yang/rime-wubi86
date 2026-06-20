@@ -43,7 +43,11 @@ local function z_selector(key_event, env)
     local composition = context.composition:back()
     local dest = 9999
     local page_size = env.engine.schema.page_size
-    if is_number and is_desktop then
+    if is_number then
+        if not is_desktop then
+            context:push_input(string.char(key_event.keycode))
+            return accept
+        end
         dest = key_event.keycode - 48
         if dest == 0 then dest = 10 end -- 0 for select the 10-th item
     elseif key_event.keycode == 122 and not input:match('^z') then
