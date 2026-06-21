@@ -12957,6 +12957,7 @@ encoder:
 成虫	dnjh	10
 成日	dnjj	10
 尴	dnjl	10	dnjl
+成电	dnjn	10
 成果	dnjs	20
 㞅	dnjs	10	dnjs
 㞁	dnjx	10	dnjx
@@ -28359,7 +28360,6 @@ encoder:
 互斥	gxry	10
 一级棒	gxsd	10
 素材	gxsf	10
-互相	gxsh	10
 班组长	gxta	10
 毒舌	gxtd	10
 互生	gxtg	10
@@ -29144,6 +29144,7 @@ encoder:
 睡不着	hgud	10
 战天斗地	hguf	10
 目不交睫	hguh	10
+睡不着觉	hgui	10
 上下交困	hgul	10
 上一次	hguq	10
 睫	hgv	10	hgvh
@@ -91552,6 +91553,7 @@ encoder:
 佀	whnn	10	whnn
 从此以后	whnr	10
 修改	whnt	20
+个性	whnt	10
 修习	whnu	10
 修炼	whoa	10
 企业	whog	10
