@@ -38750,7 +38750,6 @@ encoder:
 蟾宫	jqpk	10
 旦夕祸福	jqpp	10
 旦夕之间	jqpu	10
-晚安	jqpv	10
 歇宿	jqpw	10
 昂然	jqqd	10
 电饭锅	jqqk	20
@@ -47744,6 +47743,7 @@ encoder:
 赐给	mjxw	10
 崑	mjxx	20	mjxx
 崐	mjxx	10	mjxx
+贝叶斯	mkad	10
 风吹草动	mkaf	10
 嶯	mkbt	10	mkbt
 冋	mkd	10	mkd
@@ -65647,6 +65647,7 @@ encoder:
 兵马	rgcn	10
 㨖	rgct	10	rgct
 巵	rgcv	10	rgcv
+后验	rgcw	10
 丘	rgd	10	rgd
 后顾	rgdb	10
 㩑	rgdd	10	rgdd
@@ -82558,6 +82559,7 @@ encoder:
 癧	udth	10	udth
 头破血流	udti	10
 意大利	udtj	10
+卷积	udtk	20
 总面积	udtk	10
 羳	udtl	10	udtl
 差役	udtm	40
