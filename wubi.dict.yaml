@@ -16101,8 +16101,8 @@ encoder:
 膑	epr	10	eprw
 受援	epre	10
 爱抚	eprf	10
-逐年	eprh	20
-爱看	eprh	10
+爱看	eprh	20
+逐年	eprh	10
 受损	eprk	10
 受制	eprm	10
 受气	eprn	10
@@ -36893,6 +36893,7 @@ encoder:
 最快	jbnn	10
 最怕	jbnr	10
 最迟	jbny	10
+电子烟	jbol	10
 冒险家	jbpe	10
 最初	jbpu	10
 最穷	jbpw	10
@@ -48998,6 +48999,7 @@ encoder:
 赠言	muyy	10
 败絮其中	mvak	10
 屶	mvb	10	mvb
+贼娃子	mvbb	10
 峎	mveu	10	mveu
 峍	mvfh	10	mvfh
 风刀霜剑	mvfw	10
@@ -49181,6 +49183,7 @@ encoder:
 肉盾	mwrf	10
 肉搏	mwrg	10
 肉牛	mwrh	10
+赋分制	mwrm	10
 内控	mwrp	10
 内鬼	mwrq	10
 内热	mwrv	20
@@ -62427,6 +62430,7 @@ encoder:
 锦西	qrsg	10
 铁棍	qrsj	10
 铁栅	qrsm	10
+触控板	qrsr	40
 触摸板	qrsr	30
 铁板	qrsr	20
 炙手可热	qrsr	10
@@ -97231,8 +97235,8 @@ encoder:
 缩编	xpxy	10
 综计	xpyf	10
 综评	xpyg	10
-绽放	xpyt	20
-缩放	xpyt	10
+缩放	xpyt	20
+绽放	xpyt	10
 约	xq	30	xqyy
 纸	xqa	10	xqan
 红色警戒	xqaa	10
