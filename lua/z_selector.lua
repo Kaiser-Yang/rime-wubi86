@@ -108,6 +108,9 @@ local function z_selector(key_event, env)
         context:select(composition.selected_index + dest - 1)
         return accept
     elseif dest <= 10 then
+        if key_event.keycode == 59 then
+            env.engine.commit_text(composition.menu:get_candidate_at(0).text .. '；')
+        end
         -- We will input ; when there is no three candidates
         env.engine:commit_text(input .. string.char(key_event.keycode))
         context:clear()
