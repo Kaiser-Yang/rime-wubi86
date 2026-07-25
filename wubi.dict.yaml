@@ -29182,8 +29182,8 @@ encoder:
 上劲	hhca	10
 卡通	hhce	10
 上台	hhck	10
-卡巴	hhcn	20
-上马	hhcn	10
+上马	hhcn	20
+卡巴	hhcn	10
 卡友	hhdc	10
 战战兢兢	hhdd	10
 上有	hhde	10
@@ -36609,6 +36609,7 @@ encoder:
 注资	iyuq	30
 注浆	iyuq	20
 游资	iyuq	10
+泳道	iyut	30
 流产	iyut	20
 㴑	iyut	10	iyut
 浪	iyv	10	iyve
@@ -60335,6 +60336,7 @@ encoder:
 外调	qhym	10
 钟点房	qhyn	10
 钻床	qhys	10
+外放	qhyt	20
 外族	qhyt	10
 外文	qhyy	20
 外方	qhyy	10
@@ -82612,6 +82614,7 @@ encoder:
 羊羔	udug	10
 送站	uduh	10
 療	udui	10	udui
+关单	uduj	30
 善意	uduj	20
 凑单	uduj	10
 状况	uduk	20
@@ -86202,6 +86205,7 @@ encoder:
 瘦了	uvbn	10
 兼通	uvce	10
 閰	uvd	10	uvd
+妆奁	uvda	10
 兼顾	uvdb	10
 兼有	uvde	10
 尊姓大名	uvdq	10
@@ -86246,7 +86250,8 @@ encoder:
 㓎	uvpc	10	uvpc
 美如冠玉	uvpg	10
 兼之	uvpp	10
-兼容	uvpw	10
+兼容	uvpw	20
+妆容	uvpw	10
 阋	uvq	10	uvqv
 歉然	uvqd	10
 痕印	uvqg	10
@@ -87439,8 +87444,8 @@ encoder:
 娠	vdf	10	vdfe
 好大喜功	vdfa	10
 䢅	vdfe	10	vdfe
-㛻	vdff	30	vdff
-媷	vdff	20	vdff
+媷	vdff	30	vdff
+㛻	vdff	20	vdff
 娾	vdff	10	vdff
 姱	vdfn	10	vdfn
 群龙无首	vdfu	10
@@ -95126,6 +95131,7 @@ encoder:
 众望所归	wyrj	10
 领扣	wyrk	10
 领舞	wyrl	10
+停投	wyrm	20
 仿制	wyrm	10
 依据	wyrn	20
 住所	wyrn	10
@@ -96788,6 +96794,7 @@ encoder:
 绢纺	xkxy	10
 强度	xkya	10
 强庄	xkyf	10
+张口就来	xkyg	10
 强记	xkyn	10
 引吭高歌	xkys	10
 细	xl	30	xlg
