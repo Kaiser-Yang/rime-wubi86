@@ -21719,7 +21719,8 @@ encoder:
 都	ftjb	10	ftjb
 䰩	ftjc	20	ftjc
 殾	ftjc	10	ftjc
-都是	ftjg	50
+都是	ftjg	60
+才是	ftjg	50
 老师	ftjg	40
 教师	ftjg	30
 考量	ftjg	20
@@ -90970,6 +90971,7 @@ encoder:
 俌	wgey	20	wgey
 俵	wgey	10	wgey
 亼	wgf	10	wgf
+全域	wgfa	20
 登载	wgfa	10
 倒地	wgfb	10
 命运	wgfc	40
