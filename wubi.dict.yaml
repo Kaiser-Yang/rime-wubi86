@@ -28262,7 +28262,7 @@ encoder:
 与人为善	gwyu	10
 亚健康	gwyv	10
 现代主义	gwyy	10
-互	gx	10	gxgd
+互	gx	30	gxgd
 素菜	gxae	10
 素雅	gxah	10
 毒草	gxaj	10
@@ -29740,6 +29740,7 @@ encoder:
 战果	hkjs	10
 占星	hkjt	10
 点号	hkkg	10
+点踩	hkkh	20
 点距	hkkh	10
 瞣	hkkn	10	hkkn
 战史	hkkq	10
@@ -30207,6 +30208,7 @@ encoder:
 䀪	htfh	10	htfh
 眊	htfn	10	htfn
 睡到	htgc	10
+虎躯一震	htgf	20
 歱	htgf	10	htgf
 睡下	htgh	10
 矄	htgo	10	htgo
@@ -36333,6 +36335,7 @@ encoder:
 浏阳	iybj	10
 流出	iybm	10
 潡	iybt	10	iybt
+深度出价	iybw	10
 灕	iyby	10	iyby
 流	iyc	10	iycq
 游戏	iyca	20
@@ -44159,6 +44162,7 @@ encoder:
 黯然	lfqd	20
 默然	lfqd	10
 转角	lfqe	10
+转钱	lfqg	50
 转印	lfqg	40
 黑钱	lfqg	30
 墨鱼	lfqg	20
@@ -54106,6 +54110,7 @@ encoder:
 火器	ookk	10
 烽火四起	oolf	10
 火车	oolg	10
+火焰图	oolt	20
 火力	oolt	10
 火圈	oolu	10
 火轮	oolw	10
@@ -56572,6 +56577,7 @@ encoder:
 之夏	ppdh	10
 宽宏大量	ppdj	20
 之辈	ppdj	10
+𰻞𰻞面	ppdm	10
 之春	ppdw	10
 宽宏大度	ppdy	10
 之爱	ppep	10
@@ -66538,6 +66544,7 @@ encoder:
 提及	rjey	10
 捏	rjf	20	rjfg
 揭去	rjfc	10
+提需	rjfd	10
 披星戴月	rjfe	10
 提款	rjff	10
 兵临城下	rjfg	30
@@ -70706,7 +70713,8 @@ encoder:
 抗体	ryws	10
 摔伤	rywt	10
 邀人	ryww	10
-反腐倡廉	rywy	30
+护食	rywy	30
+反腐倡廉	rywy	20
 护住	rywy	10
 摔	ryx	10	ryxf
 撁	ryxh	10	ryxh
@@ -73116,6 +73124,7 @@ encoder:
 欈	smwk	10	smwk
 㰎	smwm	10	smwm
 梣	smwn	10	smwn
+顶风作案	smwp	10
 机件	smwr	10
 机体	smws	10
 机位	smwu	10
@@ -77136,9 +77145,10 @@ encoder:
 䈪	tgkh	10	tgkh
 䇿	tgki	10	tgki
 重唱	tgkj	10
+重口	tgkk	40
 处理器	tgkk	30
-管理器	tgkk	20
-生殖器	tgkk	10
+生殖器	tgkk	20
+管理器	tgkk	10
 稫	tgkl	20	tgkl
 䈏	tgkl	10	tgkl
 管理员	tgkm	40
@@ -90968,6 +90978,7 @@ encoder:
 俌	wgey	20	wgey
 俵	wgey	10	wgey
 亼	wgf	10	wgf
+全域	wgfa	20
 登载	wgfa	10
 倒地	wgfb	10
 命运	wgfc	40
@@ -92108,6 +92119,7 @@ encoder:
 仙石	wmdg	10
 偳	wmdj	10	wmdj
 侧面	wmdm	10
+佩奇	wmds	10
 佒	wmdy	10	wmdy
 佩服	wmeb	10
 催肥	wmec	10
@@ -96461,8 +96473,8 @@ encoder:
 繉	xhiq	10	xhiq
 引河	xhis	10
 緲	xhit	10	xhit
-引渡	xhiy	20
-引流	xhiy	10
+引流	xhiy	20
+引渡	xhiy	10
 绰	xhj	10	xhjh
 引申	xhjh	30
 綽	xhjh	10	xhjh
